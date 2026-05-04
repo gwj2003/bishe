@@ -1,0 +1,4 @@
+SOURCE_TITLE: Synthesis, distribution, and levels of an egg lipoprotein from the apple snail Pomacea canaliculata (Mollusca: Gastropoda).
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qMHicBFkFedSTxn5n6FGZDOpIqU7zTdtVerk8bgJrKhzwTmvuNZkaYdvRjwNaA9x_i4scADZoHFu4jZXrGmKte-HeuQM3ibl0om3eu_mw_notHy5S9jNRneb-EYu4chlVqL-EQcv7lnaEZVtuabKB4Gu4MuJ_gDTIXI7Oyl1pwp7RGrdTyjnY4&uniplatform=NZKPT&language=CHS
+
+The site of synthesis of mollusc lipoproteins is hitherto unknown and was investigated for perivitellin 2 (PV2), an egg lipoprotein found in the freshwater snail Pomacea canaliculata. Tissues (albumen gland, gonad-digestive gland complex, and muscle) from vitellogenic females were incubated in vitro with 14C-leucine at 25 degrees C for 12 hr. At the end of incubation, soluble proteins from tissue homogenates and medium were analyzed for de novo protein...

@@ -1,0 +1,4 @@
+SOURCE_TITLE: First identification of Angiostrongylus spp. in Lissachatina fulica and Cornu aspersum in Antioquia, Colombia.
+URL: https://kns.cnki.net/kcms2/article/abstract?v=iO0L29morZkzIwwrQJMVi5W3VQLd7POl9tH0pGk46Ob5pCvpdKNyuAGZ9Fcmf4f33PxfhXX4_gr62XJzb6nCCGVVfDW673gfNZj-Dnpd49t25rxqIVsnGNyxBmsLd2zFxFwDXN68LMmZzNb5bwHoSNiaPQvciZIn8N0b95V7tQXGRpbpHa09Md7YboAafPe25L5iXJCDv9hR8k8hBHRyUg==&uniplatform=NZKPT&language=CHS
+
+INTRODUCTION(#br) Abdominal and neural angiostrongyliasis caused by Angiostrongylus costaricensis and A. cantonensis, respectively, are zoonotic diseases involving snails as intermediate hosts. Colombia has already reported human cases, and the increasing distribution of Lissachatina fulica and Cornu aspersum raises public health concerns due to the potential risk of disease transmission in areas where parasites and hosts coexist. (#br)OBJECTIVE(#br) T...

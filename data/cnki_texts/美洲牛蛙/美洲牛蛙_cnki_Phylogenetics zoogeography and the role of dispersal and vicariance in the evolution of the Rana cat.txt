@@ -1,0 +1,4 @@
+SOURCE_TITLE: Phylogenetics, zoogeography, and the role of dispersal and vicariance in the evolution of the Rana catesbeiana (Anura: Ranidae) species group
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q1EhPpdMUVWYJMBG0n2cd8HT9nJcLKV-P2SHQ35qDE4qS-wlf6BBkIU89JyhVVO6j1SRuuWVR50QiYcRtLiQgu-GEkfeE8xOklIXC-kNnDl4rfoeiy58qF_93mXfECB-vwiwEetSem2r49cvkihPnQ19P5F2wLnOj7kHppgrjQqA==&uniplatform=NZKPT&language=CHS
+
+The Rana catesbeiana species group consists of seven species, each variously distributed across eastern North America. We estimated the evolutionary relationships among 31 exemplars and used the phylogenetic hypothesis to examine the potential modes of speciation and relative role of dispersal in the evolution and zoogeography of this species group. Phylogenetic relationships based on 1554 combined base pairs of the cytochrome b and ND2 mitochondrial g...

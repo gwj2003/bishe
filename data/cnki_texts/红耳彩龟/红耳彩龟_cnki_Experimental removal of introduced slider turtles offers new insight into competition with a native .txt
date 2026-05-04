@@ -1,0 +1,4 @@
+SOURCE_TITLE: Experimental removal of introduced slider turtles offers new insight into competition with a native, threatened turtle.
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rD9RJL8Z7wxgQ3oBJwVf2w0W8LMRQo5r7dm1FDJjvKSMUH_-_BbTds2V_cAufH65f1bqHLAbmr_rnt14QE1dS6yo6G0Uv0NEqSgjrES9ay8yL5gSdnSEOHbq-OYyqViFWdMzusv_sVJEPElna45OgvJ_oTPEqOqB_j-f-ija3vacvPL3dISgE2xqJoh3Wm3h4E5e0LVKyghg==&uniplatform=NZKPT&language=CHS
+
+The red-eared slider turtle ( Trachemys scripta elegans ; RES) is often considered one of the world's most invasive species. Results from laboratory and mesocosm experiments suggest that introduced RES outcompete native turtles for key ecological resources, but such experiments can overestimate the strength of competition. We report on the first field experiment with a wild turtle community, involving introduced RES and a declining native species of co...

@@ -1,0 +1,4 @@
+SOURCE_TITLE: 入侵移栽稻田的福寿螺卵块空间分布型及其抽样技术
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r6tGdSLW7nutjkZxbA-U5x0QxHXCZq9ZRQOfORnVh7DuXFdFyUGVw06zslq4SWo3KK9Q8CgMX8oB3qo-JDoFPzyRTwi6Ue2ezPSYVA5y7O4i5p_K3CFFjex9WXB14gs2xHrrdqJUoSqen_LJ4IaaVou8XOGAUluQ-KV6wT0Ws9zw==&uniplatform=NZKPT&language=CHS
+
+福寿螺Pomacea canaliculata Lamarck是重要外来入侵有害生物,严重危害水稻苗期至分蘖期的秧苗植株。为明确福寿螺在水稻田的空间分布,以1、4丛水稻为取样单位(样方)调查了14块移栽稻、每块田300个样方的福寿螺卵块密度,并利用聚集度指标法、Taylor幂法则和Iwao的M*-m回归法进行分析。结果表明,移栽稻田中的福寿螺卵块主要呈聚集分布,部分田块呈随机或均匀分布。根据福寿螺卵块的分布型,通过计算抽样时间和抽样准确率的关系、不同样方和误差条件下的理论抽样数,确定以准确估计田间卵块密度为目标的最佳抽样方法,以横(行)向平行线跳跃法间隔30～45行调查1行,共调查6行90个4丛水稻样方,即两人以常规速度按上述方法取样18min以上,可达85%以上的取样准确率。

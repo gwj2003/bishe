@@ -1,0 +1,4 @@
+SOURCE_TITLE: Using ensemble forecasting to examine how climate change promotes worldwide invasion of the golden apple snail (Pomacea canaliculata).
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oksoKYqgwvijNCxyMCgaRXHJMpp-nIOWphOpmFTyQ57i-PUGldx1cp-ZHJwT5Nd5EHPhAUpiTMfF8ycric_iYTqdJXafw-aRi2YPXfR9qLrpWyWEWR5lgXjcNPpMlgkGHNwY5TOca3Bf8XbmmGfDdP9zF0BqTJf6ItlcFplzBtejduFsGJJ47kcuV2HGcKHCvvtk1_RD2C2A==&uniplatform=NZKPT&language=CHS
+
+The golden apple snail, Pomacea canaliculata, is one of the world's 100 most notorious invasive alien species. Knowledge about the critical climate variables that limit the global distribution range of the snail, as well as predictions of future species distributions under climate change, is very helpful for management of snail. In this study, the climatically suitable habitats for this kind of snail under current climate conditions were modeled by bio...

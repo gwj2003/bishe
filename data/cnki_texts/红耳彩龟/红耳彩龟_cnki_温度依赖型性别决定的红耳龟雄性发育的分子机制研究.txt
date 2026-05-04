@@ -1,0 +1,4 @@
+SOURCE_TITLE: 温度依赖型性别决定的红耳龟雄性发育的分子机制研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r3FOJwHdo0xTklKfAXaFMVBsyTSAbHFko435R4-3QV6DQ3rT0DzM58MayphzHPPQ9JUZjDl1RY4p17EqPbAiqT4mhVKk_GmsD1ruul4eMnf1QATYvEfAAB32T-cGRFbpfAz8cZoF2YfAG-AAdRf1liOlr3i0ogZxNuEbQMPRUjLO_OGak2XxAH&uniplatform=NZKPT&language=CHS
+
+脊椎动物具有多样的性别决定模式,这些机制通常被归类为基因型性别决定（Genotypic sex determination,GSD）与环境依赖型性别决定（Environment-dependent sex determination,ESD）。在ESD中,以温度依赖型性别决定（Temperature-dependent sex determination,TSD）最为典型,其特征在于后代性别的确定并非由合子的基因型所决定,而是受到胚胎或幼体发育阶段所经历的环境温度的显著影响。这种现象在龟、鳄鱼和蜥蜴等爬行动物中尤为普遍。尽管人类对TSD的研究已持续了半个世纪,但其分子机制依然不清楚。近年来有研究指出,在红耳龟（Trachemys scripta elegans）的性别决定过程中,高温条件促进了龟性腺体细胞内Ca2+的内流,并通过磷酸化和表观遗传等途径,引导性腺向卵巢方向发育。虽然该研究并没有明确回答TSD胚胎性腺细胞如何感知温度,但是将TSD温度敏感机制的研究最终聚焦于温度信号如何转变为胞内钙信号。基于此,本研究选取了典型的TSD I型物种——红耳龟作为研究对象,运...

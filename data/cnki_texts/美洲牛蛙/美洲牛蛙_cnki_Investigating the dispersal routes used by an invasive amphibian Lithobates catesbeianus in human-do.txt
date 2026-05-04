@@ -1,0 +1,4 @@
+SOURCE_TITLE: Investigating the dispersal routes used by an invasive amphibian, Lithobates catesbeianus, in human-dominated landscapes
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pZwx1wi82QHKCfkVJO_KW9o2ZaSea4X1Z4ypaYvgkLz2P_BjqcOEMQipKlAmKIAQwPvhtHTJmKGgYXrUr1fIk_hZkycBU5LaAtcEqNqR6dITnmxbrFsbAcPdUKSGN9YJGLFMrm5l_F5HjWOivHnkjC_Bsh-wqSf0Bk_iGEfm3hcQ==&uniplatform=NZKPT&language=CHS
+
+Abstract:Clarifying how species move across and utilize human-modified landscapes is key to the conservation of declining populations, as well as to the management and control of invasive species. The North American bullfrog (<Emphasis Type="Italic">Lithobates catesbeianus</Emphasis>) is a globally distributed invasive amphibian that has been implicated in the decline of native amphibians across its invasive range and may also act a...

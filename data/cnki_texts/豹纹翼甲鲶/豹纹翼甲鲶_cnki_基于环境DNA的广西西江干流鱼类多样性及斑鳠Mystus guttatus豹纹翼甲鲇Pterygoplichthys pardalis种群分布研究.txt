@@ -1,0 +1,4 @@
+SOURCE_TITLE: 基于环境DNA的广西西江干流鱼类多样性及斑鳠（Mystus guttatus）、豹纹翼甲鲇（Pterygoplichthys pardalis）种群分布研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pYiXkV6hGu9zwVWxnQ5bkEEFgU5h3sPKqBas34ZLxQIgawCtfsLnf6ZJ3n2lZhFmlDG4H5pktUg9Y-5VD7aU4C0-P3PEKyNDQTuI3UBSr4g5arhc-LeTE5Ds7PgCEAAn7jJYxQ2LaQBxyRpAwXZo1B0Sqp5ZI8_W7sy2FwfcU-DPQEMPOWRuJJ&uniplatform=NZKPT&language=CHS
+
+本研究基于环境DNA技术,系统解析西江干流鱼类资源的多样性特征及其生态驱动机制。2022—2023年四个季节在西江干流22个采样点进行水样采样,利用eDNA宏条形码技术,结合Mi Fish-U引物扩增与高通量测序,全面评估鱼类物种组成、多样性及优势种的时空动态变化。为进一步探究鱼类群落的生态功能,本研究选取涉及摄食习性、繁殖策略、栖息特性等方面的8个功能性状,量化功能多样性指数并划分功能群,以揭示鱼类群落功能结构的变化特征。此外,为提高对特定物种的监测精度,本研究针对珍稀濒危物种斑鳠（Mystus guttatus）和外来种豹纹翼甲鲇（Pterygoplichthys pardalis）开发特异性eDNA检测方法,并利用q PCR检测以追踪其时空分布特征及其对环境变化的响应机制。最后,本研究整合水温（WT）、溶解氧（DO）及水化学指标等15种环境因子数据,采用相关性分析探讨西江干流鱼类多样性、功能群组成及目标物种分布与关键环境因子之间的关系。研究结果可为西江流域鱼类资源保护、生态修复及入侵物种管控提供科学依据。主要结论如下: 1.基于eDNA技术的西江干流鱼类物种多样性研究 本研究共检测...

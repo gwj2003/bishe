@@ -1,0 +1,4 @@
+SOURCE_TITLE: 中国淡水鱼类遗传多样性分析——以东江流域齐氏罗非鱼为例
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qjQWHm-Mp0CPaEQGIzEFDufYJpCzOzk9f-wijEdqMbgPEuCx3c7TJka-NFgoHvTRLNUFq70Zl-UdRnzCpW6N5wRMaSE6-dPNYNLjsxAeLI_-hhQvNWxHGwmUmKJhbrIIClIl5M5Q9xcgJ2ryRXf6NFY_bpRRqlm1tG66HVkHpksB71vmzAmn-0&uniplatform=NZKPT&language=CHS
+
+遗传多样性是生物多样性的重要组成部分,淡水鱼类的遗传多样性备受关注。现有研究多基于鱼类肌肉或尾鳍组织分析鱼类遗传多样性,该技术的环境友好性不足。探索利用非损伤性的环境DNA(eDNA)技术解析鱼类遗传多样性具有重要意义,可为鱼类多样性保护以及入侵鱼类评估等提供重要科学依据,为区域生态环境状况评估提供科学依据。 本研究梳理中国淡水鱼类遗传多样性数据,构建其空间分布格局,并分析相关环境因子的影响。在此基础上,以东江流域典型入侵种齐氏罗非鱼(Coptodon zillii)为对象,同步采集eDNA和尾鳍样本,对比分析其遗传多样性与种群结构。旨在:分析中国淡水鱼类遗传多样性空间分布格局及其影响因子;揭示东江流域齐氏罗非鱼种群遗传格局;验证eDNA技术用于遗传多样性研究的可靠性,为生物多样性保护提供新方法。主要研究结果如下: (1)共检索到1650条基于cytb、D-loop和微卫星分子标记的有效野生种群遗传多样性数据,共包含164种中国淡水鱼类,其中本土鱼类156种,外来入侵物种仅8种。整体上我国的华北、华东和东北地区的东南部普遍具有较高的淡水鱼类遗传多样性,而西南和西北地区的遗传多样性水平则明...

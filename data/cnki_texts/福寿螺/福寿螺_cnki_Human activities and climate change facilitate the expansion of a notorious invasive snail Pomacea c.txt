@@ -1,0 +1,4 @@
+SOURCE_TITLE: Human activities and climate change facilitate the expansion of a notorious invasive snail (Pomacea canaliculata) in a subtropical biodiversity hotspot.
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qU-YyjuJYS2RY_V55b3FsQqG2gO0v7SNkdlqagzH64qvIIaBm11x7_nCQewZjuIIB4fJnAN9WD7fRl3shX7aHrxEJBuGjbyefSe17tE6Un2rCi8iGJVrFoYju0oQtkMLEvktZnqdYEoGZtj-MFFYfJI8UIvXSug4O9sK7Il0cB6rKB5owYIJhKV7zdCd-3BNGskNpywdbdvQ==&uniplatform=NZKPT&language=CHS
+
+The apple snail Pomacea canaliculata is one of the most destructive invasive species globally. Understanding its current and future distributions under global environmental change is therefore essential for developing effective management strategies. However, existing research has primarily focused on broad spatial scales while paying limited attention to finer-scale patterns, and has typically examined isolated environmental drivers while neglecting t...

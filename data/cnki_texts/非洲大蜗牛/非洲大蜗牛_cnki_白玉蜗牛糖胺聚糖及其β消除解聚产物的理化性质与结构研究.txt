@@ -1,0 +1,4 @@
+SOURCE_TITLE: 白玉蜗牛糖胺聚糖及其β消除解聚产物的理化性质与结构研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1o0GxIxy02iWDEz8umabdTsSyvUgPYFgKm2d4bYLGs0kUVGKZLtSFat8th-xwfA0_noRxl9Pbz-4599mhwcDk5Qr3hhQshPDGjCClgs3-d_-ElhI18qPF_TZH31UtlVK3HQyrxDQQ6e7akHCFRUiZ7dRiTIG0lPaSC6XhD5875-STSoclZst_TB&uniplatform=NZKPT&language=CHS
+
+糖胺聚糖（Glycosaminoglycans,GAGs）在生物体内通常以蛋白聚糖的形式存在。蛋白聚糖的生物学功能,包括调节细胞生长,在很大程度上是由于蛋白聚糖中的GAG链与蛋白质（例如生长因子及其受体）的相互作用所致。软骨素、肝素、透明质酸及硫酸乙酰肝素等为常见的GAG。其中,肝素和硫酸乙酰肝素已被广泛研究。很多软体动物富含GAG,巨型褐云玛瑙螺（Achatina fulica）所含独特结构的GAG首先由Kim等报道。所述GAG的结构序列类似于哺乳动物来源的肝素及乙酰肝素而结构单元更为规则;其已见报道的药理学活性包括抑制肿瘤生长、抑制成纤维细胞生长因子-2（FGF-2）等。白玉蜗牛（white jade snail）是主产于我国且人工养殖量较大的A.fulica变种,鉴于结构规则的类肝素类的GAG具有潜在的药用价值,本文尝试对其所含GAG（AFG）的确切化学结构及其结构特点进行系统的分析研究。（1）AFG的提取纯化:联用酶解-碱解处理法,从800 g白玉蜗牛中提取获得粗多糖,通过醇沉法去杂,过氧化氢法脱色,季铵盐沉淀法、阴离子交换色谱及凝胶柱色谱纯化等步骤处理,获得均一性的AFG约7 ...

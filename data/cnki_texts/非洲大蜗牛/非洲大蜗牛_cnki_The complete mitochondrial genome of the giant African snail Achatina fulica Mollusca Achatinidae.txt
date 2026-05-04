@@ -1,0 +1,4 @@
+SOURCE_TITLE: The complete mitochondrial genome of the giant African snail Achatina fulica (Mollusca: Achatinidae).
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1piHFHAcsgnNBTwwMdTISUmk84esR349R_O_GQOzQQ_aYWm1tD4AgbN1B0fmph3OaGQZ2hdh_J3P4sXDPM5IspsCLw9F1FGSGXWP7zxVQOGP_4Bo-uwTQZKYH6adHflp755eCqHli_nHeCs6_xwJ9FJ3YZI-oI9oa6_TZRytSbkkOJHj-ATvJ5W5jMmTS3Vnv6D1zj02TQxOg==&uniplatform=NZKPT&language=CHS
+
+We present the complete mitochondrial genome of the Achatina fulica in this study. The results show that the mitochondrial genome is 15,057 bp in length, which is comprised of 13 protein-coding genes, 2 rRNA genes, 21 tRNA genes. The nucleotide compositions of the light strand are 35.47% of A, 27.97% of T 19.46% of C, and 17.10% of G. Except the ND3, 7 tRNA, ATP6, ATP8, COX3 and 12S-rRNA on the light strand, the rest are encoded on the heavy strand. Fi...

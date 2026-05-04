@@ -1,0 +1,4 @@
+SOURCE_TITLE: Field Verification and Comparison of Field Applicability with Different Meteorological Data Sources of Species Distribution Models for American Bullfrogs (Aquarana catesbeiana)
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qdK_qQZCpqi4TSBt-MWjLv3Te-DIgWW0gQJWRD3e8R4v6HL_n1hAFtlCzzJ5iw8L0sO9PTmknEGzt8W1IgfOWQU5QwwybWetpHGApbZbOYl5BKcNKZWYRoZGHXlIgA_bIJOXM6IGlnrwzWs07PuM-q5xCNFa87h_BXdqZ6tB4K9PGpNzXf400kGegrNEoQtjwuhA3PAu6Xgg==&uniplatform=NZKPT&language=CHS
+
+Species distribution models (SDMs) can be helpful for managing invasive species. Although prevalence of SDMs has increased considerably, they require further field verification. Data within each country could further improve regional outcomes. To test the accuracy of these models, we developed an SDM for Aquarana catesbeiana (American Bullfrogs) based on WorldClim and Korea Meteorological Administration (KMA) data and verified it through field surveys ...

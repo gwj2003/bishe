@@ -1,0 +1,4 @@
+SOURCE_TITLE: 增江中下游外来鱼类入侵现状及其与环境因子相互关系
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qgb2F4ntbL11rnsuxnBBBlPsHCVLbPikqcLKzVy_eQxwuurdbBVYUHxTSe5jgof7kW2P2Ub1fmouf-Jt2q0B9ehVix6sHcgPbiQHYmVq2Wm_FWevCT5_v5MIJHAjS_L8jykzom88JQHDM4XQqkbqrEuXT-pihRvh8Knrjued7ALg==&uniplatform=NZKPT&language=CHS
+
+本研究旨在评估增江中下游鱼类群落组成及外来鱼类入侵现状，分析外来鱼类的分布格局及其与环境因子的关系，以揭示入侵机制并为生态管理提供科学依据。2024年夏季与冬季对增江中下游的20个采样点进行鱼类样本、环境因子的采集。运用相对重要性指数(IRI)、ABC曲线和Jaccard相似性指数分析鱼类群落结构，结合主成分分析(PCA)识别主导环境因子，并通过冗余分析(RDA)探讨鱼类分布与环境因子的关系。结果表明：两季共捕获鱼类25种，753尾，47.88 kg,其中外来鱼类占总丰度和总生物量的74.37%和74.40%;齐氏罗非鱼(Coptodon zillii)和豹纹翼甲鲶(Pterygoplichthys pardalis)取代尼罗罗非鱼(Oreochromis niloticus)成为全年优势物种。群落相似性分析显示，冬季鱼类群落相似性高于夏季。PCA结果表明，流速和比电导率为主要主导环境因子；RDA结果揭示齐氏罗非鱼的分布与比电导率呈负相关，豹纹翼甲鲶的分布与流速呈正相关。本研究揭示了增江流域外来鱼类优势种的快速更替及其与关键环境因子的耦合机制，建议结合外来鱼类分布的主要驱动环境因子实施...

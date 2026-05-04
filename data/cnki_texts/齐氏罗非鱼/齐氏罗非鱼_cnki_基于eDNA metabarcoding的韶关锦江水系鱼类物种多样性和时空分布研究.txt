@@ -1,0 +1,4 @@
+SOURCE_TITLE: 基于eDNA metabarcoding的韶关锦江水系鱼类物种多样性和时空分布研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qjQWHm-Mp0CPaEQGIzEFDufYJpCzOzk9f-wijEdqMbgE5Pe5W3b0ddwvPOlEbZbdL2Vz0dCxin9HrsAKP28JGsoZWlA3QVLO74yVJbXzxhdRRi8ZuXr-jgLSgeQgfG251OVOIQyuGl87MgbA6ls2105Cl9EGEMWQ-5rmND2bLtUCSiQL1kcgNL&uniplatform=NZKPT&language=CHS
+
+锦江是珠江水系的主要支流之一,流经丹霞山,丹霞山是世界地质公园、世界自然遗产、国家级自然保护区和国家5A级旅游景区。为了掌握锦江和丹霞山鱼类物种多样性,本研究基于eDNA metabarcoding技术和传统捕捞技术,对15个站位、4个季节的锦江水域进行了鱼类物种多样性研究,具体研究结果如下: (1)eDNA metabarcoding技术与传统捕捞技术鱼类物种比较研究。传统捕捞采用地笼和刺网的捕捞方式在2023年11月,2024年2月,2024年8月进行样本采集。共捕获鱼类56种,隶属4目7科43属。eDNA metabarcoding技术鉴定到鱼类99种,隶属12目26科69属。优势目为鲤形目(66.7%),优势科为鲤科(59.5%),优势种分别是长吻鮠(Leiocassis longirostris)、齐氏罗非鱼(Coptodon zillii)、鲤(Cyprinus carpio)、真吻虾虎鱼(Rhinogobius similis)、间(?)(Hemibarbus medius)、张氏(?)(Hemiculter tchangi)和草鱼(Ctenopharyngodon ide...

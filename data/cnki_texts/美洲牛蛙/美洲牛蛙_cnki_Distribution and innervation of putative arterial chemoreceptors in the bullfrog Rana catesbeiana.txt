@@ -1,0 +1,4 @@
+SOURCE_TITLE: Distribution and innervation of putative arterial chemoreceptors in the bullfrog (Rana catesbeiana).
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q1EhPpdMUVWYJMBG0n2cd8HT9nJcLKV-P2SHQ35qDE4qN3J5cptTKA7wZipYMJ-e8Rh9DmVzMRelXYDoAwd6mU87F3Ucm4IbT5XWfvelpBBsHWani8JR9XWR0nd4Tyvp1klcf5ZBp2d0MtZ3_SN42Tqm7DsfQ_vXsJ8B8nfFu2bAyF84w_sTzRKg2K8iPbe2kJkvvOkUYudw==&uniplatform=NZKPT&language=CHS
+
+Peripheral arterial chemoreceptors have been located previously in the carotid labyrinth, the aortic arch, and the pulmocutaneous artery of frogs. In the present study we used cholera toxin B neuronal tract tracing and immunohistochemical markers for cholinergic cells (vesicular acetylcholine transporter [VAChT]), tyrosine hydroxylase (TH), and serotonin (5HT) to identify putative O2-sensing cells in Rana catesbeiana. We found potential O2-sensing cell...

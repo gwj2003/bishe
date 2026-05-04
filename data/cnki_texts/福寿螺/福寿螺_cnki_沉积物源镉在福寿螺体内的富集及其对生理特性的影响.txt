@@ -1,0 +1,4 @@
+SOURCE_TITLE: 沉积物源镉在福寿螺体内的富集及其对生理特性的影响
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oMLLcFIBOS_GzfC-JMHMkJnG77BRktcRycr8Xh842hcgtFwJJi1Iey4MLGLgvAYTXLouBITkIRCZBjbFvnScF83QAOPfArk2MwRe7AWOvBUzXBPICGe-ppe-ezJqcdqadwxQDZ0ZqCtdPfMTb4OjuPCHlIrYwIT_fA2zNCzwJ3cw==&uniplatform=NZKPT&language=CHS
+
+为阐明沉积物源镉在福寿螺（Pomacea canaliculata）体内的累积与清除规律及其毒性效应，本研究通过沉积物暴露实验，将福寿螺暴露于镉污染沉积物(2.51 μg·g-1)14 d，随后转移至无污染的沉积物(0.04 μg·g-1)中净化14 d。实验测定了不同组织镉含量，内脏团超氧化物歧化酶（SOD）、过氧化氢酶（CAT）、谷胱甘肽硫转移酶（GST）活性及谷胱甘肽（GSH）含量，并基于16S rRNA扩增子测序解析肠道菌群结构并预测其功能变化。结果显示：福寿螺内脏团对镉的富集能力最强，暴露14 d时含量达到0.11 μg·g-1，且未达到平衡状态；净化结束后，螺壳中镉的残留量仍显著高于初始水平。镉暴露组内脏团中SOD和CAT活性显著高于对照组，而GST活性与GSH含量则显著降低。镉胁迫显著降低了肠道菌群的Chao1指数、Observed features指数和Shannon指数，导致群落结构发生显著分离，表现为厚壁菌门（Firmicutes）和梭杆菌门（Fusobacteriota）丰度上升，变形菌门（Prot...

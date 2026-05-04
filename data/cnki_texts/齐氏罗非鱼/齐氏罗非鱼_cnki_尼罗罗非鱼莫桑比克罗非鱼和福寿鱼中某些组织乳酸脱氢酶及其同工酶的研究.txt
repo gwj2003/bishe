@@ -1,0 +1,4 @@
+SOURCE_TITLE: 尼罗罗非鱼、莫桑比克罗非鱼和福寿鱼中某些组织乳酸脱氢酶及其同工酶的研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pVqzw4aV6wkq5HVyli-PsX564fZ05rs9APCNIlqJ9o7L_mX1s7HpcVAHdEAvIObP1GbzOLACJmJZ0sct81_KI439mGkcaaReEDsQs---EOMS1EyC7ORdauBHZFeA3fmdtR9CLcuDARp_XxsjvREqomUk2ZYn_ga7XxBRzACcKchQ==&uniplatform=NZKPT&language=CHS
+
+本文用紫外分光光度法、薄层聚丙烯酰胺等电聚焦法及薄层浓度梯度聚丙烯酰胺凝胶电泳法测定尼罗罗非鱼、莫桑比克罗非鱼、福寿鱼的心、肌、肝三种组织中乳酸脱氢酶(lactate dehydrogenase简称LDH)的总活力及其同工酶的等电点和分子量。结果表明:三种鱼的三种组织乳酸脱氢酶总活力顺序为心>肌>肝;在同一组织中其活力顺序为福寿鱼>尼罗罗非鱼>莫桑比克罗非鱼。其同工酶等电点(PI)为:心PI5.85～7.5,肌PI5.95～8.2,肝P15.6～8.55。三种组织酶谱带分子量在232000～680000之间。此法可为鱼类选育种、分类和定种提供生化参数。

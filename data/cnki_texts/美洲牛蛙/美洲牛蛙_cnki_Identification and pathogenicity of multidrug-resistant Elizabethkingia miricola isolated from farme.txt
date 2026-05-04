@@ -1,0 +1,4 @@
+SOURCE_TITLE: Identification and pathogenicity of multidrug-resistant Elizabethkingia miricola isolated from farmed American bullfrogs Rana catesbeiana in China with in vitro screening of herbal antimicrobial agents.
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qdK_qQZCpqi4TSBt-MWjLv3Te-DIgWW0gQJWRD3e8R4myU1uB5mHiZxIMQS_-ttZNZJJvvbOqyt_HZ9cWHNpNC61ZD_PwId8JUendtEVOefM25PJwRRgY_dhfOtXYSdyaHdpnjivQG3LaFGrhPfJTx5qjqE02sSTs--c6AgFaDBH_Gi6Yu1ihk2BcYxSqmGNv3Ncb6Ndvo-A==&uniplatform=NZKPT&language=CHS
+
+OBJECTIVE(#br) In 2021, an outbreak of an infectious disease characterized by torticollis, cataracts, and neurological disorders caused massive mortality in farmed American bullfrogs Rana catesbeiana in Hubei province, China. We identified the causal agent in this outbreak, characterized its pathogenicity, and screened candidate antimicrobial agents for future disease control. (#br)METHODS(#br) Bacterium was isolated from the diseased American bullfrog...

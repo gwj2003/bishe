@@ -1,0 +1,4 @@
+SOURCE_TITLE: Environmental DNA methods for detecting two invasive alien species (American bullfrog and red swamp crayfish) in Japanese ponds
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oM2bmGE017pBM-m1198_yGwzGK1kiD1QlupWVfcRZ_ag22hwr_SJOlLpoobYh29JJAC0c_GDRI19fbcWuvL9H3CrKt69EAgRZQg6P9zEWMZsdlHGUWKOZRIrsa2PgcSBviHw3Z68CrsH5UuunU3VDu2q6YTM-ronQ4HW-wZVMf2XkVaJtUtrbzgXlihDhdxVyqpWjB60xqyg==&uniplatform=NZKPT&language=CHS
+
+Species invasion in conventional ecosystems is an impedance to ecosystem management. The extensive invasion of American bullfrogs (Lithobates catesbeiana) and red swamp crayfish (Procambarus clarkii) is seriously harmful to aquatic systems worldwide, including Japan. In recent years, the methods involving environmental DNA (eDNA) have significantly contributed to the detection of invasive alien species. These methods for the above two species had alrea...

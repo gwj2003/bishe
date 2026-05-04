@@ -1,0 +1,4 @@
+SOURCE_TITLE: Bayesian networks facilitate updating of species distribution and habitat suitability models
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qdK_qQZCpqi4TSBt-MWjLv3Te-DIgWW0gQJWRD3e8R4vtV2AfNkJHKAAQiYlTVj3TteCvV5fMnNElSE_xal4a0VRHMt6K62N1186XJIQn3f50DFZcGzVAQbImsS9tI4RgOrug119oUnTb3VG6afON53-DfCRgRKxKz5kDhCMNUowWbtK-pD2nE7xAVXayrZeyqou7Zrl5P_g==&uniplatform=NZKPT&language=CHS
+
+Managers often rely on predictions of species distributions and habitat suitability to inform conservation and management decisions. Although numerous approaches are available to develop models to make these predictions, few approaches exist to update existing models as new data accumulate. There is a need for updatable models to ensure good modeling practices in an aim to keep pace with change in the environment and change in data availability to cont...

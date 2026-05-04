@@ -1,0 +1,4 @@
+SOURCE_TITLE: 南流江河口红树林潮沟鱼类群落时空分布格局及其与环境因子的关系
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oXol5-EgxkeBcoPRapEa7i5MLGFJJMMVlNUgS8RJakXrUCmrFvILz1jMpjqqxAdr2zy9qJhowEe9pNaZXjbaTDke1h9DmQlVDli4jS1_lNq5w-ctxCOiAfjFdcTATcHTmyqi0KQehoy1uRn8XRjvJPiJVrbFDSKWskpL8vzUI165KJpYqcKbP3&uniplatform=NZKPT&language=CHS
+
+气候变化、海洋污染、外来生物入侵、海岸工程建设等因素综合影响导致红树林湿地面积缩减和湿地功能丧失,生物多样性面临重大威胁。本文以南流江河口红树林潮沟为研究对象,运用无度量多维排序分析(NMDS,non-metric multidimensional scaling)对鱼类物种组成及时空分布格局进行研究,并运用冗余分析(redundancy analysis,RDA)和广义相加模型(generalized additive model,GAM)探讨鱼类与环境因子之间的关系,为科学地保护、恢复和合理利用滨海湿地以及近海渔业的可持续发展研究提供理论依据。主要结果如下:(1)南流江河口红树林潮沟共采集鱼类17680尾,24724.73 g,经鉴定隶属硬骨鱼纲的12目23科37属45种。鲈形目鱼类物种数最多,共计11科22属21种,虾虎鱼科鱼类物种数最多,共有16种。优势物种有6种,即鲻(Mugil cephalus)、尾纹双边鱼(Ambassis urotaenia)、齐氏罗非鱼(Coptodon zillii)、食蚊鱼(Gambusia affinis)、中华乌塘鳢(Bostrychus si...

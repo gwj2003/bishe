@@ -1,0 +1,4 @@
+SOURCE_TITLE: 惠州西湖外来鱼类入侵与鱼类群落状况研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1phop0Ea-LuVhP5VyYWAFw-M5_AmJrcxqfhOqE_E9ArCnlwAAgLwEPOvfvLjg_m0_wJUudo2XRCblzzrbasoZeln2CZmRDvJbPuSrpS4Tol3XwY9cs5zSzqZ8FApbd_q5xWoJnVkm-mareDYuhvGz9jk6CotTVoeqrMt5JRmtVrJw==&uniplatform=NZKPT&language=CHS
+
+【目的】摸清惠州西湖鱼类群落组成和外来鱼类入侵现状。【方法】2023年2月，在惠州西湖主湖区开展鱼类资源调查，运用Jaccard相似性指数、相似性分析、非度量多维尺度排序法等方法分析外来鱼类物种组成、丰度差异、分布格局、群聚结构和群落相似性。【结果】共捕获鱼类21种，包括鲤、鲫和鲢等16种土著鱼类以及豹纹翼甲鲇、齐氏罗非鱼、尼罗罗非鱼、伽利略罗非鱼和露斯塔野鲮5种外来鱼类。外来鱼类质量和数量分别占总渔获物的45.36%和44.18%。豹纹翼甲鲇和齐氏罗非鱼在5种外来鱼类中质量和数量占比相对较高，表明外来种群资源量具有一定规模；相似性分析结果表明，西湖平均Jaccard相似性指数处于相似等级（数值为0.62），表明惠州西湖鱼类群落空间分布相似度高；聚类分析结果表明，在78.73%的相似性水平时，惠州西湖鱼类群落可分为4组，但它们之间的差异未达到生态学意义上的差异显著（P>0.05）。【结论】惠州西湖各站点鱼类群落较为相似，豹纹翼甲鲇和齐氏罗非鱼在各个站点均有出现，入侵较为严重，亟需采取相应的防控措施。

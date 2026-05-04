@@ -1,0 +1,4 @@
+SOURCE_TITLE: 温度对红耳滑龟白细胞数量和杀菌能力的影响
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1p9ZkljT3B_ySQ26RToJLbLvHals5wDh-XovLrRqFrFWvY5evvKl7X6Ehyft4AWVsPIWOK305rDIWeV9NqLOE5GZASvsj4_9yB1LBiHzFKsQtJy8hK3Z9UTtEB7atLwcbjr9eq-buBZYPS-bOzV2Sjyi4sqfWKOglc762TaUQwlrw==&uniplatform=NZKPT&language=CHS
+
+为探究温度对红耳滑龟(Trachemys scripta elegans)健康状态的影响,通过活体背甲下静脉窦采血,测定了20、24、28、32℃条件下处理6周后,其身体大小、各型白细胞的百分比和血浆杀菌能力的变化。不同温度组的体重、背甲长和背甲宽均无显著的组间差异(P>0.05)。淋巴细胞的百分比24℃组显著高于20℃组(P<0.05),但嗜碱性粒细胞的百分比24℃组显著低于28℃组和20℃组(P<0.05),中性粒细胞、嗜酸性粒细胞和单核细胞的百分比,以及中性粒细胞与淋巴细胞的比值和血浆杀菌能力均无显著的组间差异(P>0.05)。红耳滑龟依赖血液中淋巴细胞和嗜碱性粒细胞数量增减来适应温度升降,这可能是其易于扩散的生理学基础之一。

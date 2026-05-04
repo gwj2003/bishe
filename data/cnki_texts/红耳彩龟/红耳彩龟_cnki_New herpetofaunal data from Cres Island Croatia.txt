@@ -1,0 +1,4 @@
+SOURCE_TITLE: New herpetofaunal data from Cres Island, Croatia
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rD9RJL8Z7wxgQ3oBJwVf2w0W8LMRQo5r7dm1FDJjvKSBvoQ-wx5xeQJspYiiNdG-OGR_xGT5CsFA37UcAH6b4XwqA8Hm5m1ZHb24flsU1_nWK3if-BYjYgz1qIvGKXiGfXxLA8D8i7pG2LyvExbPIpgMxx3dq14lZcb3pJsxgLDOf1UYVKBVfhKip0W1Foc4ngFw1fGfJiwA==&uniplatform=NZKPT&language=CHS
+
+We provide new and supplementary data on the distribution and natural history of reptiles on the island of Cres: Dalmatolacerta oxycephala (range extension of an alien introduced population); Emys orbicularis hellenica (status of the population in the southwestern parts of Cres); Hemidactylus turcicus (first record after 38 years); Trachemys scripta elegans (first record on Cres).

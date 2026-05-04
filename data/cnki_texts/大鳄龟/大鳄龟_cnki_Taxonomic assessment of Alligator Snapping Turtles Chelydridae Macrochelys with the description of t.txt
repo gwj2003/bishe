@@ -1,0 +1,4 @@
+SOURCE_TITLE: Taxonomic assessment of Alligator Snapping Turtles (Chelydridae: Macrochelys), with the description of two new species from the southeastern United States.
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qYKbMFUiPat4IxQE8vmi9mAEBY0OG8VIjaXmpxikIsrLxzO6AA7wuVrA09IQBK40g5Lm80KJyF0OGPKtnzoHlVfpsOwKDJHquLctlB3G-p-VId8rvDZQP9EgXpohiBsI9bsU92-YygXExJH3tBYBeellgc5Q6yGFjLgcAJg-t2TlE_F5XbJtlTe07U21a2SgGIN23aqvmBdg==&uniplatform=NZKPT&language=CHS
+
+The Alligator Snapping Turtle, Macrochelys temminckii, is a large, aquatic turtle limited to river systems that drain into the Gulf of Mexico. Previous molecular analyses using both mitochondrial and nuclear DNA suggested that Macrochelys exhibits significant genetic variation across its range that includes three distinct genetic assemblages (western, central, and eastern = Suwannee). However, no taxonomic revision or morphological analyses have been c...

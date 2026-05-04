@@ -1,0 +1,4 @@
+SOURCE_TITLE: 基于鳄雀鳝仿生结构的陶瓷基复合防护装甲研制及抗侵彻分析
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1piVjHb36QOmiir-86bbxCPbOBb6Ax7dufrNO8Zjdq20U_N78aSq21miqd-0Pxuo3RUQ-UJp8UN6i-la5EM7HL4caJnllRS4Wh5ywGkNcjm-2OPxR3z78LsWeuscNXGsxx4CEeBvYJ_r3Rz1lvg5JDfzDiDZXlNdxr5dSYlFOvmrWo-JilrWbvK&uniplatform=NZKPT&language=CHS
+
+现代战争形态演变,安全需求提升,轻量化、高防护性能的防弹装甲成为研究热点。传统金属防护装甲因重量大、灵活性差受限,仿生学为此提供创新解决方案。本研究受鳄雀鳝鳞片层叠结构启发,开展陶瓷基复合防护装甲的设计与优化,旨在提升其抗侵彻性能,同时保持柔韧性和适体性。 在设计防护装甲和材料选择时,以鳄雀鳝鳞片为仿生对象,将鳞片简化为四棱柱结构,设计出两种新型叠片结构。该设计使防护面板无孔洞,拼接式排列具备良好的抗多重攻击能力,既提高了防护性能,又增强了装甲的柔韧性和适体性。确定Al2O3陶瓷为面层材料,UHMWPE纤维为背板材料。Al2O3陶瓷硬度高、抗压强度大、弹性模量高且密度低,可降低装甲重量;UHMWPE纤维高强度、高模量、低密度且韧性好,是理想的背板材料。运用SLA光固化3D打印技术制备出密度为3.672 g/cm3的陶瓷样品,并对其微观形貌和物相表征。 在抗弹性能的研究过程中,借助ABAQUS有限元分析软件,对不同结构的防护装甲在子弹冲击下的动态响应进行数值模拟。通过正交试验设计,...

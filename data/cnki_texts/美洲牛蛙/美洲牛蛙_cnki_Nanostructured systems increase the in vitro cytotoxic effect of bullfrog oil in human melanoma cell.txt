@@ -1,0 +1,4 @@
+SOURCE_TITLE: Nanostructured systems increase the in vitro cytotoxic effect of bullfrog oil in human melanoma cells (A2058)
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pxpGWp5IJYYHYaQDt8WhzRrddYtHwwwMMh1rdTs7SQgujBPC2AgbwjRFyy0vBIda5zWFKfoXTfuFHExSyQpcWmYlN1qAkTqfAHQI_Ckbc4anfDyzjJHl7aiaKX-iq8OhGk4DkyT6NTNO818K6ewwmk-XKP2zmXUD5ol8paOdWzeXCi4praKcN-IOeJKIfPyatcKcDjBGehFw==&uniplatform=NZKPT&language=CHS
+
+The aim of this work was to investigate the in vitro cytotoxic effect of previously developed nanocapsules, nanoemulsion, and microemulsion based on bullfrog oil (BFO) against human melanoma cells (A2058). The nanosystems were produced as described in previous studies and characterized according to droplet/particle distribution and zeta potential. The biocompatibility was evaluated by the determination of the hemolytic potential against human erythrocy...

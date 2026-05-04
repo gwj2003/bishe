@@ -1,0 +1,4 @@
+SOURCE_TITLE: Molecular Phylogenetic Relations of Achatina fulica Based on Partial Sequence of COI Gene
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pjX0w6GyjoyoSMvdOKD8nv-DID9xjrgJdt1Ymkkoi30j0oEqXKrzN0CPNBnrJYkfleQipF3NZR8tpkJmLcoATZpUf7u0CS2vzeOqAR3n1ccGE93rcj6a9aBva4LgiktWgOHwljfW4oQ8hkSBmWe_FqVoojQdWi3IxY3YofP_rK66xxseCB39pgBeKLRlK8SSubAtW6vMQmbA==&uniplatform=NZKPT&language=CHS
+
+The Giant African snail (Achatina fulica) is known to be a highly widespread and invasive species. However, none of the studies in India have shown whether there is any phylogenetic structure within the African giant snails of the Indian subcontinent. We have collected a sample of Achatina fulica from Odisha state, India and built a molecular phylogeny of achatinoid and non achatinoid taxa from across its distribution using a mitochondrial gene to infe...

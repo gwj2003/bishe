@@ -1,0 +1,4 @@
+SOURCE_TITLE: 生物炭与石灰对稻田福寿螺重金属积累及肠道微生物影响
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r0OJKP2eyQhfboW6oAHf-qJSA0hN1KtBvkc5Pr9ABcPdYOJVBF340jiq_TJZXCYC-212pIlyOVfztiH3CzirZ3pXfU01cSdVotCUwsnCsTUpG4lheMHNvWVaX1Rz4xKpake9tiXA_rZrUySceOM1Kvj544TmO9Tt3CpMvSnz3mfQ==&uniplatform=NZKPT&language=CHS
+
+我国南方水稻种植区中土壤不仅存在重金属污染，其中广泛分布的入侵物种福寿螺同时加剧农业安全生产风险。当前土壤改良剂在稻田重金属污染治理中应用广泛，但其是否能影响福寿螺生理代谢从而抑制其生长尚不明确。通过野外稻田设置实验，探究生物炭(BC,4.5 t·hm-2)、石灰(LM,1.0 t·ha-1)及生物炭+石灰复配处理（BL）施用在修复重金属污染土壤同时对福寿螺体内金属富集及肠道微生物群落的影响。结果表明，BC和BL处理使福寿螺肌肉组织中镉（Cd）的含量显著提高了40.63%和20.83%；铜（Cu）的含量显著提高了31.85%和12.77%。不同处理组下福寿螺肠道菌群的Shannon与Pielou指数均存在显著差异；NMDS分析显示BC、LM、BL组β多样性均与对照组（CK）存在显著差异。在BL处理下，肠道浮游菌门（Planctomycetes）、疣微菌门（Verrucomicrobia）相对丰度显著降低，而厚壁菌门（Firmicutes）、放线菌门（Actinobacteria）相对丰度显著升高。功能预测显示，所有处理组均使膜运输、能量代谢和...

@@ -1,0 +1,4 @@
+SOURCE_TITLE: 白玉蜗牛糖胺聚糖的分离纯化及结构表征
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qLOVSk3cvSNtASdwEODiHJS8hidFmU4FH_7UEh2V31eUKEmxlBe-HznrNsLszX83z4faMc9Qa1_20pR8n_86VddmzhvG2i7tGCrlniWdEY2vBfuYvEUwVNgb3Eupsk9pxaE-BQnnGPm4jZf5MBDJcEF9sirPxyrzhBdUEIO6CbKQ==&uniplatform=NZKPT&language=CHS
+
+为了研究白玉蜗牛中糖胺聚糖（AFG）理化性质和化学结构,采用酶解-碱解处理法提取白玉蜗牛粗多糖,以季铵盐沉淀法和离子交换柱层析法纯化获得AFG,得率为0.88%.理化性质分析显示,AFG为均一性的酸性粘多糖（Mw为23840 Da）;单糖组成分析及1H NMR谱图显示,AFG是由等摩尔的D-乙酰氨基葡萄糖（D-N-acetyl glucosamine,GlcNAc）和L-艾杜糖醛酸硫酸酯(2-sulfated L-iduronic acid,IdoA2S)组成的糖胺聚糖;采用β-消除解法获得其解聚产物（dAFG）,UV及1H/13C NMR显示其非还原端为不饱和己糖醛酸,此与β-消除解聚法的糖苷键选择性解聚特点相符.结论:白玉蜗牛所含AFG由等摩尔的GlcNAc和IdoA2S交替连接形成,其具有类似于肝素的结构特点;β-消除解聚可用于制备低分子量的AFG解聚产物.

@@ -1,0 +1,4 @@
+SOURCE_TITLE: 雌激素受体Esr1诱导红耳龟早期卵巢分化
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1ofqhtt42sQ-IWoqIzhC1fAGPh0-G-dDXsbvHZqdD7TvZVKQYs7GnuZJqem_IQZv2di1jD-wG6q4wOQhMJj5OpaWIrQPrVniGH8TbZSgBWWqp6XxZnsh6hgCR6VpmTyRuU0MwlWeyY_hBQmB_hJ5Cbc99uZ6ApE14DOJ-Dt1fqBJg==&uniplatform=NZKPT&language=CHS
+
+为探究3种雌激素受体(estrogen receptor) Esr1、Esr2和Gper1在红耳龟早期胚胎性腺分化中的作用，本研究在分析受体基因表达特征的基础上，通过向性腺分化启动前的产雄温度(male-producing temperature,MPT)龟胚分别注射Esr1、Esr2和Gper1激动剂PPT、WAY 200070和G-1，从性腺形态结构、生殖细胞分布模式、性别分化关键基因和蛋白表达分布方面对处理后的胚胎性腺进行了性逆转分析。表达分析结果显示，esr1在性别分化关键时期性腺中的表达量显著高于esr2和gper1 (表达极低)，且呈现产雌温度(female-producing temperature,FPT)性腺高表达。功能验证实验显示，PPT处理后的MPT性腺形态结构明显雌性化，生殖细胞呈现雌性分布模式；雄性分化关键基因dmrt1、amh和sox9 m RNA表达明显下降，雌性分化关键基因foxl2和cyp19a1 m RNA表达则显著上升；Amh和Sox9蛋白表达的荧光信号几乎消失，Foxl2和Arom蛋白被激活出现大量表达，表明性腺由雄性逆转为雌性(性逆转率：70....

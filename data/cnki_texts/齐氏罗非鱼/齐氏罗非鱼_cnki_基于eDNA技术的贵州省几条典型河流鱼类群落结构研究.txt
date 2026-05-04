@@ -1,0 +1,4 @@
+SOURCE_TITLE: 基于eDNA技术的贵州省几条典型河流鱼类群落结构研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pOHUUeIvyow5Q07OF2fUks3dFr2RJyLh8ZDvTMBZql2Z-VXR58h5rHZo4HzkttCyxnrqwPxoa0w-kOWF3dWs4WZ5Wj9t45QCopgErZft8U4ScFBoBm32wnQyS-wIvaD09T0r-V-YMmRp0NSLBN33I8xb9mLopVPTSjUF1J1jxohjgjfs1sP8JY&uniplatform=NZKPT&language=CHS
+
+贵州省作为典型的喀斯特地貌分布区,其独特的地质构造孕育了高度异质化的地形格局与发达的水系网络,形成了多样化的水生生态系统,为鱼类资源提供了重要的栖息场所。然而近几十年来,大规模水利工程建设导致的生境破碎化,以及生物入侵等因素叠加作用,已显著改变土著鱼类的生存格局。在此背景下,探究喀斯特高原山地河流鱼类群落结构特征,成为制定针对性生态保护策略的迫切需求。eDNA(Enviromental DNA,eDNA)技术能够检测环境中极低浓度的生物DNA,使其能够识别罕见且难以直接观察的物种,是一种高效、非侵入性且易于标准化的采样方法。结合目前禁渔背景下,本研究以赤水河、乌江和红水河水系(南盘江、北盘江和红水河)贵州段为代表,基于eDNA宏条形码技术探究喀斯特高原山地河流鱼类群落结构,主要研究结果如下: (1)赤水河贵州段监测到鱼类93种,隶属于4目15科66属,其中以鲤形目,鲤科鱼类为主,在水层分类上赤水河以底栖中层鱼类为主。各样点间鱼类α多样性差异不显著(P>0.05),但两个季度之间鱼类群落存在差异(P<0.05)。检测到齐氏罗非鱼(Coptodon zillii)和大口黑鲈(Mi...

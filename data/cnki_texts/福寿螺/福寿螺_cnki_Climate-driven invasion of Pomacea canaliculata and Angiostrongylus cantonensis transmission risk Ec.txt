@@ -1,0 +1,4 @@
+SOURCE_TITLE: Climate-driven invasion of Pomacea canaliculata and Angiostrongylus cantonensis transmission risk: Ecological niche modeling forecasts and public-health governance recommendations
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qU-YyjuJYS2RY_V55b3FsQqG2gO0v7SNkdlqagzH64qgrUOXVDNH6JVxyI8wwv0MGukBtecCReYlK8aL5Z3rgjOARb5iLwIHRe95L99VWPz1eGwhi6FPbTD_ErqPnPRgWFUUrZhD9JoYduiJd1X05Zsk45dI_WKJ3uEai6kFtU1-5QyrsKyvLerKzk931IT6Ybka5orjY_gQ==&uniplatform=NZKPT&language=CHS
+
+Global climate change is rapidly reshaping species distribution patterns worldwide. Pomacea canaliculata (golden apple snail), an important invasive species in many countries, has experienced accelerated range expansion driven by climate change and anthropogenic activities. Owing to its high phenotypic plasticity, broad environmental tolerance, and high fecundity, this species causes severe agricultural damage and biodiversity loss. Importantly, P. can...

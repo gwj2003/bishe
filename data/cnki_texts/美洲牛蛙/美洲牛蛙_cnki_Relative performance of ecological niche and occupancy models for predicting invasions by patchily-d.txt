@@ -1,0 +1,4 @@
+SOURCE_TITLE: Relative performance of ecological niche and occupancy models for predicting invasions by patchily-distributed species
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oAohkTl8K75QUbAXLpuJE9XQcbL-UoiNnMk5v9SFVphW22A5SXXDdLxKOD4chgnzvqS4EF2YCkOU4OSk1RgX_XuZQ1FulFyjiPGsj3ouzRaQHPqAaW5qi0OCwpOOy5GqIrJRyYC_unA4cZJEOaLh-SqGidCdHwkSdfWplOP2MxsQEO6zuv7Mw7D8coChShGiw7ugMvUHIDZw==&uniplatform=NZKPT&language=CHS
+
+Abstract(#br)Ecological niche models (ENM) have been used with mixed success for predicting the geographic extent of non-native species to aid management and conservation. This approach is problematic for predicting invasions of patchily-distributed species (e.g., pond-breeding amphibians), whose occurrence is often determined by local habitat conditions. Here, we tested the performance of bioclimatic ENM for predicting occurrence (from repeated survey...

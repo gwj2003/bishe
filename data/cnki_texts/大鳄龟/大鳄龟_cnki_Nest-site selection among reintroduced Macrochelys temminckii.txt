@@ -1,0 +1,4 @@
+SOURCE_TITLE: Nest-site selection among reintroduced Macrochelys temminckii
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qYKbMFUiPat4IxQE8vmi9mAEBY0OG8VIjaXmpxikIsrKmHqnZyrSvP9I32tKVg7FsIrEphJGu3VttJ2nUo_kKmY6vCEiSst9oIzocPyuVWLyMZRxs5YWZmX4A0zVENZIBd3o7PsnQjqVS1_8rJrx6ekLlStEzAA2PGCb4AJbWABg==&uniplatform=NZKPT&language=CHS
+
+We evaluated nest-site selection in a reintroduced population of Macrochelys temminckii at two locations in southeastern Oklahoma by comparing mean values of variables characterizing microhabitat at nest-sites and random sites. We also analyzed the spatial distribution of nests using a computer randomization procedure. The spatial distribution of nests did not differ significantly from random. However, females nested in areas with significantly greater...

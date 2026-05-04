@@ -1,0 +1,18 @@
+Entity1,Relationship,Entity2,Property
+红耳彩龟,BELONGS_TO,Trachemys scripta,rank=属
+红耳彩龟,HAS_ALIAS,巴西龟,type=俗名
+红耳彩龟,HAS_ALIAS,红耳泥龟,type=俗名
+红耳彩龟,NATIVE_TO,南美洲,null
+红耳彩龟,THRIVES_IN,水生生态系统,null
+红耳彩龟,INTRODUCED_VIA,国际交流日益频繁,null
+红耳彩龟,CAUSES,生态危害,type=直接
+红耳彩龟,CAUSES,经济危害,type=直接
+红耳彩龟,CAUSES,社会危害,type=直接
+红耳彩龟,CAUSES,卫生危害,type=直接
+红耳彩龟,REPORTED_IN,中国,year=null;status=分布
+鲤鱼,COMPETES_WITH,红耳彩龟,severity=中
+鳄龟,REPORTED_IN,中国,year=null;status=分布
+巴西龟,REPORTED_IN,中国,year=null;status=分布
+红耳彩龟,REPORTED_IN,多地,year=null;status=分布
+红耳彩龟,THRIVES_IN,养殖废水,null
+红耳彩龟,CAUSES,水体富营养化,type=间接

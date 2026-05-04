@@ -1,0 +1,4 @@
+SOURCE_TITLE: The risk of biological invasion by red-eared slider turtles (Trachemys scripta elegans) in China inferred from niche shifting
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1p4hsVL19k8mglJpORzAkOBeSyrCsxOi6FU444KZBnoFOxKpCakxYdJz5o_pn7TIdXmhlXhAYhUwI7JEoB5CskEtea4O3URqbOQ2BZ1uK_mWh3Bi_4AygKuY8NmVIL9EEqF8y48CpICegp3loMl_THJZfr9-Cxs8bVNNePD76tGbhv04myUTPL56P7x25wZhj56EwG6kX4edw==&uniplatform=NZKPT&language=CHS
+
+Invasive alien species can cause significant economic and social-environmental damage after their invasive success. The red-eared slider (Trachemys scripta elegans) is among the first and worst invasive alien species introduced to China and has been recorded in numerous regions worldwide, not limited to China. In this study, we used species distribution models to predict the potential suitable habitat areas for T. s. elegans and compare the realized ni...

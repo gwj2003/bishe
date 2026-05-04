@@ -1,0 +1,4 @@
+SOURCE_TITLE: Characterization of edible films based on tilapia ( Tilapia zillii ) scale gelatin with different extraction pH
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q0fXTxVcamFvSCwMV0j6n2c3PTvS8LOkI4gctnDpbj3ggltLTpyvJG2-O5-JaJ2B2zP8lqQsouQ0M_0QfRyEH4NPPELL77kP23aoqL5I1k5aBOFsIolnKSha7RjfrewpIZvtw2px7I2KG76jZHGATr3cJWdRmIMmtAgNJ-QIRJjg==&uniplatform=NZKPT&language=CHS
+
+AbstractGelatin was extracted from tilapia scales at pH ranges from 3 to 9, and the properties of resulting gelatin films were investigated. The ash and calcium contents in gelatin extracted at pH 3 was the highest compared to gelatin extracted at pH 5, 7 and 9. Amino acid composition of gelatin extracted at pH 3 was similar to that from pH 9, but was obviously different compared to that from pH 5 or pH 7. The films with higher tensile strength (TS) we...

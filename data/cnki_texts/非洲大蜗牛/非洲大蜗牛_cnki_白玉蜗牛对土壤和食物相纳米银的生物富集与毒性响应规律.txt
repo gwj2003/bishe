@@ -1,0 +1,4 @@
+SOURCE_TITLE: 白玉蜗牛对土壤和食物相纳米银的生物富集与毒性响应规律
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oKjTdIR5deTz2UaIZVZpQUsKjKiIeAXVbeIEH5GhneO-6HJ8OdRY5fRJcbbRRKIBGYOjlbu1qxJz9UtKyPLsqD3mABgV9GhQ3d7-c4_hakfwMe0cRqBxbIRuNAFvpfdg-5hXtLXt3QNLZyNCaad8xHG45XUxzH21OCpW5NQwYOqeB-qtdkyBSm&uniplatform=NZKPT&language=CHS
+
+纳米银（AgNPs）的广谱抗菌特性推动了AgNPs产品的快速发展,其相关产品的大量使用会导致其不可避免的进入生态环境中。鉴于陆生无脊椎动物是陆地生态系统中重要的初级消费者,其对AgNPs的吸收、积累和毒性响应成为了值得关注的问题。土壤相暴露和食物相暴露是AgNPs进入陆生无脊椎动物的主要途径,但目前关于AgNPs对陆生无脊椎动物的生物效应大多集中在食物相暴露,土壤相暴露的相关研究甚少。本论文通过研究土壤相暴露和食物相暴露下AgNPs在蜗牛各组织的分布积累、AgNPs吸收排出动力学、蜗牛毒性响应（生长规律、氧化损伤和组织病理学损伤）,探明了暴露途径和Ag形态对蜗牛的毒性效应,以期为评估AgNPs的生态风险提供基础数据,主要结论如下:（1）AgNPs暴露途径对蜗牛生长产生一定的影响。100 mg kg-1 AgNPs暴露14天后,土壤相暴露下蜗牛体重显著增加（12.5%,p<0.05）,食物相暴露下蜗牛体重变化不显著（p>0.05）,体现AgNPs食物相暴露对蜗牛生长的抑制作用。（2）暴露途径显著影响蜗牛组织对Ag的吸收与累积。在相同Ag浓度下,食物相中Ag...

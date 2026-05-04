@@ -1,0 +1,4 @@
+SOURCE_TITLE: Impacts of Climate Change on the Potential Habitat Suitability of the Apple Snails Pomacea canaliculata and Pomacea maculata in East Asia.
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rMImK5gsEai_f04Esd7_lbBA1C0iOCzdyeTahN4wwuhUGqrO0obZxD5hqDPY_PvOSrih6ZvuVAzD1yVGs8mD8FLxJ145DCXzGTUyQ-4u8OkL3vX8vd-rPhrNIEjkGniXjyDPXXkAcdPH29a04t-lxqNYQQRY9QpzIYpIXOjgmub2IwMuHkA9OJneb4suUTBQs792Nf_YOjmQ==&uniplatform=NZKPT&language=CHS
+
+Climate change and biological invasions have had significant impacts on ecosystems and biodiversity. To assess how environmental changes affect two key invasive snails-Pomacea canaliculata and Pomacea maculata-in East Asia, we built species distribution models (SDMs) and ecological niche models. These apple snails (Gastropoda: Ampullariidae) have negatively impacted ecosystems and human health. Understanding their distribution is crucial for containing...

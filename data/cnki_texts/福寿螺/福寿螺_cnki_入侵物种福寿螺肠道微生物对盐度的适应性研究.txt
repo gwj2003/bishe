@@ -1,0 +1,4 @@
+SOURCE_TITLE: 入侵物种福寿螺肠道微生物对盐度的适应性研究
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pRyEH1zAkfrJMsnfQ_3dFUx90O8_9nTlzJ6HcdaU6SFIgVm_bCaxXUDWrGJoH4TeGqDGvmXCallmnyvwll5Wwg0TMUtgvWBFLEN_H0dJ0t-_bG6NkyZ4ziWGGwnkUXEj4dqwMWPDLTzBtPLD8vd9afDr5Fis5NjWBDZbXH5RjnyHda_FDoRmXf&uniplatform=NZKPT&language=CHS
+
+盐度作为影响淡水生态系统结构与功能的关键环境因子,对水生动物的生理状态及其共生微生物群落构建具有重要影响。福寿螺作为一种典型的淡水入侵软体动物,在南方多种盐度环境中广泛分布,其肠道微生物不仅参与宿主的营养吸收与免疫调控,还间接影响其对环境的适应能力,然而目前关于福寿螺肠道微生物是如何应对盐度变化的机制还不清楚。本文基于广东省15个采样区域的240个福寿螺肠道微生物测序数据与不同盐度处理(0、3、6、9、12 g/L)以及盐度扰动(低-中-高、高-中-低)实验数据,综合分析了盐度对福寿螺存活率及肠道微生物群落结构及其功能的影响,主要研究结果如下: 1、基于野外采样数据分析,不同盐度区域福寿螺肠道微生物群落结构存在显著差异。优势菌门主要为变形菌门(Proteobacteria)、厚壁菌门(Firmicutes)和拟杆菌门(Bacteroidota)。低盐区ACE指数较高,而Shannon指数与Simpson指数差异不显著(P>0.05)。网络分析显示厚壁菌门(Firmicutes)为核心菌门,并且与变形菌门(Proteobacteria)、放线菌门(Actinobacteriota)、...

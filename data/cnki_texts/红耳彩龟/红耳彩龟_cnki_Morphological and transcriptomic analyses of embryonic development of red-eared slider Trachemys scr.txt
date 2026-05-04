@@ -1,0 +1,4 @@
+SOURCE_TITLE: Morphological and transcriptomic analyses of embryonic development of red-eared slider Trachemys scripta elegans
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qZNVsPUvX6-cdX9VDBK0pJLdwL5ejdD2pnpjHvBnvQ6wEs5MpoPPsBgh7G9_IP5sO3l6GoEW-U3mDzoLK_TuOTerT5fjEj-J5fz8_FYRTCxFClxKSYpytfn9Sgrlz2899vlaXpvUEiN0u0_VCYMNen2F4B_Mzqsj0dE_NcTRjYro5y_6d98sFmFENA_EjlBqY2JCgofCzHDg==&uniplatform=NZKPT&language=CHS
+
+Embryology provides an understanding of individual’s origin and developmental patterns. Turtles are among the oldest living reptiles and have unique body structure. However, the morphogenesis and mechanisms of turtles are not fully understood. In this study, we focused on the embryonic development of red-eared slider (Trachemys scripta elegans) which widely distributes in the world. At an incubation temperature of 28 °C, the turtle eggs had a 61-d...

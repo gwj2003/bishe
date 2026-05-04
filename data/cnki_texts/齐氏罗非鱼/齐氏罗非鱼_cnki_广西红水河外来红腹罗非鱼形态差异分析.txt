@@ -1,0 +1,4 @@
+SOURCE_TITLE: 广西红水河外来红腹罗非鱼形态差异分析
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oocCSQ9uq7vOzo8XaCVqGVo_WvoBDnystEoZJro0cgNqbMZaUyKtBnXY-7ZrnXRTRQB0d7aiKfTzFaNFNhTv500af4h0CkIudBr0qPtAp0nHw5MoiFReszyRGtAw749Py2aeVMlT59SAe7U8d3H1JagPXDBGIVDIWK6RqE92W5YQ==&uniplatform=NZKPT&language=CHS
+
+【目的】对广西红水河流域天峨、东兰、巴马、大化、都安、合山和来宾共7个地理群体的外来红腹罗非鱼(Coptodon zillii)进行形态差异分析,探讨该物种在不同地理生境下的形态变异情况及生存状态,以对其入侵现状及危害风险进行科学评估。【方法】基于传统形态学数据和框架数据,采用主成分分析、判别分析和聚类分析等多元统计分析方法,对该7个地理群体共865尾野生雄性红腹罗非鱼进行形态特征比较。【结果】主成分分析共提取了6个主成分(PCA1～PCA6),其中前3个主成分贡献率较高,主要反映鱼体头尾轴、躯干部和尾部的形态变化。PCA1和PCA2散点图显示,多数地理群体已产生明显偏离,各群体在PCA1轴上的差异较在PCA2轴上的差异更为显著。判别分析中,各地理群体判别准确率为80.12%～98.52%,综合判别率为91.29%,除来宾群体和巴马群体间存在少数误判外,通过判别函数可以很好地将其余群体进行区分。聚类分析表明,来宾群体和巴马群体聚为一支,与其它群体的相似性最低,而其它群体间的相似性则较高。7个地理群体体长—体质量的回归分析及肥满度结果显示,各地理群体在野外生长速度均匀,鱼体肥满。【结论】...

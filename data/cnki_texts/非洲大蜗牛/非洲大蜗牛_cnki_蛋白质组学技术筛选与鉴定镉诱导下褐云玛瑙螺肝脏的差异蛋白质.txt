@@ -1,0 +1,4 @@
+SOURCE_TITLE: 蛋白质组学技术筛选与鉴定镉诱导下褐云玛瑙螺肝脏的差异蛋白质
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1o1XzJQknlOJfET-c76F6yr1bUck_iWNtKrsy_ni3rmdjnvMU1T6PhannQg6tM5wc_XaKo7g7Y42omC4CTslIdQf6A0pCKnahHQdfoSTznWGRyca3Pl5i4ovxwQpntq9JHFqIvj318nlGtE06Ox0kgRtxp0FKh7gXtn4RrkLkGb9A==&uniplatform=NZKPT&language=CHS
+
+比较丙酮/TCA沉淀法和直接裂解法,优化提取与分离褐云玛瑙螺(Achatina fulica,AF)肝脏全蛋白。采用丙酮/TCA沉淀法,可获得约600个蛋白质斑点。用0.5 mg/L CdCl2溶液浸泡后的去梗小白菜喂养AF,并作为镉盐诱导AF肝脏表达应激蛋白质的实验材料。采用蛋白质组学技术筛选出由镉盐诱导AF肝脏表达的14个差异蛋白质斑点,并用肽质量指纹图谱技术(peptide mass fingerprinting,PMF)和数据库比对法初步鉴定出7种差异蛋白质,其中部分为热激蛋白(heat shock protein)、甲基转移酶(Methyltransferase)、三磷酸腺苷结合盒子转运体(ABC transporter)、钼酸盐转运子亚基(molybdate transporter subunit)和磷酸甘油酸变位酶(phosphoglycerate mutase)。差异蛋白质均参与镉盐代谢,并适合作为监测土壤或食物中镉污染程度及危害性的指示蛋白质。

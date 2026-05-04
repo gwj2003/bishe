@@ -1,0 +1,4 @@
+SOURCE_TITLE: 基于Maxent模型预测褐云玛瑙螺在我国的潜在地理分布
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q2PI1kWorz1ZUBWJ-M1J29uQXSuVQiSRNCpTiW4ojobRFZ651CKyNxW8MatkylfdF2BvmDDwuq03aO0Vyfy22Qn0Dq8EK4SXpnvjRDpubnCm717Wntlrn9bxkpBfNMXJWGvbjZ2aw44R7pWHpNsMT1S7IdmkCHV6bKNI0s3HMXTA==&uniplatform=NZKPT&language=CHS
+
+目的通过Maxent模型的建立,预测褐云玛瑙螺在当前和未来气候变化的情况下在我国的地理分布,为监测和消灭这种入侵生物提供依据。方法应用生物信息学的研究方法,采集数据库中和现场采样的信息,利用世界范围内足够数量的分布点信息建立模型,计算得到褐云玛瑙螺在我国各地区的分布潜力。结果获得了精度极高的预测模型,当前气候条件下褐云玛瑙螺的适生区面积达到了196.5×104km2,占国土面积的20.4%,包括了长江以南和横断山脉群以东的陆地省份,以及台湾省和海南省的全部。高中低适生区的面积分别为28.1×104km2、41.5×104km2、126.9×104km2。在未来气候预测模型中,褐云玛瑙螺的适生区分布没有明显变化。结论褐云玛瑙螺在我国入侵扩大的风险依然长期存在,但在未来气候模型的条件下,其适生区域较为稳定,不会随着气候的变化显著改变。

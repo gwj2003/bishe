@@ -1,0 +1,4 @@
+SOURCE_TITLE: Arsenic accumulation and reproductive toxicity in freshwater snail (Pomacea canaliculata)
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rMImK5gsEai_f04Esd7_lbBA1C0iOCzdyeTahN4wwuhZuexhDdNqFdXC9IccDFVtTuCg9TdDFPPAUIIQ4vEAx41wpKsZQjKvkkw2fLxSxv3O-FvGn9pI7PXHxOKu6i8CKq05X_azFgjFq2zdPl53RdPCXIJTEYAnejTS1NWCHsUOI3PV9FSJIjAoJ7dVSscV89rmRCcEWRrQ==&uniplatform=NZKPT&language=CHS
+
+This study aimed to investigate the tissue-specific accumulation patterns of arsenic (As) and the potential toxicological effects of As on the oviposition of a globally distributed aquatic invertebrate, the apple snail (Pomacea canaliculata). An eight-compartment physiologically based pharmacokinetic (PBPK) model was utilized to simulate the distribution and depuration kinetics of arsenite and arsenate in the snails. Modeling and biotransformation sugg...

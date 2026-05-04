@@ -1,0 +1,4 @@
+SOURCE_TITLE: Evaluating Local Factors Shaping the Distribution of the Invasive American Bullfrog in a Mountainous Region of Argentina
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qdK_qQZCpqi4TSBt-MWjLv3Te-DIgWW0gQJWRD3e8R4sK-qNMFdOqSPa5tMfVspWapXSSZa7DRJQC8yAH1EI735MB5bZRVltFrjf06CFPQaGd9yo6KuUYyC_1d5CGjyxOOclY2VHiDFyVPQ978vUjiCuDf8QS5tBcv-1fYSFu57l9LBK-UQzrd_GznViIelvf99vpz6YEgqQ==&uniplatform=NZKPT&language=CHS
+
+Areas with aquatic ecosystems invaded by the American bullfrog face the challenge of managing its proliferation worldwide. This amphibian is native to eastern North America and is now invasive in several regions. This study reports a new invasive population in the Ctalamochita River basin (Río Tercero, Córdoba Province; Argentinian) and outlines its potential distribution using a species distribution model. Utilizing a MaxEnt model at a small geographi...

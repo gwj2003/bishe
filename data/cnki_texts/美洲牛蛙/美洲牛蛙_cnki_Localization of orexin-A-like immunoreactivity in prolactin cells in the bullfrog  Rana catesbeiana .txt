@@ -1,0 +1,4 @@
+SOURCE_TITLE: Localization of orexin-A-like immunoreactivity in prolactin cells in the bullfrog ( Rana catesbeiana ) pituitary
+URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q1EhPpdMUVWYJMBG0n2cd8HT9nJcLKV-P2SHQ35qDE4vqPiWlH3Kt05OHx4Q56I06ja-nBEBipaLkRlv-NJ7GU0LJHeVQ8pG5YiKH-BzOltBJoyEQHJylYdptfK_WSMFLKNuvstsCQMOjN1x_ZzkcU628Z4dmAgtWnyuW9Dqy9ol_uW2VVlLaNKstnNRbyN8RsGe0ofjnqRA==&uniplatform=NZKPT&language=CHS
+
+Abstract(#br)Immunohistochemical techniques were employed to investigate the distribution of orexin-A-like immunoreactivity in the bullfrog ( Rana catesbeiana ) pituitary. Orexin-A-immunoreactive cells were scattered throughout the pars distalis. We found that these cells corresponded to the cells immunostained with antiserum against bullfrog prolactin (fPRL). Immunoelectron microscopic analysis indicated that an orexin-A-like substance coexisted with ...
