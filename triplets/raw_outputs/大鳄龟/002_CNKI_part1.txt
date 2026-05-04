@@ -1,0 +1,26 @@
+Entity1,Relationship,Entity2,Property
+大鳄龟,HAS_ALIAS,Macroclemys temminckii,type=学名
+大鳄龟,HAS_ALIAS,Almigator Snapping Turtie,type=英文名
+大鳄龟,HAS_ALIAS,大鳄鱼龟,type=俗名
+大鳄龟,HAS_ALIAS,蛇鳄龟,type=俗名
+大鳄龟,HAS_ALIAS,驼峰龟,type=俗名
+大鳄龟,BELONGS_TO,鳄龟科,rank=科
+大鳄龟,BELONGS_TO,大鳄龟属,rank=属
+大鳄龟,NATIVE_TO,堪萨斯州,null
+堪萨斯州,LOCATED_IN,美国,null
+大鳄龟,NATIVE_TO,艾奥瓦州,null
+艾奥瓦州,LOCATED_IN,美国,null
+大鳄龟,NATIVE_TO,伊利诺伊州,null
+伊利诺伊州,LOCATED_IN,美国,null
+大鳄龟,NATIVE_TO,乔治亚州,null
+乔治亚州,LOCATED_IN,美国,null
+大鳄龟,NATIVE_TO,佛罗里达州,null
+佛罗里达州,LOCATED_IN,美国,null
+大鳄龟,NATIVE_TO,德克萨斯州,null
+德克萨斯州,LOCATED_IN,美国,null
+大鳄龟,REPORTED_IN,中国,year=1998;status=少量引进
+大鳄龟,HAS_MORPHOLOGY,外形如同鳄鱼,null
+大鳄龟,HAS_HABIT,抗病力强,null
+大鳄龟,HAS_HABIT,适应性广,null
+大鳄龟,HAS_HABIT,生长较快,null
+大鳄龟,HAS_HABIT,出肉率较高,null

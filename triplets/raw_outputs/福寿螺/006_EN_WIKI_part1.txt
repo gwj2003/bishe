@@ -1,0 +1,42 @@
+Entity1,Relationship,Entity2,Property
+福寿螺,HAS_ALIAS,Pomacea canaliculata,type=学名
+福寿螺,HAS_ALIAS,channeled apple snail,type=俗名
+福寿螺,HAS_ALIAS,golden apple snail,type=俗名
+福寿螺,BELONGS_TO,瓶螺科,rank=科
+福寿螺,BELONGS_TO,苹果螺属,rank=属
+福寿螺,NATIVE_TO,阿根廷,null
+福寿螺,NATIVE_TO,玻利维亚,null
+福寿螺,NATIVE_TO,巴拉圭,null
+福寿螺,NATIVE_TO,乌拉圭,null
+福寿螺,NATIVE_TO,巴西,null
+阿根廷,LOCATED_IN,南美洲,null
+玻利维亚,LOCATED_IN,南美洲,null
+巴拉圭,LOCATED_IN,南美洲,null
+乌拉圭,LOCATED_IN,南美洲,null
+巴西,LOCATED_IN,南美洲,null
+福寿螺,REPORTED_IN,中山市,year=1981;status=初始分布点
+福寿螺,REPORTED_IN,大理市,year=2009;status=发现感染
+福寿螺,HAS_MORPHOLOGY,球形贝壳,null
+福寿螺,HAS_MORPHOLOGY,棕色黑色黄褐色条纹,null
+福寿螺,HAS_MORPHOLOGY,粉红色或橙色卵块,null
+福寿螺,HAS_MORPHOLOGY,壳长可达150毫米,null
+福寿螺,HAS_HABIT,耐低温,null
+福寿螺,HAS_HABIT,杂食性,null
+福寿螺,HAS_HABIT,夜间产卵,null
+福寿螺,THRIVES_IN,淡水湖,null
+福寿螺,THRIVES_IN,河流,null
+福寿螺,THRIVES_IN,池塘,null
+福寿螺,THRIVES_IN,沼泽,null
+福寿螺,THRIVES_IN,稻田,null
+福寿螺,THRIVES_IN,芋头田,null
+福寿螺,INTRODUCED_VIA,人为放生,null
+福寿螺,INTRODUCED_VIA,养殖逃逸,null
+福寿螺,INTRODUCED_VIA,水族馆丢弃,null
+福寿螺,PREYS_ON,水稻,severity=主要农业害虫
+福寿螺,PREYS_ON,芋头,severity=主要农业害虫
+福寿螺,COMPETES_WITH,本土田螺属物种,severity=排挤
+福寿螺,COMPETES_WITH,环棱螺,severity=排挤
+福寿螺,CAUSES,破坏生态平衡,type=生态危害
+福寿螺,CAUSES,传播疾病,type=公共卫生危害
+福寿螺,SUPPRESSED_BY,调节水位,method=物理防治
+福寿螺,SUPPRESSED_BY,植物环肽提取物,method=化学防治

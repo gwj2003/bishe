@@ -1,0 +1,17 @@
+Entity1,Relationship,Entity2,Property
+豹纹翼甲鲶,HAS_ALIAS,琵琶鼠,type=俗名
+豹纹翼甲鲶,HAS_ALIAS,清道夫鱼,type=俗名
+豹纹翼甲鲶,HAS_ALIAS,垃圾鱼,type=俗名
+豹纹翼甲鲶,HAS_ALIAS,Pterygoplichthys pardalis,type=学名
+豹纹翼甲鲶,BELONGS_TO,鲇形目,rank=目
+豹纹翼甲鲶,BELONGS_TO,甲鲇科,rank=科
+豹纹翼甲鲶,BELONGS_TO,翼甲鲇属,rank=属
+豹纹翼甲鲶,NATIVE_TO,亚马逊河中游流域,null
+亚马逊河中游流域,LOCATED_IN,南美洲,null
+豹纹翼甲鲶,HAS_MORPHOLOGY,体长可达49公分,null
+豹纹翼甲鲶,HAS_HABIT,栖息在底层水域,null
+豹纹翼甲鲶,INTRODUCED_VIA,作为观赏鱼,null
+豹纹翼甲鲶,REPORTED_IN,马利金纳河,year=null;status=null
+马利金纳河,LOCATED_IN,菲律宾,null
+豹纹翼甲鲶,REPORTED_IN,台湾,year=null;status=null
+豹纹翼甲鲶,REPORTED_IN,美国,year=null;status=null

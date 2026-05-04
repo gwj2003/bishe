@@ -1,8 +1,21 @@
 
+import os
+import sys
+
+# Keep PROJ/GDAL data paths aligned with the Python environment that is
+# actually running this app. Mixing base Anaconda packages with another
+# conda env is what triggers errors such as "numpy._core.multiarray failed".
+conda_share_dir = os.path.join(sys.prefix, "Library", "share")
+proj_dir = os.path.join(conda_share_dir, "proj")
+gdal_dir = os.path.join(conda_share_dir, "gdal")
+if os.path.isdir(proj_dir):
+    os.environ["PROJ_LIB"] = proj_dir
+if os.path.isdir(gdal_dir):
+    os.environ["GDAL_DATA"] = gdal_dir
+
 import streamlit as st
 import pandas as pd
 import folium
-import os
 import geopandas as gpd
 import random
 import datetime
@@ -33,14 +46,19 @@ with st.sidebar:
     openai_key = st.text_input("DeepSeek API Key", value="sk-5e6dd505dfba4033bdfd652f00c30959", type="password")
     neo4j_pwd = st.text_input("Neo4j 密码", value="12345sss", type="password")
 
-# 全局加载物种列表数据，供两个 Tab 共享
+# 全局加载合并数据
 data_dir = "data/gbif_results"
+merged_csv_path = os.path.join(data_dir, "gbif_dedup_by_admin_year.csv")
 species_names = []
-if os.path.exists(data_dir):
-    species_files = [f for f in os.listdir(data_dir) if f.endswith('.csv')]
-    species_names = [f.replace(".csv", "") for f in species_files]
+
+if os.path.exists(merged_csv_path):
+    try:
+        merged_data = pd.read_csv(merged_csv_path, encoding="utf-8")
+        species_names = sorted(merged_data["species_label"].unique().tolist())
+    except Exception as e:
+        st.error(f"加载数据失败: {e}")
 else:
-    st.error("未找到数据目录 data/gbif_results")
+    st.error(f"未找到合并数据文件: {merged_csv_path}")
 
 
 
@@ -64,9 +82,13 @@ def load_china_map():
 
 
 @st.cache_data
-def get_standard_province_data(csv_path):
+def get_standard_province_data(species_label):
     """GIS 空间识别逻辑 - 加速版"""
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(merged_csv_path)
+    # 过滤指定物种
+    df = df[df["species_label"] == species_label].copy()
+    if df.empty:
+        return None, None
 
     # 1. 预处理：剔除没有经纬度的脏数据，防止几何转换报错
     df = df.dropna(subset=['lng', 'lat'])
@@ -106,33 +128,87 @@ def get_graph_chain(api_key, db_password):
     )
 
     # 2. 手动注入精确的 Schema 结构 (来自 app.py)
+# 2. 手动注入精确的 Schema 结构 (对齐新版提取提示词规则)
     graph.structured_schema = {
         "node_props": {
             "Species": [{"property": "name", "type": "STRING"}],
             "Taxonomy": [{"property": "name", "type": "STRING"}],
-            "Location": [{"property": "name", "type": "STRING"}],
+            "Origin": [{"property": "name", "type": "STRING"}],
+            "Province": [{"property": "name", "type": "STRING"}],
+            "City": [{"property": "name", "type": "STRING"}],
+            "District": [{"property": "name", "type": "STRING"}],
+            "Region": [{"property": "name", "type": "STRING"}],
+            "Habitat": [{"property": "name", "type": "STRING"}],
+            "Pathway": [{"property": "name", "type": "STRING"}],
+            "Target": [{"property": "name", "type": "STRING"}],
             "Impact": [{"property": "name", "type": "STRING"}],
-            "Control": [{"property": "name", "type": "STRING"}]
+            "Control": [{"property": "name", "type": "STRING"}],
+            "Event": [{"property": "name", "type": "STRING"}],
+            "TimePeriod": [{"property": "name", "type": "STRING"}],
+            "Morphology": [{"property": "name", "type": "STRING"}],
+            "Habit": [{"property": "name", "type": "STRING"}]
         },
         "relationships": [
             {"start": "Species", "type": "HAS_ALIAS", "end": "Species"},
             {"start": "Species", "type": "BELONGS_TO", "end": "Taxonomy"},
-            {"start": "Species", "type": "NATIVE_TO", "end": "Location"},
-            {"start": "Species", "type": "INVADES", "end": "Location"},
+            {"start": "Species", "type": "NATIVE_TO", "end": "Origin"},
+            {"start": "Species", "type": "HAS_MORPHOLOGY", "end": "Morphology"},
+            {"start": "Species", "type": "HAS_HABIT", "end": "Habit"},
+            {"start": "Species", "type": "REPORTED_IN", "end": "Province"},
+            {"start": "Species", "type": "REPORTED_IN", "end": "City"},
+            {"start": "Species", "type": "REPORTED_IN", "end": "District"},
+            {"start": "Species", "type": "HAS_EVENT", "end": "Event"},
+            {"start": "District", "type": "LOCATED_IN", "end": "City"},
+            {"start": "City", "type": "LOCATED_IN", "end": "Province"},
+            {"start": "Origin", "type": "LOCATED_IN", "end": "Origin"},
+            {"start": "Region", "type": "LOCATED_IN", "end": "Region"},
+            {"start": "Species", "type": "THRIVES_IN", "end": "Habitat"},
+            {"start": "Species", "type": "INTRODUCED_VIA", "end": "Pathway"},
+            {"start": "Species", "type": "PREYS_ON", "end": "Target"},
+            {"start": "Species", "type": "COMPETES_WITH", "end": "Target"},
             {"start": "Species", "type": "CAUSES", "end": "Impact"},
-            {"start": "Species", "type": "SUPPRESSED_BY", "end": "Control"}
+            {"start": "Species", "type": "AFFECTS", "end": "Target"},
+            {"start": "Species", "type": "AFFECTS", "end": "Region"},
+            {"start": "Event", "type": "AFFECTS", "end": "Target"},
+            {"start": "Event", "type": "AFFECTS", "end": "Region"},
+            {"start": "Control", "type": "MITIGATES", "end": "Species"}, 
+            {"start": "Control", "type": "MITIGATES", "end": "Impact"},
+            {"start": "Control", "type": "MITIGATES", "end": "Event"},
+            {"start": "Event", "type": "DURING", "end": "TimePeriod"},
+            {"start": "Event", "type": "CAUSES", "end": "Impact"},
+            {"start": "Event", "type": "CAUSES", "end": "Event"},
+            {"start": "Event", "type": "CONTAINS", "end": "Event"},
+            {"start": "Region", "type": "CONTAINS", "end": "Region"},
+            {"start": "Region", "type": "SPREAD_RISK_TO", "end": "Region"}
         ],
         "metadata": {}
     }
 
     # 3. 深度 Cypher 生成提示词 (来自 app.py)
+# 3. 深度 Cypher 生成提示词 (增强版：加入属性与路径规则)
     CYPHER_GENERATION_TEMPLATE = """
-        任务：将用户问题转换为 Cypher 查询。
+        任务：将用户问题转换为 Neo4j Cypher 查询。
         Schema：{schema}
-        说明：
-        1. 模糊匹配使用 CONTAINS。
-        2. 仅使用 Schema 中的关系。
-        3. 只输出 Cypher。
+        说明与红线规则：
+          1. 仅使用 Schema 中存在的关系和节点类型，禁止臆造关系名或标签。
+          2. 节点名称模糊匹配优先使用 CONTAINS，但只在确实需要模糊检索时使用。
+                    3. 关系类型写法必须符合 Neo4j 语法：多个关系类型只写成 `:CAUSES|AFFECTS`，不要写成 `:CAUSES|:AFFECTS`。
+                         另外，尽量不要把“关系类型并列”与“变长路径 *0..1/*1..2”写在同一个模式里；如果需要多关系或多跳查询，优先拆成多个 MATCH / OPTIONAL MATCH。
+                4. 【重要属性】：
+           - REPORTED_IN 关系可能带有 `year` (年份) 和 `status` 属性。
+           - MITIGATES 关系带有 `method` (如:化学/物理/生物) 和 `type` (主要/辅助) 属性。
+           - CAUSES 关系带有 `type` (直接/间接) 属性。
+              - SPREAD_RISK_TO 关系带有 `confidence` (高/中/低) 属性。
+              - PREYS_ON / COMPETES_WITH 关系带有 `severity` (高/中/低) 属性。
+                    5. 【查询策略】：
+              - 查分布时优先用 Species-[:REPORTED_IN]->(Province/City/District)。
+              - 查入侵史、事件、治理行动时优先用 Species-[:HAS_EVENT]->(Event)，再从 Event 继续查 DURING / AFTER / CAUSES / MITIGATES。
+              - 查省市区层级时，可以补充使用 District-[:LOCATED_IN]->City、City-[:LOCATED_IN]->Province。
+              - 查区域扩散时优先用 Region-[:SPREAD_RISK_TO]->Region 或 Region-[:CONTAINS]->Region。
+              - 查防治手段时优先用 Control-[:MITIGATES]->(Species/Event/Impact)。
+              - 查引入途径、生境、别名、分类、危害时分别使用 INTRODUCED_VIA、THRIVES_IN、HAS_ALIAS、BELONGS_TO、CAUSES/AFFECTS/PREYS_ON/COMPETES_WITH。
+                    6. 如果问题涉及事件、时间或空间泛指词，优先按 Event / Region / TimePeriod 处理，不要强行映射到 Province。
+                    7. 只输出纯粹的 Cypher 代码，不要任何 Markdown 格式或多余解释。
         用户问题：{question}
         Cypher："""
 
@@ -162,166 +238,138 @@ tab1, tab2, tab3 = st.tabs(["🌍 分布识别分析", "🤖 智能知识问答"
 with tab1:
     if species_names:
         selected_species = st.selectbox("选择地图分析物种", species_names, key="map_species")
-        csv_path = os.path.join(data_dir, f"{selected_species}.csv")
 
         with st.spinner('地理空间分析中...'):
-            df_with_prov, province_stats = get_standard_province_data(csv_path)
-
-        valid_coords = df_with_prov.dropna(subset=['lat', 'lng'])
-        if not valid_coords.empty:
-            center_lat = valid_coords['lat'].mean()
-            center_lng = valid_coords['lng'].mean()
+            df_with_prov, province_stats = get_standard_province_data(selected_species)
+        
+        if df_with_prov is None:
+            st.warning(f"物种 {selected_species} 暂无数据")
         else:
-            center_lat, center_lng = 35.0, 105.0
 
-        # --- UI 优化：将地图控件移至此处并横向排列 ---
-        st.subheader("🗺️ 空间分布可视化")
+            valid_coords = df_with_prov.dropna(subset=['lat', 'lng'])
+            if not valid_coords.empty:
+                center_lat = valid_coords['lat'].mean()
+                center_lng = valid_coords['lng'].mean()
+            else:
+                center_lat, center_lng = 35.0, 105.0
 
-        ctrl_col1, ctrl_col2, ctrl_col3 = st.columns([2, 1, 1])
-        with ctrl_col1:
-            # 增加一个无聚合散点图选项，将原来的改名为聚合分布点图
-            geo_mode = st.radio("数据可视化模式",
-                                ["省级填色图", "聚合分布点图", "无聚合散点图", "空间热力图", "MaxEnt 适生区预测"],
-                                horizontal=True)
-        with ctrl_col2:
-            basemap_style = st.selectbox("底图样式", ["卫星影像 (Esri)", "街道图 (OSM)"], label_visibility="collapsed")
-        with ctrl_col3:
-            st.metric(label="有效坐标记录数", value=f"{len(valid_coords)} 条")
+            # --- UI 优化：将地图控件移至此处并横向排列 ---
+            st.subheader("🗺️ 空间分布可视化")
 
-        tiles_dict = {
-            "街道图 (OSM)": "OpenStreetMap",
-            "卫星影像 (Esri)": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
-        }
-        attr_dict = {
-            "卫星影像 (Esri)": "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community"
-        }
+            ctrl_col1, ctrl_col2, ctrl_col3 = st.columns([2, 1, 1])
+            with ctrl_col1:
+                # 增加一个无聚合散点图选项，将原来的改名为聚合分布点图
+                geo_mode = st.radio("数据可视化模式",
+                                    ["省级填色图", "聚合分布点图", "无聚合散点图", "空间热力图", "MaxEnt 适生区预测"],
+                                    horizontal=True)
+            with ctrl_col2:
+                basemap_style = st.selectbox("底图样式", ["卫星影像 (Esri)", "街道图 (OSM)"], label_visibility="collapsed")
+            with ctrl_col3:
+                st.metric(label="有效坐标记录数", value=f"{len(valid_coords)} 条")
 
-        # 1. 恢复完全默认的地图初始化
-        m = folium.Map(
-            location=[center_lat, center_lng],
-            zoom_start=5,
-            tiles=tiles_dict[basemap_style],
-            attr=attr_dict.get(basemap_style, "")
-        )
+            tiles_dict = {
+                "街道图 (OSM)": "OpenStreetMap",
+                "卫星影像 (Esri)": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+            }
+            attr_dict = {
+                "卫星影像 (Esri)": "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community"
+            }
 
-        # 2. 恢复默认全屏控件（会自动排在左上角缩放按钮下方）
-        Fullscreen(title='全屏', title_cancel='退出').add_to(m)
+            # 1. 恢复完全默认的地图初始化
+            m = folium.Map(
+                location=[center_lat, center_lng],
+                zoom_start=5,
+                tiles=tiles_dict[basemap_style],
+                attr=attr_dict.get(basemap_style, "")
+            )
 
-        # 3. 图层渲染逻辑
-        if geo_mode == "省级填色图":
-            folium.Choropleth(
-                geo_data="https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
-                data=province_stats, columns=["province_name", "counts"],
-                key_on="feature.properties.name", fill_color="YlOrRd",
-                legend_name="出现频次"
-            ).add_to(m)
+            # 2. 恢复默认全屏控件（会自动排在左上角缩放按钮下方）
+            Fullscreen(title='全屏', title_cancel='退出').add_to(m)
 
-        elif geo_mode == "聚合分布点图":
-            cluster = MarkerCluster().add_to(m)
-            for _, row in valid_coords.iterrows():
-                popup_html = f"""
-                        <div style='width: 150px;'>
-                            <b>识别省份:</b> {row.get('name', '未知')}<br>
-                            <b>经度:</b> {row['lng']:.4f}<br>
-                            <b>纬度:</b> {row['lat']:.4f}
-                        </div>
-                        """
-                folium.CircleMarker(
-                    location=[row['lat'], row['lng']],
-                    radius=5, color='#FF4500', fill=True, fill_opacity=0.7,
-                    popup=folium.Popup(popup_html, max_width=200)
-                ).add_to(cluster)
-
-        elif geo_mode == "无聚合散点图":
-            for _, row in valid_coords.iterrows():
-                folium.CircleMarker(
-                    location=[row['lat'], row['lng']],
-                    radius=2,
-                    color='#FF4500',
-                    fill=True,
-                    fill_opacity=0.8,
-                    weight=0
+            # 3. 图层渲染逻辑
+            if geo_mode == "省级填色图":
+                folium.Choropleth(
+                    geo_data="https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+                    data=province_stats, columns=["province_name", "counts"],
+                    key_on="feature.properties.name", fill_color="YlOrRd",
+                    legend_name="出现频次"
                 ).add_to(m)
 
+            elif geo_mode == "聚合分布点图":
+                cluster = MarkerCluster().add_to(m)
+                for _, row in valid_coords.iterrows():
+                    popup_html = f"""
+                            <div style='width: 150px;'>
+                                <b>识别省份:</b> {row.get('name', '未知')}<br>
+                                <b>经度:</b> {row['lng']:.4f}<br>
+                                <b>纬度:</b> {row['lat']:.4f}
+                            </div>
+                            """
+                    folium.CircleMarker(
+                        location=[row['lat'], row['lng']],
+                        radius=5, color='#FF4500', fill=True, fill_opacity=0.7,
+                        popup=folium.Popup(popup_html, max_width=200)
+                    ).add_to(cluster)
 
-        # ... 前面的省级填色图、散点图、热力图代码保持不变 ...
-
-        elif geo_mode == "空间热力图":
-
-            heat_data = [[row['lat'], row['lng']] for index, row in valid_coords.iterrows()]
-
-            HeatMap(heat_data, radius=15, blur=20, max_zoom=1).add_to(m)
-
-
-        # 新增：MaxEnt 栅格预测图层渲染逻辑
-
-        elif geo_mode == "MaxEnt 适生区预测":
-
-
-
-            # 支持 .tif 或 .asc 格式
-
-            raster_path_tif = os.path.join("data/maxent_results", f"{selected_species}.tif")
-            raster_path_asc = os.path.join("data/maxent_results", f"{selected_species}.asc")
-            raster_file = raster_path_tif if os.path.exists(raster_path_tif) else raster_path_asc if os.path.exists(
-                raster_path_asc) else None
-
-            if raster_file:
-
-                with rasterio.open(raster_file) as src:
-                    # 获取栅格的物理边界
-                    bounds = src.bounds
-                    # Folium 要求的边界格式是 [[南, 西], [北, 东]]
-                    img_bounds = [[bounds.bottom, bounds.left], [bounds.top, bounds.right]]
-                    # 读取第一波段数据
-                    data = src.read(1)
-                    nodata = src.nodata
-                    # 将无数据区域（NoData）转换为 NaN，避免干扰渲染
-                    if nodata is not None:
-                        data = np.where(data == nodata, np.nan, data)
-                    # MaxEnt 逻辑输出值域通常是 0~1，获取当前数据的实际极值用于归一化
-                    vmin, vmax = np.nanmin(data), np.nanmax(data)
-
-                    # 归一化处理矩阵，并应用 Matplotlib 的热力色带 (如 YlOrRd 或 jet)
-
-                    norm_data = (data - vmin) / (vmax - vmin)
-
-                    cmap = plt.get_cmap('YlOrRd')
-
-                    rgba_img = cmap(norm_data)
-
-                    # 处理 Alpha 透明度通道：NaN 区域完全透明 (0)，有数据的区域半透明 (0.7)
-
-                    rgba_img[..., 3] = np.where(np.isnan(data), 0, 0.7)
-
-                    # 将处理好的数组作为图像图层叠加到地图上
-
-                    raster_layers.ImageOverlay(
-
-                        image=rgba_img,
-
-                        bounds=img_bounds,
-
-                        opacity=0.7,
-
-                        name='适生区预测'
-
+            elif geo_mode == "无聚合散点图":
+                for _, row in valid_coords.iterrows():
+                    folium.CircleMarker(
+                        location=[row['lat'], row['lng']],
+                        radius=2,
+                        color='#FF4500',
+                        fill=True,
+                        fill_opacity=0.8,
+                        weight=0
                     ).add_to(m)
 
-                    # 在地图上添加对应的图例色带
 
-                    colormap = cm.LinearColormap(colors=['#ffffcc', '#fd8d3c', '#e31a1c'], vmin=vmin, vmax=vmax,
-                                                 caption=f'{selected_species} 适生概率')
+            elif geo_mode == "空间热力图":
+                heat_data = [[row['lat'], row['lng']] for index, row in valid_coords.iterrows()]
+                HeatMap(heat_data, radius=15, blur=20, max_zoom=1).add_to(m)
 
-                    colormap.add_to(m)
 
-            else:
+            elif geo_mode == "MaxEnt 适生区预测":
+                # 支持 .tif 或 .asc 格式
+                raster_path_tif = os.path.join("data/maxent_results", f"{selected_species}.tif")
+                raster_path_asc = os.path.join("data/maxent_results", f"{selected_species}.asc")
+                raster_file = raster_path_tif if os.path.exists(raster_path_tif) else raster_path_asc if os.path.exists(raster_path_asc) else None
 
-                st.warning(f"未在 data/maxent_results 目录下找到 {selected_species} 的预测结果文件 (.tif 或 .asc)。")
+                if raster_file:
+                    with rasterio.open(raster_file) as src:
+                        # 获取栅格的物理边界
+                        bounds = src.bounds
+                        # Folium 要求的边界格式是 [[南, 西], [北, 东]]
+                        img_bounds = [[bounds.bottom, bounds.left], [bounds.top, bounds.right]]
+                        # 读取第一波段数据
+                        data = src.read(1)
+                        nodata = src.nodata
+                        # 将无数据区域（NoData）转换为 NaN，避免干扰渲染
+                        if nodata is not None:
+                            data = np.where(data == nodata, np.nan, data)
+                        # MaxEnt 逻辑输出值域通常是 0~1，获取当前数据的实际极值用于归一化
+                        vmin, vmax = np.nanmin(data), np.nanmax(data)
+                        # 归一化处理矩阵，并应用 Matplotlib 的热力色带
+                        norm_data = (data - vmin) / (vmax - vmin)
+                        cmap = plt.get_cmap('YlOrRd')
+                        rgba_img = cmap(norm_data)
+                        # 处理 Alpha 透明度通道
+                        rgba_img[..., 3] = np.where(np.isnan(data), 0, 0.7)
+                        # 将处理好的数组作为图像图层叠加到地图上
+                        raster_layers.ImageOverlay(
+                            image=rgba_img,
+                            bounds=img_bounds,
+                            opacity=0.7,
+                            name='适生区预测'
+                        ).add_to(m)
+                        # 在地图上添加对应的图例色带
+                        colormap = cm.LinearColormap(colors=['#ffffcc', '#fd8d3c', '#e31a1c'], vmin=vmin, vmax=vmax,
+                                                     caption=f'{selected_species} 适生概率')
+                        colormap.add_to(m)
+                else:
+                    st.warning(f"未在 data/maxent_results 目录下找到 {selected_species} 的预测结果文件 (.tif 或 .asc)。")
 
-        # 渲染地图
-
-        st_folium(m, width="100%", height=600, returned_objects=[])
+            # 渲染地图
+            st_folium(m, width="100%", height=600, returned_objects=[])
 
 
 
@@ -656,17 +704,27 @@ with tab3:
 
         if st.button("💾 确认保存并更新系统", type="primary", use_container_width=True):
             try:
-                csv_path = os.path.join(data_dir, f"{target_species}.csv")
-
-                if os.path.exists(csv_path):
-                    df = pd.read_csv(csv_path)
+                # 从合并 CSV 读取数据
+                if os.path.exists(merged_csv_path):
+                    df = pd.read_csv(merged_csv_path)
                 else:
-                    df = pd.DataFrame(columns=['lng', 'lat', 'year'])
+                    df = pd.DataFrame(columns=['species_label', 'lng', 'lat', 'year', 'province', 'city', 'district', 'address', 'count', 'data_source'])
 
-                new_row = pd.DataFrame([{'lng': st.session_state.input_lng_widget,
-                                         'lat': st.session_state.input_lat_widget, 'year': new_year}])
+                # 新增行
+                new_row = pd.DataFrame([{
+                    'species_label': target_species,
+                    'lng': st.session_state.input_lng_widget,
+                    'lat': st.session_state.input_lat_widget,
+                    'year': new_year,
+                    'province': None,
+                    'city': None,
+                    'district': None,
+                    'address': st.session_state.input_addr_widget,
+                    'count': 1,
+                    'data_source': 'UserInput'
+                }])
                 df = pd.concat([df, new_row], ignore_index=True)
-                df.to_csv(csv_path, index=False)
+                df.to_csv(merged_csv_path, index=False, encoding="utf-8")
 
                 get_standard_province_data.clear()
 

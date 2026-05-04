@@ -1,0 +1,115 @@
+Lissachatina fulica,BELONGS_TO,柄眼目,rank=目
+Lissachatina fulica,BELONGS_TO,玛瑙螺科,rank=科
+Lissachatina fulica,BELONGS_TO,光滑玛瑙螺属,rank=属
+Lissachatina fulica,HAS_ALIAS,褐云玛瑙螺,type=学名
+Lissachatina fulica,HAS_ALIAS,非洲大蜗牛,type=俗名
+Lissachatina fulica,HAS_ALIAS,菜螺,type=俗名
+Lissachatina fulica,HAS_ALIAS,露螺,type=俗名
+Lissachatina fulica,NATIVE_TO,非洲东部,type=原产地
+非洲东部,LOCATED_IN,非洲,type=大洲
+Lissachatina fulica,THRIVES_IN,菜地,type=生境
+Lissachatina fulica,THRIVES_IN,农田,type=生境
+Lissachatina fulica,THRIVES_IN,果园,type=生境
+Lissachatina fulica,THRIVES_IN,公园,type=生境
+Lissachatina fulica,THRIVES_IN,橡胶园,type=生境
+Lissachatina fulica,THRIVES_IN,杂草丛生环境,type=生境
+Lissachatina fulica,THRIVES_IN,树木葱郁环境,type=生境
+Lissachatina fulica,THRIVES_IN,农作物繁茂阴暗潮湿环境,type=生境
+Lissachatina fulica,THRIVES_IN,腐殖质土壤,type=生境
+Lissachatina fulica,THRIVES_IN,枯草堆,type=生境
+Lissachatina fulica,THRIVES_IN,洞穴,type=生境
+Lissachatina fulica,THRIVES_IN,树枝落叶和石块下,type=生境
+Lissachatina fulica,HAS_HABIT,夜行性,type=习性
+Lissachatina fulica,HAS_HABIT,喜好潮湿环境,type=习性
+Lissachatina fulica,PREYS_ON,蔬菜,severity=高
+Lissachatina fulica,PREYS_ON,花卉,severity=高
+Lissachatina fulica,PREYS_ON,农作物,severity=高
+Lissachatina fulica,INTRODUCED_VIA,食用因素,type=引入途径
+Lissachatina fulica,REPORTED_IN,台湾,year=1932;status=引入
+Lissachatina fulica,REPORTED_IN,福建,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,广东,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,广西,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,云南,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,海南,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,新北市平溪区,year=未知;status=分布
+平溪区,LOCATED_IN,新北市,type=行政区
+新北市,LOCATED_IN,台湾,type=行政区
+Lissachatina fulica,REPORTED_IN,屏东县恒春半岛,year=未知;status=分布
+恒春半岛,LOCATED_IN,屏东县,type=行政区
+屏东县,LOCATED_IN,台湾,type=行政区
+Lissachatina fulica,REPORTED_IN,屏东县好茶玛家,year=未知;status=分布
+好茶玛家,LOCATED_IN,屏东县,type=行政区
+Lissachatina fulica,REPORTED_IN,花莲县玉里镇,year=未知;status=分布
+玉里镇,LOCATED_IN,花莲县,type=行政区
+花莲县,LOCATED_IN,台湾,type=行政区
+Lissachatina fulica,REPORTED_IN,南投县草屯镇,year=未知;status=分布
+草屯镇,LOCATED_IN,南投县,type=行政区
+南投县,LOCATED_IN,台湾,type=行政区
+Lissachatina fulica,REPORTED_IN,南投县埔里镇,year=未知;status=分布
+埔里镇,LOCATED_IN,南投县,type=行政区
+Lissachatina fulica,REPORTED_IN,新北市板桥区,year=未知;status=分布
+板桥区,LOCATED_IN,新北市,type=行政区
+Lissachatina fulica,REPORTED_IN,新北市新店区,year=未知;status=分布
+新店区,LOCATED_IN,新北市,type=行政区
+Lissachatina fulica,REPORTED_IN,南投市,year=未知;status=分布
+南投市,LOCATED_IN,南投县,type=行政区
+Lissachatina fulica,REPORTED_IN,嘉义县阿里山,year=未知;status=分布
+阿里山,LOCATED_IN,嘉义县,type=行政区
+嘉义县,LOCATED_IN,台湾,type=行政区
+Lissachatina fulica,REPORTED_IN,屏东县来义,year=未知;status=分布
+来义,LOCATED_IN,屏东县,type=行政区
+Lissachatina fulica,REPORTED_IN,恒春半岛内文地区,year=未知;status=分布
+内文地区,LOCATED_IN,恒春半岛,type=行政区
+Lissachatina fulica,REPORTED_IN,屏东县满州乡,year=未知;status=分布
+满州乡,LOCATED_IN,屏东县,type=行政区
+Lissachatina fulica,REPORTED_IN,花莲县太鲁阁,year=未知;status=分布
+太鲁阁,LOCATED_IN,花莲县,type=行政区
+Lissachatina fulica,REPORTED_IN,桑给巴尔,year=未知;status=分布
+桑给巴尔,LOCATED_IN,坦桑尼亚,type=国家
+Lissachatina fulica,REPORTED_IN,毛里求斯,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,马达加斯加,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,塞舌尔,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,印度,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,斯里兰卡,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,越南,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,柬埔寨,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,老挝,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,新加坡,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,马来西亚,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,泰国,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,菲律宾,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,印度尼西亚,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,澳门,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,香港,year=未知;status=分布
+Lissachatina fulica,REPORTED_IN,日本,year=未知;status=分布
+Lissachatina fulica,CAUSES,生态影响,type=直接
+Lissachatina fulica,CAUSES,农作物损害,type=直接
+Lissachatina fulica,CAUSES,人类健康风险,type=直接
+Lissachatina fulica,AFFECTS,蔬菜,type=直接
+Lissachatina fulica,AFFECTS,花卉,type=直接
+Lissachatina fulica,AFFECTS,农作物,type=直接
+Lissachatina fulica,CAUSES,嗜伊红性脑膜炎,type=间接
+Lissachatina fulica,CAUSES,广东住血线虫传播,type=间接
+Lissachatina fulica,INTRODUCED_VIA,下条久马一引入,type=事件
+下条久马一引入,BEFORE,入侵爆发,type=时间
+入侵爆发,CAUSES,生态影响,type=直接
+入侵爆发,CAUSES,农作物损害,type=直接
+入侵爆发,CAUSES,人类健康风险,type=直接
+Lissachatina fulica,SPREAD_RISK_TO,亚洲,confidence=高
+Lissachatina fulica,SPREAD_RISK_TO,太平洋地区,confidence=高
+Lissachatina fulica,SPREAD_RISK_TO,印度洋地区,confidence=高
+Lissachatina fulica,SPREAD_RISK_TO,美洲,confidence=高
+Lissachatina fulica,SPREAD_RISK_TO,台湾全境,confidence=高
+台湾全境,CONTAINS,新北市,type=行政区
+台湾全境,CONTAINS,屏东县,type=行政区
+台湾全境,CONTAINS,花莲县,type=行政区
+台湾全境,CONTAINS,南投县,type=行政区
+台湾全境,CONTAINS,嘉义县,type=行政区
+Lissachatina fulica,COMPETES_WITH,本土物种,severity=高
+Lissachatina fulica,CAUSES,入侵物种认定,type=直接
+Lissachatina fulica,CAUSES,世界百大外来入侵种,type=直接
+Lissachatina fulica,MITIGATES,炒螺肉食用,type=防治
+炒螺肉食用,REQUIRES,完全熟食,type=条件
+完全熟食,MITIGATES,嗜伊红性脑膜炎,type=间接
+Lissachatina fulica,CAUSES,同类相食,type=间接
+Lissachatina fulica,THRIVES_IN,陆地环境,type=生境

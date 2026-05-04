@@ -1,0 +1,26 @@
+Entity1,Relationship,Entity2,Property
+豹纹翼甲鲶,HAS_ALIAS,清道夫,type=俗名
+豹纹翼甲鲶,HAS_ALIAS,琵琶鱼,type=俗名
+豹纹翼甲鲶,HAS_ALIAS,Pterygoplichthys pardalis,type=学名
+豹纹翼甲鲶,BELONGS_TO,骨甲鲶科,rank=科
+豹纹翼甲鲶,BELONGS_TO,翼甲鲶属,rank=属
+豹纹翼甲鲶,NATIVE_TO,亚马逊河流域,null
+亚马逊河流域,LOCATED_IN,南美洲,null
+豹纹翼甲鲶,INTRODUCED_VIA,作为观赏鱼引入,type=引入途径
+豹纹翼甲鲶,INTRODUCED_VIA,逃逸和弃养,type=引入途径
+豹纹翼甲鲶,REPORTED_IN,广东省,year=1990;status=引入
+豹纹翼甲鲶,HAS_MORPHOLOGY,体长可达51.5厘米,null
+豹纹翼甲鲶,HAS_MORPHOLOGY,体表具黑白色花纹,null
+豹纹翼甲鲶,HAS_MORPHOLOGY,头部扁平,null
+豹纹翼甲鲶,HAS_MORPHOLOGY,口唇呈吸盘状,null
+豹纹翼甲鲶,HAS_MORPHOLOGY,尾柄细长,null
+豹纹翼甲鲶,HAS_MORPHOLOGY,背鳍高耸,null
+豹纹翼甲鲶,HAS_HABIT,杂食性,null
+豹纹翼甲鲶,PREYS_ON,鱼卵,severity=日食3000-5000粒
+豹纹翼甲鲶,PREYS_ON,藻类,severity=吞食
+豹纹翼甲鲶,PREYS_ON,鱼类粘液,severity=吞食
+豹纹翼甲鲶,PREYS_ON,鱼苗,severity=吞食
+豹纹翼甲鲶,CAUSES,破坏河岸结构导致水土流失,type=生态危害
+豹纹翼甲鲶,CAUSES,影响水生生物食物链,type=生态危害
+豹纹翼甲鲶,CAUSES,影响渔业生产,type=经济危害
+豹纹翼甲鲶,SUPPRESSED_BY,水下鱼卵智能识别专利技术,method=物理

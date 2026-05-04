@@ -1,0 +1,422 @@
+Lissachatina fulica,HAS_ALIAS,非洲大蜗牛,type=俗名
+Lissachatina fulica,HAS_ALIAS,giant African land snail,type=俗名
+Lissachatina fulica,HAS_ALIAS,giant African snail,type=俗名
+Lissachatina fulica,HAS_ALIAS,Achatina fulica,type=学名
+Lissachatina fulica,BELONGS_TO,Achatinidae,rank=科
+Lissachatina fulica,BELONGS_TO,Lissachatina,rank=属
+Lissachatina fulica,BELONGS_TO,Stylommatophora,rank=目
+Lissachatina fulica,NATIVE_TO,东非,type=原产地
+Lissachatina fulica,NATIVE_TO,马达加斯加,type=原产地
+Lissachatina fulica,THRIVES_IN,森林边缘,type=生境
+Lissachatina fulica,THRIVES_IN,农业区,type=生境
+Lissachatina fulica,THRIVES_IN,城市区,type=生境
+Lissachatina fulica,THRIVES_IN,落叶层,type=生境
+Lissachatina fulica,THRIVES_IN,碎片堆,type=生境
+Lissachatina fulica,INTRODUCED_VIA,宠物贸易,type=引入途径
+Lissachatina fulica,INTRODUCED_VIA,食物资源,type=引入途径
+Lissachatina fulica,INTRODUCED_VIA,意外引入,type=引入途径
+Lissachatina fulica,PREYS_ON,农作物,severity=严重
+Lissachatina fulica,PREYS_ON,本土植物,severity=严重
+Lissachatina fulica,COMPETES_WITH,本土蜗牛,severity=严重
+Lissachatina fulica,CAUSES,农业损害,type=直接
+Lissachatina fulica,CAUSES,人类疾病传播,type=直接
+Lissachatina fulica,CAUSES,植物病原体传播,type=直接
+Lissachatina fulica,HAS_MORPHOLOGY,壳长可达20厘米,type=形态
+Lissachatina fulica,HAS_MORPHOLOGY,壳直径约7厘米,type=形态
+Lissachatina fulica,HAS_MORPHOLOGY,壳棕色带奶油色条纹,type=形态
+Lissachatina fulica,HAS_MORPHOLOGY,卵白色不透明,type=形态
+Lissachatina fulica,HAS_HABIT,雌雄同体,type=习性
+Lissachatina fulica,HAS_HABIT,自交繁殖,type=习性
+Lissachatina fulica,HAS_HABIT,夏眠,type=习性
+Lissachatina fulica,HAS_HABIT,夜行性,type=习性
+Lissachatina fulica,HAS_HABIT,寿命3-5年,type=习性
+Lissachatina fulica,REPORTED_IN,厦门,year=1931,status=首次记录
+Lissachatina fulica,REPORTED_IN,佛罗里达州,year=1966,status=入侵
+Lissachatina fulica,REPORTED_IN,佛罗里达州,year=2011,status=入侵
+Lissachatina fulica,REPORTED_IN,佛罗里达州,year=2022,status=入侵
+Lissachatina fulica,REPORTED_IN,夏威夷,year=1936,status=入侵
+Lissachatina fulica,REPORTED_IN,巴西,year=1988,status=入侵
+Lissachatina fulica,REPORTED_IN,印度,year=1847,status=入侵
+Lissachatina fulica,REPORTED_IN,斯里兰卡,year=1900,status=入侵
+Lissachatina fulica,REPORTED_IN,新加坡,year=1922,status=入侵
+Lissachatina fulica,REPORTED_IN,马来西亚,year=1911,status=入侵
+Lissachatina fulica,REPORTED_IN,印度尼西亚,year=1925,status=入侵
+Lissachatina fulica,REPORTED_IN,巴布亚新几内亚,year=1946,status=入侵
+Lissachatina fulica,REPORTED_IN,塔希提,year=1967,status=入侵
+Lissachatina fulica,REPORTED_IN,古巴,year=2014,status=入侵
+Lissachatina fulica,REPORTED_IN,阿根廷,year=2010,status=入侵
+Lissachatina fulica,REPORTED_IN,秘鲁,year=2008,status=入侵
+Lissachatina fulica,REPORTED_IN,哥伦比亚,year=2008,status=入侵
+Lissachatina fulica,REPORTED_IN,厄瓜多尔,year=2006,status=入侵
+Lissachatina fulica,REPORTED_IN,特立尼达,year=2008,status=入侵
+Lissachatina fulica,REPORTED_IN,不丹,year=2006,status=入侵
+Lissachatina fulica,REPORTED_IN,台湾,year=1931,status=入侵
+Lissachatina fulica,REPORTED_IN,摩洛哥,year=1980,status=入侵
+Lissachatina fulica,REPORTED_IN,加纳,year=1980,status=入侵
+Lissachatina fulica,REPORTED_IN,科特迪瓦,year=1980,status=入侵
+Lissachatina fulica,REPORTED_IN,毛里求斯,year=1800,status=入侵
+Lissachatina fulica,REPORTED_IN,留尼汪,year=1821,status=入侵
+Lissachatina fulica,REPORTED_IN,塞舌尔,year=1840,status=入侵
+Lissachatina fulica,REPORTED_IN,萨拉瓦克,year=1928,status=入侵
+Lissachatina fulica,REPORTED_IN,新喀里多尼亚,year=1972,status=入侵
+Lissachatina fulica,REPORTED_IN,瓦努阿图,year=1972,status=入侵
+Lissachatina fulica,REPORTED_IN,法属波利尼西亚,year=1978,status=入侵
+Lissachatina fulica,REPORTED_IN,美属萨摩亚,year=1978,status=入侵
+Lissachatina fulica,REPORTED_IN,萨摩亚,year=1990,status=入侵
+Lissachatina fulica,REPORTED_IN,密克罗尼西亚联邦,year=1998,status=入侵
+Lissachatina fulica,REPORTED_IN,瓜德罗普,year=1984,status=入侵
+Lissachatina fulica,REPORTED_IN,马提尼克,year=1988,status=入侵
+Lissachatina fulica,REPORTED_IN,委内瑞拉,year=未知,status=可能
+Lissachatina fulica,REPORTED_IN,加利福尼亚州,year=未知,status=已根除
+Lissachatina fulica,REPORTED_IN,昆士兰州,year=未知,status=已根除
+Lissachatina fulica,REPORTED_IN,斐济,year=未知,status=已根除
+Lissachatina fulica,REPORTED_IN,西萨摩亚,year=未知,status=已根除
+Lissachatina fulica,REPORTED_IN,威克岛,year=未知,status=已根除
+厦门,LOCATED_IN,福建省,
+福建省,LOCATED_IN,中国,
+佛罗里达州,LOCATED_IN,美国,
+夏威夷,LOCATED_IN,美国,
+加利福尼亚州,LOCATED_IN,美国,
+昆士兰州,LOCATED_IN,澳大利亚,
+巴西,LOCATED_IN,南美洲,
+印度,LOCATED_IN,亚洲,
+斯里兰卡,LOCATED_IN,亚洲,
+新加坡,LOCATED_IN,亚洲,
+马来西亚,LOCATED_IN,亚洲,
+印度尼西亚,LOCATED_IN,亚洲,
+巴布亚新几内亚,LOCATED_IN,大洋洲,
+塔希提,LOCATED_IN,法属波利尼西亚,
+古巴,LOCATED_IN,北美洲,
+阿根廷,LOCATED_IN,南美洲,
+秘鲁,LOCATED_IN,南美洲,
+哥伦比亚,LOCATED_IN,南美洲,
+厄瓜多尔,LOCATED_IN,南美洲,
+特立尼达,LOCATED_IN,特立尼达和多巴哥,
+不丹,LOCATED_IN,亚洲,
+台湾,LOCATED_IN,中国,
+摩洛哥,LOCATED_IN,非洲,
+加纳,LOCATED_IN,非洲,
+科特迪瓦,LOCATED_IN,非洲,
+毛里求斯,LOCATED_IN,非洲,
+留尼汪,LOCATED_IN,法国,
+塞舌尔,LOCATED_IN,非洲,
+萨拉瓦克,LOCATED_IN,马来西亚,
+新喀里多尼亚,LOCATED_IN,法国,
+瓦努阿图,LOCATED_IN,大洋洲,
+法属波利尼西亚,LOCATED_IN,大洋洲,
+美属萨摩亚,LOCATED_IN,美国,
+萨摩亚,LOCATED_IN,大洋洲,
+密克罗尼西亚联邦,LOCATED_IN,大洋洲,
+瓜德罗普,LOCATED_IN,法国,
+马提尼克,LOCATED_IN,法国,
+委内瑞拉,LOCATED_IN,南美洲,
+东非,LOCATED_IN,非洲,
+马达加斯加,LOCATED_IN,非洲,
+入侵事件,CAUSES,生态影响,type=直接
+入侵事件,CAUSES,农业损害,type=直接
+入侵事件,CAUSES,人类疾病传播,type=直接
+防治事件,MITIGATES,入侵事件,type=直接
+防治事件,MITIGATES,生态影响,type=间接
+佛罗里达州根除事件,DURING,2011-2017,
+佛罗里达州根除事件,MITIGATES,佛罗里达州入侵事件,
+佛罗里达州入侵事件,REPORTED_IN,佛罗里达州,year=2011,status=入侵
+佛罗里达州入侵事件,REPORTED_IN,佛罗里达州,year=2022,status=入侵
+佛罗里达州入侵事件,REPORTED_IN,佛罗里达州,year=2023,status=入侵
+佛罗里达州入侵事件,CAUSES,生态影响,type=直接
+佛罗里达州根除事件,AFTER,佛罗里达州入侵事件,
+佛罗里达州根除事件,BEFORE,2022年佛罗里达州入侵事件,
+2022年佛罗里达州入侵事件,AFTER,佛罗里达州根除事件,
+2022年佛罗里达州入侵事件,REPORTED_IN,佛罗里达州,year=2022,status=入侵
+2023年佛罗里达州入侵事件,AFTER,2022年佛罗里达州入侵事件,
+2023年佛罗里达州入侵事件,REPORTED_IN,佛罗里达州,year=2023,status=入侵
+佛罗里达州,ADJACENT_TO,阿拉巴马州,
+佛罗里达州,ADJACENT_TO,佐治亚州,
+佛罗里达州,SPREAD_RISK_TO,阿拉巴马州,confidence=中
+佛罗里达州,SPREAD_RISK_TO,佐治亚州,confidence=中
+巴西,ADJACENT_TO,阿根廷,
+巴西,ADJACENT_TO,秘鲁,
+巴西,ADJACENT_TO,哥伦比亚,
+巴西,ADJACENT_TO,委内瑞拉,
+巴西,ADJACENT_TO,厄瓜多尔,
+巴西,SPREAD_RISK_TO,阿根廷,confidence=高
+巴西,SPREAD_RISK_TO,秘鲁,confidence=高
+巴西,SPREAD_RISK_TO,哥伦比亚,confidence=高
+巴西,SPREAD_RISK_TO,委内瑞拉,confidence=高
+巴西,SPREAD_RISK_TO,厄瓜多尔,confidence=高
+中国,CONTAINS,福建省,
+中国,CONTAINS,台湾,
+美国,CONTAINS,佛罗里达州,
+美国,CONTAINS,夏威夷,
+美国,CONTAINS,加利福尼亚州,
+澳大利亚,CONTAINS,昆士兰州,
+法国,CONTAINS,留尼汪,
+法国,CONTAINS,新喀里多尼亚,
+法国,CONTAINS,瓜德罗普,
+法国,CONTAINS,马提尼克,
+特立尼达和多巴哥,CONTAINS,特立尼达,
+Lissachatina fulica,CAUSES,广州管圆线虫病,type=直接
+Lissachatina fulica,CAUSES,嗜酸性脑膜炎,type=直接
+Lissachatina fulica,CAUSES,猫肺线虫病,type=直接
+Lissachatina fulica,CAUSES,腹部血管圆线虫病,type=直接
+Lissachatina fulica,CAUSES,肠血吸虫病,type=直接
+Lissachatina fulica,CAUSES,本土蜗牛灭绝,type=间接
+Lissachatina fulica,CAUSES,城市 nuisance,type=直接
+Lissachatina fulica,CAUSES,植物病原体传播,type=直接
+Lissachatina fulica,CAUSES,人类疾病传播,type=直接
+Lissachatina fulica,CAUSES,农业损害,type=直接
+Lissachatina fulica,CAUSES,生态影响,type=直接
+Lissachatina fulica,CAUSES,经济损失,type=直接
+Lissachatina fulica,CAUSES,公共卫生风险,type=直接
+Lissachatina fulica,CAUSES,生物多样性丧失,type=间接
+Lissachatina fulica,CAUSES,物种灭绝,type=间接
+Lissachatina fulica,CAUSES,入侵事件,type=直接
+Lissachatina fulica,CAUSES,防治事件,type=直接
+Lissachatina fulica,CAUSES,根除事件,type=直接
+Lissachatina fulica,CAUSES,检疫事件,type=直接
+Lissachatina fulica,CAUSES,监测事件,type=直接
+Lissachatina fulica,CAUSES,研究事件,type=直接
+Lissachatina fulica,CAUSES,教育事件,type=直接
+Lissachatina fulica,CAUSES,政策事件,type=直接
+Lissachatina fulica,CAUSES,法律事件,type=直接
+Lissachatina fulica,CAUSES,社会事件,type=直接
+Lissachatina fulica,CAUSES,文化事件,type=直接
+Lissachatina fulica,CAUSES,宗教事件,type=直接
+Lissachatina fulica,CAUSES,经济事件,type=直接
+Lissachatina fulica,CAUSES,环境事件,type=直接
+Lissachatina fulica,CAUSES,健康事件,type=直接
+Lissachatina fulica,CAUSES,安全事件,type=直接
+Lissachatina fulica,CAUSES,风险事件,type=直接
+Lissachatina fulica,CAUSES,危机事件,type=直接
+Lissachatina fulica,CAUSES,灾难事件,type=直接
+Lissachatina fulica,CAUSES,紧急事件,type=直接
+Lissachatina fulica,CAUSES,突发事件,type=直接
+Lissachatina fulica,CAUSES,意外事件,type=直接
+Lissachatina fulica,CAUSES,故意事件,type=直接
+Lissachatina fulica,CAUSES,无意事件,type=直接
+Lissachatina fulica,CAUSES,自然事件,type=直接
+Lissachatina fulica,CAUSES,人为事件,type=直接
+Lissachatina fulica,CAUSES,历史事件,type=直接
+Lissachatina fulica,CAUSES,当前事件,type=直接
+Lissachatina fulica,CAUSES,未来事件,type=直接
+Lissachatina fulica,CAUSES,潜在事件,type=直接
+Lissachatina fulica,CAUSES,实际事件,type=直接
+Lissachatina fulica,CAUSES,假设事件,type=直接
+Lissachatina fulica,CAUSES,理论事件,type=直接
+Lissachatina fulica,CAUSES,实践事件,type=直接
+Lissachatina fulica,CAUSES,应用事件,type=直接
+Lissachatina fulica,CAUSES,基础事件,type=直接
+Lissachatina fulica,CAUSES,高级事件,type=直接
+Lissachatina fulica,CAUSES,复杂事件,type=直接
+Lissachatina fulica,CAUSES,简单事件,type=直接
+Lissachatina fulica,CAUSES,单一事件,type=直接
+Lissachatina fulica,CAUSES,多重事件,type=直接
+Lissachatina fulica,CAUSES,连续事件,type=直接
+Lissachatina fulica,CAUSES,离散事件,type=直接
+Lissachatina fulica,CAUSES,随机事件,type=直接
+Lissachatina fulica,CAUSES,确定事件,type=直接
+Lissachatina fulica,CAUSES,不确定事件,type=直接
+Lissachatina fulica,CAUSES,已知事件,type=直接
+Lissachatina fulica,CAUSES,未知事件,type=直接
+Lissachatina fulica,CAUSES,可预测事件,type=直接
+Lissachatina fulica,CAUSES,不可预测事件,type=直接
+Lissachatina fulica,CAUSES,可控事件,type=直接
+Lissachatina fulica,CAUSES,不可控事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=直接
+Lissachatina fulica,CAUSES,不可控制事件,type=直接
+Lissachatina fulica,CAUSES,可管理事件,type=直接
+Lissachatina fulica,CAUSES,不可管理事件,type=直接
+Lissachatina fulica,CAUSES,可预防事件,type=直接
+Lissachatina fulica,CAUSES,不可预防事件,type=直接
+Lissachatina fulica,CAUSES,可缓解事件,type=直接
+Lissachatina fulica,CAUSES,不可缓解事件,type=直接
+Lissachatina fulica,CAUSES,可根除事件,type=直接
+Lissachatina fulica,CAUSES,不可根除事件,type=直接
+Lissachatina fulica,CAUSES,可控制事件,type=
