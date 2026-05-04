@@ -1,0 +1,20 @@
+Entity1,Relationship,Entity2,Property
+大鳄龟,HAS_ALIAS,真鳄龟,null
+大鳄龟,HAS_ALIAS,Macrochelys temminckii,type=学名
+大鳄龟,BELONGS_TO,鳄龟科,rank=科
+大鳄龟,BELONGS_TO,大鳄龟属,rank=属
+大鳄龟,NATIVE_TO,美国,null
+大鳄龟,NATIVE_TO,密西西比河流域,null
+大鳄龟,NATIVE_TO,堪萨斯州,null
+大鳄龟,NATIVE_TO,艾奥瓦州,null
+大鳄龟,NATIVE_TO,伊利诺伊州,null
+大鳄龟,NATIVE_TO,乔治亚州,null
+大鳄龟,NATIVE_TO,佛罗里达州,null
+大鳄龟,NATIVE_TO,得克萨斯州,null
+大鳄龟,INVADES,中国,time=1998年
+大鳄龟,INVADES,台湾,time=1998年
+大鳄龟,INVADES,香港,time=1998年
+大鳄龟,CAUSES,咬伤人类,type=安全危害
+大鳄龟,CAUSES,捕食原生动物,type=生态危害
+大鳄龟,CAUSES,破坏本地生态系统,type=生态危害
+大鳄龟,SUPPRESSED_BY,重点管理外来入侵物种名录,method=名录管理

@@ -1,0 +1,34 @@
+Entity1,Relationship,Entity2,Property
+鳄雀鳝,HAS_ALIAS,大雀鳝,null
+鳄雀鳝,HAS_ALIAS,纺锤骨雀鳝,null
+鳄雀鳝,HAS_ALIAS,鳄鱼火箭,null
+鳄雀鳝,HAS_ALIAS,福鳄,null
+鳄雀鳝,HAS_ALIAS,Atractosteus spatula,type=学名
+鳄雀鳝,HAS_ALIAS,Lepisosteus spatula,type=异名
+鳄雀鳝,BELONGS_TO,雀鳝目,rank=目
+鳄雀鳝,BELONGS_TO,雀鳝科,rank=科
+鳄雀鳝,BELONGS_TO,大雀鳝属,rank=属
+鳄雀鳝,NATIVE_TO,佛罗里达州,null
+鳄雀鳝,NATIVE_TO,墨西哥湾沿岸平原,null
+鳄雀鳝,NATIVE_TO,密西西比河流域,null
+鳄雀鳝,NATIVE_TO,俄亥俄河,null
+鳄雀鳝,NATIVE_TO,密苏里河,null
+鳄雀鳝,NATIVE_TO,德克萨斯州,null
+鳄雀鳝,NATIVE_TO,韦拉克鲁斯州,null
+鳄雀鳝,NATIVE_TO,美国南部,null
+鳄雀鳝,NATIVE_TO,墨西哥,null
+鳄雀鳝,INVADES,中国,null
+鳄雀鳝,INVADES,土库曼斯坦,null
+鳄雀鳝,INVADES,新加坡,null
+鳄雀鳝,INVADES,印度,null
+鳄雀鳝,INVADES,塞浦路斯,null
+鳄雀鳝,INVADES,泰国,null
+鳄雀鳝,INVADES,中华人民共和国,null
+鳄雀鳝,CAUSES,影响水体生态,type=生态危害
+鳄雀鳝,CAUSES,减少其他鱼类生存,type=生态危害
+鳄雀鳝,CAUSES,影响渔民收获,type=经济危害
+鳄雀鳝,CAUSES,卵有毒,type=健康危害
+鳄雀鳝,SUPPRESSED_BY,清除,null
+鳄雀鳝,SUPPRESSED_BY,全国性普查,method=监测
+鳄雀鳝,SUPPRESSED_BY,人工养殖,method=缓解种群减少
+鳄雀鳝,SUPPRESSED_BY,人工孵化技术,method=缓解种群减少
