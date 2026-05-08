@@ -11,10 +11,8 @@ import os
 import glob
 import re
 
-try:
-    from species_config import species_names
-except ImportError:
-    species_names = ["豹纹翼甲鲶", "大鳄龟", "鳄雀鳝"]
+from species_config import species_names
+
 
 CNKI_INPUT_DIR = "data/cnki_texts"
 NEWS_INPUT_DIR = "data/news_texts"

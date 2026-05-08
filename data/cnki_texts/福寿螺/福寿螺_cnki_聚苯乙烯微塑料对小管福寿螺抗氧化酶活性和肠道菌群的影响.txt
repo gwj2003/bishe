@@ -1,4 +1,0 @@
-SOURCE_TITLE: 聚苯乙烯微塑料对小管福寿螺抗氧化酶活性和肠道菌群的影响
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rj0hb4OvLf4JMLL4zXemGMFJIOwYr9SplofZ-GAD5vorM4X--tF8IrypWxvRrv_L8ZdpI6fKkYFnc2vRyyeuo3hQ3DHDM0RT-BJu7pXszwqI4V89M0uG75hw5gR6fFjxCU27Jpy2eVgIojfh5pW1f2xe7FbtgkGxz_lgk7_q5LOw==&uniplatform=NZKPT&language=CHS
-
-微塑料是一种新型环境污染物，潜在危害水生生物健康.本实验探究了不同粒径(0.5μm和5μm)及浓度(4 mg/L和40 mg/L)的聚苯乙烯颗粒在96 h暴露后对小管福寿螺(Pomacea canaliculata)抗氧化酶活性和肠道菌群的影响.结果表明，微塑料处理组的小管福寿螺肝胰腺超氧化物歧化酶(SOD)活性显著降低，过氧化氢酶(CAT)活性不存在显著差异，还原型谷胱甘肽(GSH)含量均降低.不同处理组下小管福寿螺肠道菌群的α多样性没有显著差异；0.5μm, 4 mg/L组β多样性与其他处理组存在显著差异.在0.5μm微塑料的处理下，小管福寿螺肠道厚壁菌门(Firmicutes)相对丰度显著降低，而在40 mg/L两种粒径微塑料处理下乳球菌属(Lactococcus)相对丰度显著降低，并且存在微杆菌属(Microbacterium)、假单胞杆菌属(Pseudomonas)等致病菌的富集.综上，不同浓度、粒径聚苯乙烯微塑料可诱导小管福寿螺氧化应激反应，虽未对小管福寿螺肠道菌群的多样性产生显著影响，但改变了肠道菌群结构，并导致多种致病菌的富集.

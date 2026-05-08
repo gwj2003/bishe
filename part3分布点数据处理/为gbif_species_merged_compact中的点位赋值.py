@@ -10,6 +10,11 @@ from __future__ import annotations
 
 import math
 import os
+import tempfile
+import zipfile
+import urllib.request
+import subprocess
+import shutil
 from collections import defaultdict
 from pathlib import Path
 
@@ -20,8 +25,15 @@ from shapely.ops import unary_union
 
 
 INPUT_FILE = Path('data/gbif_results/gbif_species_merged_compact.csv')
-OUTPUT_FILE = Path('data/point/gbif_species_merged_admin_levels.csv')
+OUTPUT_FILE = Path('data/points/gbif_species_merged_admin_levels.csv')
 ADMIN_CSV = Path('data/admin_shapefiles/AreaCity_ok_geo/ok_geo.csv')
+DEFAULT_LOCAL_ZIP = Path('data/admin_shapefiles/AreaCity_ok_geo.zip')
+
+# 缺少本地边界文件时，自动尝试的下载源（优先使用官方 release 链接）
+DEFAULT_OK_GEO_ZIP_URLS = [
+    'https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov/releases/download/2025.251231.260403/ok_geo.csv.7z',
+    'https://gh-proxy.org/https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov/releases/download/2025.251231.260403/ok_geo.csv.7z',
+]
 
 INVALID_REGION_CODE_FALLBACKS = {'CN', 'HK', 'TW', 'MO'}
 
@@ -225,13 +237,98 @@ def load_input(file_path: Path) -> pd.DataFrame:
     return df
 
 
+def extract_admin_archive(archive_path: Path, extract_dir: Path) -> None:
+    suffix = archive_path.suffix.lower()
+    extract_dir.mkdir(parents=True, exist_ok=True)
+
+    if suffix == '.zip':
+        with zipfile.ZipFile(archive_path, 'r') as zf:
+            zf.extractall(extract_dir)
+        return
+
+    if suffix == '.7z':
+        # 优先用 py7zr（纯 Python），其次尝试系统 7z 命令
+        try:
+            import py7zr  # type: ignore
+
+            with py7zr.SevenZipFile(archive_path, mode='r') as zf:
+                zf.extractall(path=extract_dir)
+            return
+        except Exception:
+            seven_zip = shutil.which('7z') or shutil.which('7za') or shutil.which('7zr')
+            if seven_zip:
+                subprocess.run(
+                    [seven_zip, 'x', str(archive_path), f'-o{extract_dir}', '-y'],
+                    check=True,
+                    stdout=subprocess.PIPE,
+                    stderr=subprocess.PIPE,
+                    text=True,
+                )
+                return
+
+        raise RuntimeError('无法解压 .7z：请安装 py7zr（pip install py7zr）或安装 7-Zip 命令行工具。')
+
+    raise RuntimeError(f'不支持的压缩格式: {archive_path.name}')
+
+
 def assign_admin_levels():
     df = load_input(INPUT_FILE)
+    admin_csv = ADMIN_CSV
 
-    if not ADMIN_CSV.exists():
-        raise FileNotFoundError(f'未找到行政边界文件: {ADMIN_CSV}')
+    # 兜底逻辑：如果缺少 ok_geo.csv，优先尝试解压本地 zip，随后尝试通过环境变量下载并解压
+    if not admin_csv.exists():
+        # 1) 优先解压工作目录下可能存在的 zip 文件
+        if DEFAULT_LOCAL_ZIP.exists():
+            try:
+                dest_dir = DEFAULT_LOCAL_ZIP.parent / 'AreaCity_ok_geo'
+                dest_dir.mkdir(parents=True, exist_ok=True)
+                extract_admin_archive(DEFAULT_LOCAL_ZIP, dest_dir)
+                possible = list(dest_dir.rglob('ok_geo.csv'))
+                if possible:
+                    admin_csv = possible[0]
+                print(f'[INFO] 从本地 zip 解压到: {dest_dir}')
+            except Exception as exc:
+                print(f'[WARN] 解压本地 zip 失败: {exc}')
 
-    admin_tree, admin_geometries, admin_properties, _ = load_admin_boundaries(ADMIN_CSV)
+        # 2) 自动下载：优先环境变量 URL，其次内置默认下载源
+        if not admin_csv.exists():
+            env_url = os.environ.get('OK_GEO_DOWNLOAD_URL', '').strip()
+            download_urls = [env_url] if env_url else []
+            download_urls.extend(DEFAULT_OK_GEO_ZIP_URLS)
+
+            for download_url in download_urls:
+                if not download_url:
+                    continue
+                print(f'[INFO] 尝试下载行政边界压缩包: {download_url}')
+                try:
+                    with tempfile.TemporaryDirectory() as td:
+                        archive_name = 'ok_geo.csv.7z' if download_url.lower().endswith('.7z') else 'ok_geo.zip'
+                        tmp_archive = Path(td) / archive_name
+                        urllib.request.urlretrieve(download_url, tmp_archive)
+                        extract_dir = DEFAULT_LOCAL_ZIP.parent / 'AreaCity_ok_geo'
+                        extract_dir.mkdir(parents=True, exist_ok=True)
+                        extract_admin_archive(tmp_archive, extract_dir)
+                        possible = list(extract_dir.rglob('ok_geo.csv'))
+                        if possible:
+                            admin_csv = possible[0]
+                            print(f'[INFO] 下载并解压成功，使用: {admin_csv}')
+                            break
+                except Exception as exc:
+                    print(f'[WARN] 下载或解压失败 ({download_url}): {exc}')
+
+        # 3) 如果仍不存在，给出友好提示并退出
+        if not admin_csv.exists():
+            msg = (
+                f'未找到行政边界文件: {admin_csv}\n'
+                '解决办法：\n'
+                ' 1) 手动将 ok_geo.csv 放到 data/admin_shapefiles/AreaCity_ok_geo/ 下；\n'
+                ' 2) 将包含 ok_geo.csv 的 zip 放到 data/admin_shapefiles/ 并命名为 AreaCity_ok_geo.zip，脚本会尝试解压；\n'
+                ' 3) 脚本会自动尝试内置下载源；如网络受限可设置环境变量 OK_GEO_DOWNLOAD_URL 指向可访问的 zip 地址后重试。\n'
+            )
+            print(msg)
+            raise FileNotFoundError(msg)
+
+    admin_tree, admin_geometries, admin_properties, _ = load_admin_boundaries(admin_csv)
     if admin_tree is None:
         raise RuntimeError('行政边界文件中没有可用多边形')
 

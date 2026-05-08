@@ -1,4 +1,0 @@
-SOURCE_TITLE: Distribution records of apple snails (Pomacea spp.) in Japan collected during 2017–2019 through a citizen science project for introduced species conducted by the Osaka Museum of Natural History
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pbJQ7o21DflpilxhOLeFNuJtMACIkWyD1vo7mMV8MtIhjit4rVr6rpGTcvNFJp4H8iVLZ7RMB4F4Yn-XkLFTUKfU48e0dWz3saSCobX0y-jIesQLuHEw7w5owHHOmXQsnNaYlOjmuzhp9sWF2gVa0O_FNl5uQFGI2ypnZEPLGq2_Q3NERRcRT8ZWV9UjAC_hT6cZaAiEeMBg==&uniplatform=NZKPT&language=CHS
-
-Abstract Apple snails Pomacea canaliculata and Pomacea maculata are herbivorous freshwater gastropods native to South America and are introduced species widespread in western and southern Japan. Although they affect rice culture and are invasive to native ecosystems, high‐resolution distribution data are not available for these species. I mapped the distribution of Pomacea species using the citizen science approach, by asking volunteers to report the g...

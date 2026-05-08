@@ -1,4 +1,0 @@
-SOURCE_TITLE: 鳄龟科和平胸龟科线粒体控制区序列分析和结构比较
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pMSD19PgOEsNfdMX_eyilNeY65iyHubzx7Y8ICZcaDZlU17q4ot7WTKCr6f4Q-4RBdLYV9KbzZmoP8zIFsS_GxwLjfhrv27fC7BM_ccfPK5cE6NgRPW0wXoi8VO4lwTr7OJ2IKBn3OsNEA8jfJRhrG33hGfGEte924DtT41sCNIA==&uniplatform=NZKPT&language=CHS
-
-本文参照龟类近缘种的线粒体DNA(mitochondrial DNA,mtDNA)控制区(control region,CR)及邻接序列,设计了二对特异引物,采用PCR和测序技术,获得了大鳄龟(Macroclemys temminckii)、小鳄龟(Chelydra serpentina)和平胸龟(Platysternon megacephalum)mtDNA CR区序列,其长度分别为1062bp、1124bp和1119bp;A+T的含量分别为68.93%、69.34%和69.44%。序列分析显示,三种龟CR区3'末端均存在丰富的微卫星序列,其中大鳄龟和小鳄龟各有一段2bp的TA序列分别重复20和15次;小鳄龟另有一段5bp的TATAT序列重复13次;平胸龟则是一段10bp的AGTATGTTAT序列重复4次和一段17bp的GTTGTTATATAACATAT序列重复13次。本文还结合GenBank中已发表的其他6种龟鳖类动物的控制区序列,探讨了龟鳖类动物微卫星序列的类型及分布,结果表明:9种龟鳖类动物都存在丰富的微卫星序列,且微卫星所在位置及序列存在很大差异。

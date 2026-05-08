@@ -1,4 +1,0 @@
-SOURCE_TITLE: Identification and localization of gastrointestinal hormones in the skin of the bullfrog Rana catesbeiana during periods of activity and hibernation
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pHbvQhPUrWA1IUZa7XcCj89ZhVyu-8TDnoM7-WnVN9kjXR1hhhBaI_-j3RGw0QiA0AXLgPx4UhnTrfGpLNF-0NKMZmcZtlO9VugYKMSLPcE11KQWiTZGybM4E-kzmLcUyJA-_8WINdRFoJGgOlwIZ95wSClMrY7lRuVTQI5AzvEY3dYlIvR163mimPkDwH67U5QLn7_dEbTg==&uniplatform=NZKPT&language=CHS
-
-AbstractAmphibian skin and its secretions contain a wide variety of biogenic amines and biologically active peptides, some of which are either identical or highly homologous to gastrointestinal hormones (GHs) of higher vertebrates. This study investigated the distribution density and immunoreactive (IR) intensity of 5-hydroxytryptamine (5-HT), gastrin (GAS), somatostatin (SS), pancreatic polypeptide (PP), neuropeptide Y (NPY) and glucagon (GLU) IR cell...

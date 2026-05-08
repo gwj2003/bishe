@@ -1,4 +1,0 @@
-SOURCE_TITLE: Development and analytical validation of a novel quantitative PCR assay for the detection of Trachemys herpesvirus 1.
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q6fLKTbvicAgrsAJVLbVxQIUvy4XYizm0g9lqPBl-ToeIT1p8zc7IOONGA89jvHo1xugU9fyB7-H5qpJcRI_uV7Pf9Mb7CzWohWsU0Rv1112LQXgoYzzyU4Qn8kq_Qy5lFxrrExfqY6hR6HIbdKqD9bU5zNGBI-emW2TUUhUguHV_loH7UM8YcCSJfJH0lo0Ij5hnB0U0gaA==&uniplatform=NZKPT&language=CHS
-
-Emerging infectious diseases are a threat that contributes to the decline of global chelonian species. Herpesviruses are among the most impactful pathogens described in chelonians and are frequently associated with a range of presentations across hosts with the potential for severe morbidity and mortality. Trachemys herpesvirus 1 (TrHV1) has been reported in red-eared and yellow-bellied sliders (Trachemys scripta elegans and Trachemys scripta scripta, ...

@@ -1,4 +1,0 @@
-SOURCE_TITLE: Temperature effects on the distribution of two invasive tilapia species ( Tilapia zillii and Oreochromis niloticus ) in the rivers of South China
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qZoDVgmKNPfAgSsZgkpx0QU2_fwBv9ZB5-AKNcKBA_l02IwZcKvVmK-6E6gHaQemIs3y4czaZ-Jkmp8IjlRWO8bEMsWslcWek6SFb_dwGIlDyEMZvu-XdIx8hskqte6nLAolYyovsjqw6wZxVEFtK08czErH7NcXwlo5y0LHMuMRmmOn5Dido0Jh8snB5uvrG3OExxh8f64g==&uniplatform=NZKPT&language=CHS
-
-Abstract(#br)Competitive interactions not only exist between invasive and native fish species but also between different invasive species, especially between those that have broad niche overlap. Nile tilapia ( Oreochromis niloticus ) and Redbelly tilapia ( Tilapia zillii ) are the most common invasive tilapia species in the rivers of South China. There may be specific factors that influence their competitive interactions and disturbance patterns, and t...

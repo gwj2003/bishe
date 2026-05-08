@@ -1,4 +1,0 @@
-SOURCE_TITLE: 基于GIS的广东地区福寿螺的潜在时空分布及对稻田的危害风险
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qrRGQqzahwaLHQUhbGG2CJcZBBPOEjEW8C38NreYZwNv7J5rJK7_3L4idhqSk6NFIv9WvBzrD1Pu57MDHA6ce7Pja-5WYuaHjJtJrZiajYh1NWtXGYvi_ska-uVFghIMPhq-2-A7xBfTI7ajF2ZlPZa9GZBEBCFCeN3QeaL5z0fQ==&uniplatform=NZKPT&language=CHS
-
-利用GIS技术,结合福寿螺生长发育的特点和广东地区水稻的种植分布情况,预测福寿螺在广东地区的潜在时空分布及其危害风险.结果表明:广东地区存在5种福寿螺潜在生境,分别是:螺和卵都能存活且卵能孵化螺能发育;螺卵存活、螺能发育但卵不孵化;螺存活但不发育、卵不孵化;螺冬眠且不产卵;螺、卵均不能存活.5种生境从南到北依次排列,并且分布范围随着季节的变化而变化.福寿螺适宜生境夏季分布广、冬季分布窄,夏季向北扩展,冬季向南收缩.冬季粤北山区小部分地区福寿螺不能存活,5—10月全省均适宜螺及其卵的生长发育.就潜在分布区而言,全省16.68%地区处于高度发生区,中度发生区也占54.25%.以稻田的危害风险为例,结合水稻分布区的状况评价了福寿螺可能带来的危害风险等级,其中重度风险区占全省面积的21.75%,主要集中于湛江、茂名、阳江等地的稻区;中度风险区集中在广东中部的水稻区,占63.16%;轻度风险区只占14.47%.

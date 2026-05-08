@@ -1,4 +1,0 @@
-SOURCE_TITLE: 基于微宇宙的吐纳麝香和佳乐麝香的生态毒性研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1ohwmP9snacOqvXGqql7lNf1lmQep3F1RU_xIdEg-ifej25JphY7boSnLNqjONAbAN4Vwq6Pp_gDtwZ4QAU7j8Sgfsf8QQ9JCpsuZMBPL5fg8RKcdJ9auNT0CSYGl3h_SZ4vEtor9Fh--y3xg6Z1DLQyPN9N2KFrYBYqp_5KRYgZWfA13l4cTMU&uniplatform=NZKPT&language=CHS
-
-吐纳麝香（tonalide,或AHTN）和佳乐麝香（galaxolide,或HHCB）是两种最为常见的人工合成麝香,在全世界具有非常高的生产量和消费量,它们的使用量占人工合成麝香的75%以上。由于AHTN和HHCB具有较高的疏水性和脂溶性及较低的生物降解性,在自然环境、生物体甚至人体中均能检测到AHTN和HHCB。鉴于AHTN和HHCB有较高的检出率,已有一系列关于两种人工合成麝香的单物种毒性研究证明AHTN和HHCB具有生态毒性。在生态风险评估体系中,相较于单物种毒性实验,水生微宇宙毒性实验可以在一定程度上模拟自然水生态系统,得到的毒性数据更有科学性。对数据库中所有的单物种与微宇宙毒性实验数据进行搜集与对比,发现生物在微宇宙系统中对于污染物更加敏感。因此,本研究依据美国材料与实验协会准则ASTM E 1366-02,选取浮游动物:大型溞（Daphnia magna）、萼花臂尾轮虫（Brachionus calyciflorus Pallas）;浮游植物:新月菱形藻（Nitzschia closterium）、小球藻（Chlorella vulgaris）、三角褐指藻（Phaeodact...

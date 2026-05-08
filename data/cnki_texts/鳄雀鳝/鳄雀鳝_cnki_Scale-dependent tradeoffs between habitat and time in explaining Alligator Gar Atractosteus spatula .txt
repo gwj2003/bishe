@@ -1,4 +1,0 @@
-SOURCE_TITLE: Scale-dependent tradeoffs between habitat and time in explaining Alligator Gar (Atractosteus spatula) movement
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r4XhdUHva9Grvc6FaiULDS2ivSOtr4Pjg79yONPLYhpzGWAjj11wyKN41N8tUyhjxO-kWio7DxuSCHM2vnD65f1-e1YvSy7YsHzMZQzlT_T7-ZgNqLqWDnUs88nHMzSwfsw-YJ1uG-78XQXX3B98rMHCvDSb1vta2D_vEenE-9gycOZr1P5qSZkyokes7Rwc46XEd8JXZJbg==&uniplatform=NZKPT&language=CHS
-
-Ecological theory predicts that movement by riverine fishes at the population level is characterized by both stationary and mobile individuals together creating a leptokurtic distribution of movement distances. However, studies testing this theory typically ignore spatial heterogeneity in riverscapes, and the theory has not been tested using Alligator Gar (Atractosteus spatula), a species of growing interest among anglers and fisheries managers alike. ...

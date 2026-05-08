@@ -1,4 +1,0 @@
-SOURCE_TITLE: In situ and in silico localization of major satellite DNAs in the genome of the red-eared slider (Trachemys scripta elegans, Emydidae, Testudines).
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oUUhAFmkG41SkUxeo5m43xYjLCdpfSZc-S1stPgFKv7DI0WHr4XcN4TeKeiOpWgJXRpyK4saEnwZm117CvaUshB_xlEO1LJy_ovkrnJCGO8Tk1x9tquMiFO8yPPxlqBJ7_RW-hZYAw6iEJrNSX0a89cs0_eXdXNGcZswflHGaEKEWVHYkfY3zyOTjSGyxUXnRz_gfkpakGgA==&uniplatform=NZKPT&language=CHS
-
-INTRODUCTION(#br) Satellite DNA is an important component of the eukaryotic genome. Some satellite DNAs plays an important role in various biological processes. The red-eared slider (Trachemys scripta elegans, 2n=50, C=1.43 pg) belongs to the American freshwater turtle family and is recognised as one of the world's most invasive species. In the T. s. elegans chromosome-level genome assembly, which has been recently published, satellite DNAs comprise on...

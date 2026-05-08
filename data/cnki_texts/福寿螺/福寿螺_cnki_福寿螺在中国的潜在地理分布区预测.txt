@@ -1,4 +1,0 @@
-SOURCE_TITLE: 福寿螺在中国的潜在地理分布区预测
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qowD4yfUF-6k8g3It77bexaNOHyJV28VwvBG0j15JplFrLMdWYpLn5ySW8fYZabA-Cunm6MlqOvnTBBVoRxw91x5C8H6g1YP4q0F4aiO-8DUupEYKq5O17lu5xrxfjWry08sarWHdhyuL1WVLOt-tcZGEbzuidav1JhrtW1B7fSA==&uniplatform=NZKPT&language=CHS
-
-根据影响福寿螺地理分布的温度、降水等关键气候因子阀值、有效积温法则和生物气候相似距方法,应用气候数据库、计算机程序设计语言和地理信息系统软件,构建了福寿螺地理分布预测模型,并以我国670个基准气象站点1951～1980年的气候资料运行该模型,结果表明:福寿螺可在中国52.09%气象站点所代表的地区发生,面积约2563000km2,并将福寿螺在中国的风险等级区划为安全区、轻度危险区、危险区和高度危险区,其中危险区和高度危险区占气象站点所代表的地区40.00%,约1957000 km2。

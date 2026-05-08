@@ -1,4 +1,0 @@
-SOURCE_TITLE: 基于水声学方法的上犹江水库鱼类时空分布特征
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1psx6k7_VsGT3I3gWVjcArbyI-YyEFjtLjmMQ7CG5Xv9N9p9EmS4sjkzBm8WbCtqpTzD2oPdjkZojzRfPJBdcwN2PUGuvyxZe_OIp49twxx4iL00Y7WWIHwSbGGLShqgRFsp7JfzkRYnL3tniSK0xELDhrC7L2NA1ya4fwIpsaAJQ==&uniplatform=NZKPT&language=CHS
-
-为掌握长江十年禁渔初期鄱阳湖流域上犹江水库禁捕区与生态增殖区渔业资源现状,明确鱼类的时空分布特征及其差异,于2023和2024年采用水声学探测和传统网具调查相结合的方式对该水库进行了2次调查,共捕获鱼类47种、5 816尾,隶属于5目10科;2023年优势种为鳙（Aristichthys nobilis）、齐氏罗非鱼（Tilapia zillii）、大眼华鳊（Sinibrama macrops）、黄尾鲴（Xenocypris davidi）、鲂（Megalobrama skolkov）和鲢（Hypophthalmichthys molitrix）,2024年优势种为鳙、齐氏罗非鱼、大眼华鳊、伽利略罗非鱼（T.galilaea）和鲂;水声学探测结果显示,禁捕区鱼类平均密度2023年为0.12602尾·m-2,2024年为0.11648尾·m-2,估算相应的资源量分别为138.98和115.82t;生态增殖区的平均密度分别为0.182 53和0.099 86尾·m-2,估算相应的资源量分别为1 208.87和961.40t。...

@@ -1,4 +1,0 @@
-SOURCE_TITLE: 广西内陆水域常见野生罗非鱼的种群结构及其分布特征
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r7ov74ltkF-XusuoNC5uzjycRjg9XV_GfJG00Xsmy27zAE9DnPLaJHKR0JvVhFKP-VvdsYzNHi4SFTz9EDbfZeAe_HCBjoepQHj_xi7QWECW70zw0sHbYVNpfMdUPYo3L-gDbV_2sFx9k8I7O03XFoO_qTU_xrs69ldhlsOqm5aw==&uniplatform=NZKPT&language=CHS
-
-【目的】准确掌握广西内陆水域常见野生罗非鱼的种群结构与分布特征，为保护广西水域的生物多样性提供重要参考依据。【方法】2023年2月—2024年1月，在广西内陆水域29个采样点采集3种常见野生罗非鱼，带回实验室测量其全长、体长及体质量等生物学指标，并解剖取出性腺鉴定雌雄及判断性腺发育分期，依据鳞片判断其年龄，然后通过Excel 2020、Origin 8.0和ArcGIS 10.8等统计分析3种罗非鱼的分布特征及种群结构，包括体长与体质量分布、年龄结构及性别比构成等。【结果】共采集到罗非鱼2648尾，其中尼罗罗非鱼（Oreochromis niloticus）745尾、齐氏罗非鱼（Coptodon zillii）1379尾、伽利略罗非鱼（Sarotherodon galilaeus）524尾。齐氏罗非鱼的体型整体上小于尼罗罗非鱼和伽利略罗非鱼，3种罗非鱼基本上都处于匀速生长状态，肥满度均>1.00，各采样点的罗非鱼生长状况良好。尼罗罗非鱼和齐氏罗非鱼在广西内水域中基本上处于低龄化；伽利略罗非鱼年龄分布具有一定的规律特征，高龄个体主要出现在红水河及西江下游，而左江、右江和独流入海河流...

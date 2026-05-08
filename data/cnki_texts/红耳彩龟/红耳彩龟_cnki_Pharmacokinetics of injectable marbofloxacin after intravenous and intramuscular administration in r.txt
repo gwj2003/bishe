@@ -1,4 +1,0 @@
-SOURCE_TITLE: Pharmacokinetics of injectable marbofloxacin after intravenous and intramuscular administration in red-eared sliders (Trachemys scripta elegans).
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r2J8Kz92c7xh0DvDnkRFAxq_NzC8YkgyYyIMquJZgN5kcakScHkjkJkVF1aSk0VOFMlNaVTe-c1_oyT2dc0s0dAqJB5ruQcy97eVdalKLEudqfDksz1D1FTKQWNHOZVxIy4XiMP-VD9TZtwS0LstTFBDIbpkJaG7FA5hbGGGqgCxUJp1HVKLiIUob3KwX2qed3oZtUJpJwTQ==&uniplatform=NZKPT&language=CHS
-
-Fluoroquinolone antibacterial drugs are currently used in reptilian medicine because of their broad spectrum of activity including the most frequent pathogens of these species. The disposition kinetics of marbofloxacin (MBX) at a single dose of 2 mg/kg were determined in healthy red-eared sliders after intravenous (IV) and intramuscular (IM) administration. The influence of renal portal system on the bioavailability of the drug was investigated by usin...

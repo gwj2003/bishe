@@ -1,4 +1,0 @@
-SOURCE_TITLE: 广西内陆水域外来鱼类的种类及分布特征
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rgQZn3mOLdcHpnh7B7NsyqvZWgWGGZyX0ZL_svEpiwC34-eiFxSktsv5LT9Y5Z-nFJVUKJQQCVJibcROfc-n99uNv6nCvs9P-oYOah4UXpGHWpdRIPY9LhNHQN8QqrsKhLzMCN4mA1lXaM6AYHtddmQ7Wm_lARrKhQV4HAXJkAww==&uniplatform=NZKPT&language=CHS
-
-【目的】明确现阶段广西内陆水域外来鱼类的种类组成，并从各水系相似性和差异性分析其分布特征，为广西外来鱼类入侵防控提供科学依据。【方法】以广西内陆水域为研究区域，在主要水系设34个采样点，于2023年2月（春季）、2023年5—6月（夏季）、2023年8—9月（秋季）及2023年11—12月（冬季）连续4个季度以渔船捕捞方式采集外来鱼类样本，然后通过Jaccard相似系数（Jsc）分析不同水系外来鱼类分布相似性，并以主坐标分析（PCoA）和置换多元方差分析（PERMANOVA）探讨不同水系外来鱼类分布差异。【结果】在广西内陆水域34个采样点共采集到外来鱼类7690尾，隶属于7目13科20属23种。其中，鲈形目数量最多（9种），占39.13%；以水产养殖为目的引种外来鱼类19种，占82.61%；来自亚洲和北美洲的外来鱼类各7种，分别占30.43%。从广西内陆水域各水系外来鱼类分布情况来看，红水河的外来鱼类数量最多（16种），南盘江外来鱼类物种数最少（7种）；分布样点范围最广的外来鱼类是尼罗罗非鱼和齐氏罗非鱼，分布范围占比均为97.06%；出现频次最高的是齐氏罗非鱼，为89.71%。基于Js...

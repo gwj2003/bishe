@@ -1,5 +1,0 @@
-SOURCE_TITLE: Mortality, Spatial Avoidance and Swimming Behavior of Bullfrog Tadpoles (
-Lithobates catesbeianus) Exposed to the Herbicide Diuron
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1prHH7lsxaQqpvCJ_8XkD2iqHMx8nSQGfPw_S3xYMzPyY5mtmMOpnsiLIypzm-u0qMWVNWsuXjcdjNXrJsucY23wlhbExMGqnzHc8HnVPJZG32cxiG4gDbnzIKPEVIt7A4HOZy0M390-uExq4ezGqKJK-GOJ5KlK7O3vj7iMSbKMpKgS3dTMmfCltNPZ8YEWbZPRsyxq4GmdA==&uniplatform=NZKPT&language=CHS
-
-Abstract:Diuron is a widely used pesticide for weed control in Brazil, Australia, the USA, and EU; therefore, environmental consequences are of concern. The aim of the present study was to determine the potential toxic effects of diuron (as formulation Diuron Nortox® 500 SC) on tadpoles of the bullfrog <Emphasis Type="Italic">Lithobates catesbeianus</Emphasis>, considering three endpoints: lethality, swimming behavior, and avoidance...

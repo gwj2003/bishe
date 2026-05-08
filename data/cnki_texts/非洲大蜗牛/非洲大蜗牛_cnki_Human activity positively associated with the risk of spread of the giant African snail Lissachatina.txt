@@ -1,4 +1,0 @@
-SOURCE_TITLE: Human activity positively associated with the risk of spread of the giant African snail (Lissachatina fulica) recently reported in central and northern China
-URL: https://kns.cnki.net/kcms2/article/abstract?v=iO0L29morZkDuhm4WuuCdeew6VNvWWZSzDyfn6NuVNYoHYtlb9LaYLmIlhTIK0n-2ABM549cMrIqrHEBS02KyDQrbGPOg57Vd6Pbyb_X4Rpe_fWvOnvP5bfaMkvn2GRJsxNWl4Wx97dR2DxWAtxhob5oFhsPteyZFXZfCnwgIOwr9F-YMQbG7w3rNBD3fUoiXKU6gWgw-DMrAyoGMjjG2g==&uniplatform=NZKPT&language=CHS
-
-The highly invasive giant African snail (Lissachatina fulica), one of the most damaging mollusk species in the world, damages over 500 plants and threatens conservation of endemic snails. It widely spreads in southern and southeastern China after a century of invasion. Existing niche-based species distribution models predict that this mollusk species is unlikely to distribute in central and northern China. However, recent reports identify its occurrenc...

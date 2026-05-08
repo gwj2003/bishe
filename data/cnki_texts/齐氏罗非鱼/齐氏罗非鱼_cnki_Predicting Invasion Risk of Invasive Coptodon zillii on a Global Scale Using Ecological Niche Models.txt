@@ -1,4 +1,0 @@
-SOURCE_TITLE: Predicting Invasion Risk of Invasive Coptodon zillii on a Global Scale Using Ecological Niche Models
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oEEIuXXRQ2FK3L7Bz01q0KXc4Yq5XyoOS1DE5aUZBrjmSWwAS_x7Z1VNkJKvsUiDAXqNwHTRGqNRK8z2vUD5ObThdgtRybrdbSlSBOSUieCJcL2HaiJq57_JXsY3Gvo43JT7C_RI2p2avY6vn0fq4ABt-Rr6AGCtaowJvfsoMcXCZpPYyNWNI-7ggLGB_TgLJcYYRXFOdnOA==&uniplatform=NZKPT&language=CHS
-
-Coptodon zillii is one of the most dangerous invasive fishes in the world. To develop management plans to effectively prevent its further spread in global aquatic ecosystems requires an understanding of the change in suitable habitat under future climate scenarios. In this study, we develop a Maximum Entropy Model (MaxEnt model) based on the current distribution data of C. zillii and the current WorldClim ecological database to generate a global habita...

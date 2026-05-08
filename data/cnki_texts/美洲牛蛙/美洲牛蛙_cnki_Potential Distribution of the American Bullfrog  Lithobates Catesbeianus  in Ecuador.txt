@@ -1,4 +1,0 @@
-SOURCE_TITLE: Potential Distribution of the American Bullfrog ( Lithobates Catesbeianus ) in Ecuador
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q8xBdFbHKHLcL3NKBrnvtoc7vuF5661P3sI9OPqG7v1DXkz8swnRbheuOUnpZhHAnR6EiXRKcFEK6SzxtksD3Be84QnzlQCJnCMm9zxHqyNjf1DCYHqZ29lmqc4Uob_98PdOKdgqXMwp0TU_A4b--Bsbe4EMCGji5qIhU4YaHB1A==&uniplatform=NZKPT&language=CHS
-
-The American bullfrog ( Lithobates catesbeianus ) is a native species from eastern North America that was introduced to Ecuador in 1985. We built two models in Maxent, (1) one model with native records and, (2) one model with native and invasive records, to provide an approximate map of the potential geographical distribution for this species in Ecuador. Both models showed significant differences in the prediction of suitable areas, model 2 being the m...

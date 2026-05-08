@@ -1,4 +1,0 @@
-SOURCE_TITLE: 大理白族自治州入侵福寿螺分子鉴定与种群遗传学研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oMLLcFIBOS_GzfC-JMHMkJB5G8pS7LTcxTs5l2GKuD6WVZ5QH9AQfVsUi2zht6yUx8tLoxn3WKvpTS4IdUPGbP8OJ5NJ4S_jo_PFtl-mGxSbVU-toyKTPbZrn_pYtzjcAolCi-fE1BFZGt8BlY7bG27cbvZs38IE27GbLWkQTW4A==&uniplatform=NZKPT&language=CHS
-
-要]目的 基于线粒体细胞色素c氧化酶亚基Ⅰ（cytochrome c oxidase subunitⅠ，COI）基因序列对大理白族自治州（大理州）福寿螺进行分子鉴定和种群遗传学分析，以期为入侵福寿螺的科学防控与治理提供理论依据。方法 2023年3月至2024年12月在大理州福寿螺现场调查中采集福寿螺样本，取其足部肌肉组织提取基因组DNA并进行PCR扩增及测序。使用MEGA 11、DnaSP v5.1软件及Geneious Prime 2024软件对序列分别进行单倍型分析、序列相似度与系统发育学分析；采用PopART软件绘制单倍型网络关系图以揭示种群遗传结构，并用DnaSP v5.1软件与Arlequin 3.5软件进行遗传多样性参数与分子变异分析，计算种群遗传分化指数(Fst)和种群间基因交流（Nm）；最后，基于中性检验和错配分析推测大理州福寿螺群体历史动态。结果 本研究共获得来自大理州9个福寿螺地理种群的379条序列，单倍型分析检出9个单倍型（hap1、hap4、hap11、hap18、hap20～hap24）。序列相似性与系统发育学分析共...

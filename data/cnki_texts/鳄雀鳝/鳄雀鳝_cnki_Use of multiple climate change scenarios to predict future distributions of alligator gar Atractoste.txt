@@ -1,4 +1,0 @@
-SOURCE_TITLE: Use of multiple climate change scenarios to predict future distributions of alligator gar (Atractosteus spatula) in the United States
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r4XhdUHva9Grvc6FaiULDS2ivSOtr4Pjg79yONPLYhp2rRxppTC16qTR_T65ei_6136BtxTgW0p4oAs1YrGFPJDI8Pl2k0e25h1y252W4Xx9UKujSptAQXzMuwsLZCQi8hDirDmH2AqCF6Rh7QC1HOWRyLawnP8iKwPj-0l4dCp_Ik6fMeNeBSB_ovfIYrFAUwiH2nNLGecg==&uniplatform=NZKPT&language=CHS
-
-Climate change is expected to cause the extinction of vulnerable species and reduce available habitat for others. Freshwater fishes are particularly vulnerable considering they are confined to habitats that are disjunct or prone to fragmentation on the landscape. The alligator gar (Atractosteus spatula) is a species that relies on specific habitat conditions, including water temperature ranges from 20 to 30 °C and flooded vegetation, for successful spa...

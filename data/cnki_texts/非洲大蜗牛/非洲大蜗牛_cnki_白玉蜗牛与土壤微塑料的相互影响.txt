@@ -1,4 +1,0 @@
-SOURCE_TITLE: 白玉蜗牛与土壤（微）塑料的相互影响
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1o0GxIxy02iWDEz8umabdTsSyvUgPYFgKm2d4bYLGs0kR1WV2LTgknGjNjIBpmsJn5LQsWBNA6HbCgotBdiuNdR9faRqcomq4eVqg8unsiix3Aw_vZVYmu5ZcDNn0eOsWJyRulo_rwt4otz3AroxkTL539l7f8AukrMyj_s-0VJ-_SuGSj1rmFo&uniplatform=NZKPT&language=CHS
-
-塑料制品的广泛使用与回收管理不善已经导致全球性塑料污染问题,土壤则是大量塑料垃圾的蓄积地。土壤中的塑料会破碎或降解成更小的塑料碎片,尺寸小于5 mm的塑料残片称为微塑料,是近年来倍受关注的新型污染物。以往较多的研究关注于海洋环境中的微塑料,而对陆地土壤环境中微塑料的环境归趋和生态风险还知之甚少。土壤动物有很多机会接触土壤中的塑料碎片,是否会通过摄食和消化来影响微塑料在土壤中的归趋,并诱发动物的毒性效应,还鲜有研究报道。此外,尚不清楚土壤动物是否具备降解土壤中残留塑料的能力。本文选择常见的土壤无脊椎动物白玉蜗牛（Achatina fulica）作为实验对象,使用聚对苯二甲酸乙二酯（PET）微塑料纤维（MFs,平均长度和平均直径分别为1257.8μm,76.3μm）和聚苯乙烯（PS）泡沫为实验材料,观察动物对（微）塑料的摄食、代谢和排出,分析（微）塑料对蜗牛生长发育、组织病理和氧化应激相关酶活的影响;通过体视显微镜镜检、扫描电子显微镜（SEM）观察、凝胶色谱分析（GPC）、傅里叶变换红外光谱（FTIR）和质子核磁共振（1H NMR）对比分析排出粪便中残留的和原（微）塑料...

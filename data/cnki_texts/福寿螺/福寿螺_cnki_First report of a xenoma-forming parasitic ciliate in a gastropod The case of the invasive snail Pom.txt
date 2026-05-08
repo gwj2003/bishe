@@ -1,4 +1,0 @@
-SOURCE_TITLE: First report of a xenoma-forming parasitic ciliate in a gastropod: The case of the invasive snail Pomacea canaliculata.
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rj0hb4OvLf4JMLL4zXemGMXnHCGNnwpONo5Xi2L10ILujSW65qRm2-0VfVQKnC3YJSpCdr1o5YXoGvLvcULqaToZG4DijPYsEpHD9K5s7e6KJ-Pqh6m58tCy2UaD4sp7EtVf3kAQQ4itTj4NJhNHGMcZrwkHOCTP43Awq1Rsn7UU8spdcUc_qlopqBo43rR2coJqxlp_mSBw==&uniplatform=NZKPT&language=CHS
-
-The apple snail Pomacea canaliculata is native to South America and has been introduced into many regions outside its natural range. Despite being one of the world's 100 worst invasive species, little is known about the pathologies caused by parasites other than digeneans. Here, we identify and characterize a xenoma-forming ciliate in P. canaliculata from three waterbodies in the province of Buenos Aires, Argentina, using histology, transmission electr...

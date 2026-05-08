@@ -1,4 +1,0 @@
-SOURCE_TITLE: 林蛙卵蛋白的功能特性及组分鉴定
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oM2bmGE017pBM-m1198_yGgJEbn9axvnKAtr2FKPAL-fc5aYtYfNyazVx0NFSc9j-pKqlLX4ba-6IBQ6l2l9zj4tvPigJSOvqAUuE1Asn2AyuZ9MsgP_4iwbX-SimzDxj8y7iqf5fTmwA-he4Z57GonymDHt_UGNDkIcwNkdemoQ==&uniplatform=NZKPT&language=CHS
-
-通过碱溶酸沉法获得林蛙卵粗蛋白,采用物理化学手段测定林蛙卵蛋白的基本功能特性,包括溶解性、持水性、起泡性和乳化性。结果发现,林蛙卵蛋白的溶解性较差,在等电点pH值为4.5时达到最低值,在pH值>9和温度60℃以上时,林蛙卵蛋白的溶解性有显著增强,氮溶解指数NSI值在0.6以上。林蛙卵蛋白的持水性良好,在40℃时达到最佳值5.93 g/g,在远离等电点的pH值下持水性呈上升趋势。林蛙卵蛋白的乳化能力较好,乳化稳定性随浓度增加而增加。采用液质联用技术对林蛙卵蛋白的组分进行鉴定,测得林蛙卵蛋白中有约425种蛋白/肽段,与美洲牛蛙等有较好的同源性,蛋白种类以酶居多,分子量主要集中在50～200 kDa,为林蛙卵蛋白的研究提供了理论基础。

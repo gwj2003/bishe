@@ -1,4 +1,0 @@
-SOURCE_TITLE: 东江外来齐氏罗非鱼个体繁殖力初步研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1o78xnb-vkl983sn4_rOODwiO6lU4SvUr_avpt85qbDupfvB23ESYpxZJBgTm0RwvZAhp8OQslRORfiATWE6NCQ4ZoI2jJtfOYuKKqA8exYn1KePOE7q1nmbdRVACU_cBRCrR7Z_LE2NO8xQ5mUCO8chFoouXy3vypKNxGb5w-0BA==&uniplatform=NZKPT&language=CHS
-
-于2011年1月至2011年12月,逐月在东江采集齐氏罗非鱼样本,研究其个体繁殖力。结果表明,齐氏罗非鱼属于多次产卵类型,在东江的繁殖期约为5月初到10月底。个体绝对繁殖力(F)在4913～13129粒之间,平均为7991粒;一次产卵量(Fb)在1997～6369粒之间,平均为4114粒;体长相对繁殖力(FL)在49～83粒/mm之间,平均为62粒/mm;体质量相对繁殖力(FW)在66～154粒/g之间,平均为98粒/g。个体绝对繁殖力及一次产卵量与体长(L)呈幂函数相关,与体质量(W)及净体质量(Wn)呈线性相关。相关回归式分别为:F=2.186L1.6886;Fb=0.7243L1.7796;F=50.184W+3627.3;Fb=25.008W+1952.2;F=58.783 Wn+3553.4,Fb=28.939 Wn+1942。

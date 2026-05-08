@@ -1,4 +1,0 @@
-SOURCE_TITLE: 用于快速识别红耳龟在中国野外分布的特异性引物筛选
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qsN40zP8qdYO9Q_7VICNgL2Pnu8wAqxYj_4QODUp8QSzAa58POuXfbemTc-JerVKkrR8JcCyxKNgv-jC6patcSoznerVagWS3q_KGBVxk_ygx1JlStp2HnldzZblZWndOk0cLAkIkyVN3NJx9fZQwh5On_qHIqE5azfdU8nSj0Yw==&uniplatform=NZKPT&language=CHS
-
-红耳龟(Trachemys scripta elegans)是世界上最危险的100个入侵物种之一,自20世纪80年代被引入中国,目前已在中国野外广泛分布。环境DNA技术是物种调查和监测的有力工具,为了能够利用环境DNA技术快速识别中国野外红耳龟的分布状况,筛选了红耳龟线粒体COI基因的特异性引物。该引物能够有效区分红耳龟与中国野外其他常见的10种龟类,可为红耳龟的野外分布监测和防控提供参考。

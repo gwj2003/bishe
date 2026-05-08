@@ -1,4 +1,0 @@
-SOURCE_TITLE: Analyzing Possible Shifts in the Climatic Niche of Pomacea canaliculata Between Native and Chinese Ranges.
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qe_F-rq3f1FqJ3u6MdPx9Lr2mpXzRW240v4r--NpChEpGUB68UuzFcdLaRaeWwmfPqdi2dMEyxXz-DYSwrKPu-qustQiAnWnwn9c3ZroUFnEFwujVt5MFtPvq8zFsBSQJTS5V0jxg2kz_AYdB4juWBqZNo6OpWZNazIE1IVMbcno2a4pgt0argU6ByEZWvbQ6Sfhcr7ayVrQ==&uniplatform=NZKPT&language=CHS
-
-The impact of invasive alien species (IAS) is one of the direct factors causing global biodiversity decline and economic losses, and predicting the potential invasion risks of invasive species is crucial for developing prevention and control strategies. In recent years, an increasing number of studies have shown that invasive species undergo rapid shifts in climate niche in invaded areas. Accurately quantifying the dynamic shifts in the climate niche o...

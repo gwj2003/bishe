@@ -1,4 +1,0 @@
-SOURCE_TITLE: 基于最大熵模型预测当前及未来气候情景下福寿螺在南京的潜在地理分布
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oEJSmpF3JikgdAqb3PF2mdbzoS1frZOwZzI8U7dhDk4_oXWbaXfkJ3eAs4VfPXaY-6_Qzp934HY7-siX6w-g1XHCjv1dguSBX14ft6AsWGo8-mGDr12ULYVTtGSwsoZ79oWF72lmly8XUyqKB3m-x0nvZvPRAznUBR93JRV18aUg==&uniplatform=NZKPT&language=CHS
-
-为探明福寿螺在南京地区的潜在适生区域及其关键影响因素，本研究整合了该物种在南京的地理分布点位数据和相关环境变量，基于最大熵（Maximum entropy, MaxEnt）模型，预测了当前和未来不同气候情境下其在南京的潜在地理分布格局。结果表明，MaxEnt模型预测精确度较高（AUC值为0.868±0.031），预测结果可信；人口密度、最干月降水量、年均温度和昼夜温差月均值是影响福寿螺潜在地理分布的关键环境因子，累计贡献率达86.0%；当前气候条件下，福寿螺在南京的潜在适生区主要集中在长江沿岸及南部地区，总面积约3071.4 km2。在未来3个时期（2041—2060、2061—2080、2081—2100年）和3种共享经济社会发展路径（SSP126、SSP245、SSP585）条件下，福寿螺在南京的潜在适生区范围将持续扩大，尤其是高度适生区面积会明显增加。因此，亟需采取措施加强福寿螺的管理和防治。本研究结果可为南京市福寿螺的监测、预警及管理策略提供科学参考。

@@ -1,4 +1,0 @@
-SOURCE_TITLE: 外来植物南美蟛蜞菊非结构性抗病机制及对其成功入侵的贡献
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rv7FxCHBrA4NNO1FSe8mAGdZ26USdQzhW3Wa0nEn87wxBS1PtUfNs_MwuJ8n3n08JDVcTqvcZOpcEqRbpdUwPofjJhv69JC5d0pMKNTLjGfpajqbfXrMGIPZ5KRuSjTbmWsaQyk_-nWaV06LV2XPJVghu1d0mm1UvQZPUwGJMWYg==&uniplatform=NZKPT&language=CHS
-
-生物入侵为当下全球变化的主要内容之一,也是重要的国际环境生态问题,威胁着全球的环境生态和经济发展。虽然关于生物入侵的机制研究已有不少报道,却极少见系统研究入侵植物的抗病性机制的报道。本研究从群落学、次生代谢产物、植物抗病基因(R-gene)、植物内生菌等四个方面首次对入侵植物南美蟛蜞菊(Wedelia trilobata (L.) Hitchc)非结构性抗病机制进行了研究,并探讨了其对南美蟛蜞菊成功入侵的可能贡献,具体如下： 	1.通过传统的群落学调查方法,确定了入侵植物南美蟛蜞菊在野外很少染病的情况,南美蟛蜞菊的入侵会显著降低其入侵植物群落物种多样性。并且,经济活动加剧了南美蟛蜞菊的入侵。 	2.从生化水平探讨南美蟛蜞菊抗病的机制,确定了南美蟛蜞菊不同组织的次生代谢产物既能够抑制立枯丝核及香蕉枯萎病等植物病原真菌,亦能够促进丁香假单胞等植物病原细菌的能动性与细胞膜生成。 	3.通过对南美蟛蜞菊抗病基因同源序列NBS-LRR RGAs的克隆及分析,获得了2类(tir-NBS-LRR和non-tir-NBS-LRR)3条NBS-LRR RGAs序列WTRGA1(基因库登录号JX...

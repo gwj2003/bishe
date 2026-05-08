@@ -1,4 +1,0 @@
-SOURCE_TITLE: Mechanical properties and structure of the biological multilayered material system, Atractosteus spatula scales
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q3NGq5Ixl9Os57oPgUXY39EswqqpMwihIfNc4d7MmUb9LFfV3H-V3UCG68CuYTfd7Vj3Xf_pCq4hud-tA1iG7Lnu8yMo_vkDspfipiev0qkP3TV2MRbQC19Mepki-GfsMbj7APzfYK1vflrphKx8vsI2N0whIqkRoTPsA0B47FAzHFigwe5oP17LOynKxA2D-D-I0fEh4YdQ==&uniplatform=NZKPT&language=CHS
-
-During recent decades, research on biological systems such as abalone shell and fish armor has revealed that these biological systems employ carefully arranged hierarchical multilayered structures to achieve properties of high strength, high ductility and light weight. Knowledge of such structures may enable pathways to design bio-inspired materials for various applications. This study was conducted to investigate the spatial distribution of structure,...

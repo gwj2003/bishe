@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-先基于 data/triplets/reported_in_rows.csv 和 data/triplets/located_in_rows.csv
+先基于 data/points/reported_in_rows.csv 和 data/points/located_in_rows.csv
 解析出中国境内的精确分布点，输出物种名、地点、行政链、年份和状态。
 
 规则：
@@ -125,7 +125,7 @@ class LocationGeocoder:
     def _load_location_parents(self) -> dict[str, set[str]]:
         """从 LOCATED_IN CSV 中加载地点到上级地点的映射。"""
         parents = defaultdict(set)
-        triplets_dir = Path('data/triplets')
+        triplets_dir = Path('data/points')
         located_csv = triplets_dir / 'located_in_rows.csv'
 
         rows = self._load_rows_from_csv(located_csv)
@@ -188,7 +188,7 @@ class LocationGeocoder:
     def _load_precise_records(self) -> list[dict[str, str]]:
         """从 REPORTED_IN CSV 里加载精确地点、年份和行政链。"""
         records: list[dict[str, str]] = []
-        triplets_dir = Path('data/triplets')
+        triplets_dir = Path('data/points')
         reported_csv = triplets_dir / 'reported_in_rows.csv'
 
         rows = self._load_rows_from_csv(reported_csv)
@@ -224,7 +224,7 @@ class LocationGeocoder:
         return records
 
 def process_all_species():
-    triplets_dir = Path('data/triplets')
+    triplets_dir = Path('data/points')
     resolved_output = triplets_dir / 'china_distribution_points.csv'
 
     geocoder = LocationGeocoder()

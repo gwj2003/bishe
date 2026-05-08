@@ -1,4 +1,0 @@
-SOURCE_TITLE: 两种壳色福寿螺对盐胁迫的响应差异及其机理初探
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rmr3YBz-b_Nz08zKDRr6NJtLWJ7Z4GfiEOpBBvcKFsgSO0Y5Xi-OqiqKNZGgWENbPMgnkyaD_Y37GpRHUffAhkqzMt02QhJBlRWUiphBFXbfKlc9o0URShabxTd--Dq5E9nxpeoGrQpfbyeBWO-ICsZOPkJLuvr2DJvs4qQys-ag==&uniplatform=NZKPT&language=CHS
-
-为探究不同壳色表型福寿螺对长期低盐度胁迫的生理响应，首先采用COⅠ测序鉴定2种壳色福寿螺对应的遗传信息，然后综合运用理化测定、形态学观察以及组织病理染色，通过室内静水法探究盐胁迫对2种壳色福寿螺的急性毒性效应和慢性亚致死效应，并从酶学水平和鳃组织形态学角度揭示导致其耐盐性差异的机理。结果表明：黑壳样本中100.0%鉴定为小管福寿螺Pomacea canaliculate，而黄壳样本中有14.0%为斑点福寿螺P. maculata，初步证实黑壳小管福寿螺为上海地区野外优势种群，且福寿螺壳色表型与亚种分类没有必然联系。在急性盐胁迫下，黄壳、黑壳福寿螺的LC50（14 d）有显著差异，分别为14.28、18.43 g/L。在3.0 g/L盐度胁迫下，2种壳色福寿螺的体质量均呈现“N”型变化，黄壳福寿螺生长缓慢。此外，3.0 g/L盐度处理15 d均对2种壳色表型福寿螺的抗氧化免疫、呼吸代谢、渗透调节造成了不良影响，与黑壳个体相比，黄壳福寿螺的鳃组织ROS积累量显著增加，鳃组织氧化损伤程度加剧，LDH活力上升，而T-AOC、NKA、LZM、SDH等活力显著下降，表明黄壳福...

@@ -1,4 +1,0 @@
-SOURCE_TITLE: Bioaccumulation and toxicological effects of dietborne arsenic exposure on the apple snail (Pomacea canaliculata)
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1psqlNaU_dDhhgm60C9A2FVLFT4pk8fFVDuh_cpzIDqB42q9JQHU3zm9GZ2Ca4T-C_ueaSaxLpNsceQkIsxzKVX-NpGe0Gqsapa4MyMeFPqAUxvZTo_8PSSkR8z92-6a7aS3xN9r6-Anh-0FO4YnYHr_tWOm02q0dCWIex4zxzv8gIhSmXcbOknB9KWnPNLYKr2LHKRFSOOQw==&uniplatform=NZKPT&language=CHS
-
-An eight-compartment physiologically based pharmacokinetic (PBPK) model was used to simulate the bioaccumulation and distribution of arsenic (As) within the apple snail (Pomacea canaliculata) following the ingestion of As-contaminated lettuce. The bioaccumulation results revealed that the shell contained the majority (67.21 %) of the total As content, with the liver and the head-foot containing approximately 11.14 % and 10.45 % of the to...

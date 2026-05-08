@@ -1,4 +1,0 @@
-SOURCE_TITLE: 蜗牛粘液的烧伤愈合作用及有效成分的分离纯化与表征
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rTA3bUPANXi_CaOHWcTtiFc15dA9b2NP-f6CNoH9bQpJx7R7BJNRbh7flXDqOLfaw7v9qAe4sHoin-_Ykoj2sgliw8FvPFkonlPZtnUCmHnbBAuTNQGpCdpl8j_POH0OokghYnRwVRkXb0MennW7ITDGnhsYO_wn_M28WmsoXu-Ij4K6PYGsKT&uniplatform=NZKPT&language=CHS
-
-白玉蜗牛(Achatina fulica),又称褐云玛瑙螺,其粘液的保湿、抗菌、修复等特性,使其具有潜在的应用价值。在中国民间有蜗牛粘液用于烧伤处理的传统,但粘液中发挥烧伤愈合作用的有效成分尚未可知,其修复机制仍缺乏系统的研究。探寻蜗牛粘液有效成分并对其结构进行表征,有利于阐释其构效关系,结果对蜗牛产业升级也具有重要意义。本研究对白玉蜗牛粘液进行提取并检测其理化性质,构建小鼠烧伤模型并评估蜗牛粘液对烧伤愈合的影响,通过分离纯化探寻其发挥愈合作用的有效成分并进行表征。主要研究如下:(1)蜗牛粘液的提取与理化性质通过比较,确定了蜗牛粘液的提取方法。蜗牛破壳,料液比1:2加入超纯水浸提2 h。蜗牛粘液主要由蛋白质和多糖组成,具有良好的粘附力。比较不同储存条件下蜗牛粘液的蛋白质含量、总糖含量和粘附力,探究其稳定性与最佳储存条件。结果表明,蜗牛粘液冻干粉比溶液状态更稳定,并且-20℃比常温环境更利于粘液储存。2,2-二苯基-1-吡啶并肼基(DPPH)自由基清除能力和总还原力结果表明,蜗牛粘液具有良好的体外抗氧化能力。(2)蜗牛粘液对烧伤小鼠的愈合作用通过烧伤小鼠模型探究蜗牛粘液对烧伤愈合的影响。结...

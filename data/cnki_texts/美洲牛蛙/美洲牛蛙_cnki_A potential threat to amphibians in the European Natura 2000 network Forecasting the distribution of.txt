@@ -1,4 +1,0 @@
-SOURCE_TITLE: A potential threat to amphibians in the European Natura 2000 network: Forecasting the distribution of the American bullfrog Lithobates catesbeianus
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oM2bmGE017pBM-m1198_yGwzGK1kiD1QlupWVfcRZ_agrUEXuaBcdYLGKi3UoFJEIxRz56nS0AzlwD_fo1UFRwpAV6Cf9HT1gCn8QQ3CmUFo9t_XlbgmEUiObJ5Cci32iuN-Zv5l0Tmw_IPcRRsKLOLWs1Iv8q8S7FYy75vjcOBIHqMsxbzSrSJWQxbue7E06rEaDkVh6rIQ==&uniplatform=NZKPT&language=CHS
-
-AbstractFreshwater biodiversity is declining at an accelerated pace. Climate change and associated global warming and changes in precipitation patterns, combined with the expansion of generalist -invasive species are two of the main threats. Niche-based models (NBMs) are becoming inevitable tools in invasive species risk assessment and in conservation decision-making. Lithobates catesbeianus is an invasive species globally known for its adverse ecologi...

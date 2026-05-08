@@ -1,5 +1,0 @@
-Entity1,Relationship,Entity2,Property
-红耳彩龟,HAS_ALIAS,巴西龟,type=俗名
-红耳彩龟,HAS_ALIAS,Trachemys scripta elegans,type=学名
-红耳彩龟,THRIVES_IN,养殖废水,null
-红耳彩龟,CAUSES,水体富营养化,type=环境污染

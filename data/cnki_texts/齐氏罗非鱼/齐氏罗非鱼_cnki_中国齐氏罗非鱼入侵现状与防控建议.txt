@@ -1,4 +1,0 @@
-SOURCE_TITLE: 中国齐氏罗非鱼入侵现状与防控建议
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oXol5-EgxkeBcoPRapEa7ijeDKLwdGzSfbPhiX2QaQ2bAjZU36VnpwyUd-T14d7mFwC-itCZMbJnSi5azmO3FQX5PKqjkGIVP3BpvdB3CRW1u6M5jkm4DjOoaQUIt4gFfzqYOdd6LHH8HV-vZhb0L1cpA2yEDxN13vinFdCj4Ihw==&uniplatform=NZKPT&language=CHS
-
-外来鱼类入侵对本地生态系统造成了严重威胁，已成为生态学家和自然资源保护者关注的焦点。1978年齐氏罗非鱼(Coptodon zillii)因水产养殖需要引入中国后，凭借其强大的生态适应性，已入侵到长江以南众多天然水系中，并有向北扩张的趋势。国内学者对齐氏罗非鱼入侵的研究起步相对较晚且主要集中于基础研究，总结其入侵生物学、提出可行的防控方法已成当务之急。本文综述了齐氏罗非鱼的起源、分布、生物学特征、传入途径、入侵现状、潜在危害和防控策略，分析了其入侵机制研究和管理存在的问题和挑战，提出其入侵生物学研究的未来发展建议，并总结为以下四点：(1)全面收集齐氏罗非鱼入侵本底数据；(2)阐明齐氏罗非鱼生活史可塑性与生态位变动模式和机制，解析其种群扩散模式，建立模型和情景以预测入侵的未来趋势；(3)利用新兴的多组学技术，筛选环境适应关键基因，解析齐氏罗非鱼快速适应环境的分子遗传基础；(4)在阐明入侵机制的基础上，逐步建立综合防控技术体系，为齐氏罗非鱼管理及防控提供新思路。

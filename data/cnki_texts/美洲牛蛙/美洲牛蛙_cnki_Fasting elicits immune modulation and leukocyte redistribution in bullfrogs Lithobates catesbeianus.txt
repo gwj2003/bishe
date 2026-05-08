@@ -1,4 +1,0 @@
-SOURCE_TITLE: Fasting elicits immune modulation and leukocyte redistribution in bullfrogs (Lithobates catesbeianus).
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r0guEK6eY0Kix7QcxcnB_-3m1mS4jrCOMy1yC75frRCPasWGxJ6WNHu-g8g00lC6X8YoEfCu9ei7Vr30PjSqb8ko-8TeDaqUYZTd4X7lSVLYiabdbxrLeVBu047GYR-9IYpY6liWlNXzZ9GMhPjPFI6Fn3qf5yZjbJDUo2JJ3gsgMvFoNDD97zgBziaVWYAe2fXOe2gywe0g==&uniplatform=NZKPT&language=CHS
-
-An integrated range of behavioral, physiological, and biochemical adjustments reduces metabolic expenditure and energy utilization during fasting to maintain homeostasis. In order to cope with these adjustments, several vertebrates can modulate immune function and corticosterone secretion while fasting to save energy. However, in ectothermic animals that can fast for longer periods due to their low metabolic rate, the underlying corticosterone and immu...

@@ -1,4 +1,0 @@
-SOURCE_TITLE: 基于eDNA技术的横琴国家湿地公园鱼类生物多样性研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1p5dY-Dx5z94CrfTACRLfXQBXqdkftsJJApA7b0jRQg_WFEU7RsifgvHPNiy0mj2l7IW6-hFnSO2FMLEYDiDYvKgUI-H-AYy1h7epjWbSjn2V25JRXRLUbWIcPImlHNB7gW3CYCGFvLt2mIAu9AiKNHHfgybSB-atV1Fw17VlvBxA==&uniplatform=NZKPT&language=CHS
-
-本研究基于环境DNA (Environmental DNA,eDNA)技术对横琴国家湿地公园进行了鱼类生物多样性调查,旨在了解其鱼类多样性现状,评估其保护管理成效。结果显示,通过高通量测序共检测到鱼类55种,隶属于8目23科45属,其中鲈形目占主导地位,肉食性与杂食性鱼类占比较高。在空间分布上,修复区鱼类种类最多,天沐河多样性最低。在物种优势度上,草鱼(Ctenopharyngodon idella)、尼罗罗非鱼(Oreochromis niloicus)、伽利略罗非鱼(Sarotherodon galilaeus)、齐氏罗非鱼(Coptodon zillii)和鲤(Cyprinus carpio)为优势种。主坐标分析(PCoA)显示,一区与芒洲、基围鱼塘与修复区组成差异较小,天沐河与其他4个位点差异较大。研究表明,eDNA技术在快速识别鱼类多样性和揭示生态格局方面具有重要应用价值。针对当地水生生物保护提出以下建议:1)系统开展湿地公园生物本底资源普查;2)建立外来鱼类动态监测机制;3)加强环境监测评估。

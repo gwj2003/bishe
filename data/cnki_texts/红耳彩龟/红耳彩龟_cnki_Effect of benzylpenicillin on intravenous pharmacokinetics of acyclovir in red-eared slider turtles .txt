@@ -1,4 +1,0 @@
-SOURCE_TITLE: Effect of benzylpenicillin on intravenous pharmacokinetics of acyclovir in red-eared slider turtles (Trachemys scripta elegans).
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r2J8Kz92c7xh0DvDnkRFAxq_NzC8YkgyYyIMquJZgN5hzCHHjUZTiEPefnH5K8kiWoWY7ni0Xhha2xwH8AyclTocFVjEUEYga_19yhtgLJWSnl4JHMwxIjERjWBYYVI2YATBr0-PRc0SCzdc_bL9XiALQ1MmTZnq8NSnlKQMXoQJRDYZ4VVfa2SHmfcKwUw9Jqc12rRH1Wmw==&uniplatform=NZKPT&language=CHS
-
-The aim of this study was to determine the effect of benzylpenicillin on the pharmacokinetics of acyclovir in red‐eared slider turtles ( Trachemys scripta elegans ). Six clinically healthy red‐eared slider turtles weighing 400 and 580 g were used for the study. Acyclovir (40 mg/kg) and benzylpenicillin (30 mg/kg) were administered intravenously to turtles. In the study, the cross‐pharmacokinetic design (2 × 2) with a 30‐day was...

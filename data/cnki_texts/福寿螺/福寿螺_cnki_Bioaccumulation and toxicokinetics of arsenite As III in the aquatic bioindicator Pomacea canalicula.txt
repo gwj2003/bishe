@@ -1,4 +1,0 @@
-SOURCE_TITLE: Bioaccumulation and toxicokinetics of arsenite (As III) in the aquatic bioindicator Pomacea canaliculata using radiotracer analysis
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rj0hb4OvLf4JMLL4zXemGMXnHCGNnwpONo5Xi2L10ILr7xn50eD1GVDfpJs3D6ctrVVfRxo3CTNfzBUvp9V3TWzuo71duIMnDAAA8mK5hOMg62SuMGoG67Bh_K8yTH333FXEnZlGfA_n0xHKg_uAl_7BajFkMs62xel5di8aS35HSvshHSSJvzF27ao7lP1rthZps7yyUYBg==&uniplatform=NZKPT&language=CHS
-
-This study examines the kinetics of absorption, distribution and accumulation of arsenite (As III) in the freshwater gastropod Pomacea canaliculata using a short-lived tracer (<sup>76</sup>As III). The toxicokinetic model indicate that the gills play a crucial role in the As III uptake, with uptake rates significantly exceeding those of release back into the aquatic environment. The movement of As III from the gills to the hemolymph has low...

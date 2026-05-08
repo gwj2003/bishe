@@ -1,4 +1,0 @@
-SOURCE_TITLE: Establishing Reference Demography for Conservation: A Case Study of Macrochelys temminckii in Spring Creek, Georgia
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1p-VyA2_i-5ncpZ1X0bB30ln4YX-1ZKfd3Zb16DJkfzspiwnGQC_0TPi7nYofH-ApaxJTX2WSM9qqwqMx4tJzt2D-PMdJDLQAQFaRlv3OfqGY7Ge7j3upnZJtyWsAHOlvzvb-KLTp-xeLEpWeogWjvN2lv_Vve9I3o3XuynlANQlQkWXNdap2R3STo41SNvoVjwY6v4B2Htgw==&uniplatform=NZKPT&language=CHS
-
-The conservation of large, long-lived turtle species can be a challenging issue because their life-history strategies make populations sensitive to changes in adult survivorship and populations may be difficult to sample. The Alligator Snapping Turtle ( Macrochelys temminckii ) is a large freshwater turtle species occurring in North America for which commercial harvest has severely reduced populations throughout the species range. Given recent populati...

@@ -47,8 +47,8 @@ with st.sidebar:
     neo4j_pwd = st.text_input("Neo4j 密码", value="12345sss", type="password")
 
 # 全局加载合并数据
-data_dir = "data/gbif_results"
-merged_csv_path = os.path.join(data_dir, "gbif_dedup_by_admin_year.csv")
+data_dir = "data/points"
+merged_csv_path = os.path.join(data_dir, "china_gbif_merged_admin_levels.csv")
 species_names = []
 
 if os.path.exists(merged_csv_path):

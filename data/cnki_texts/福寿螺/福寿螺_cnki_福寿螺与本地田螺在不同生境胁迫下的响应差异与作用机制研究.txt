@@ -1,4 +1,0 @@
-SOURCE_TITLE: 福寿螺与本地田螺在不同生境胁迫下的响应差异与作用机制研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qWBMI3_V7DeITQzrtLQ-YFAU6FYmlCmtBOnN4U45st2Hr1VX_FjZk6pfOfJ1_3naLuLStR4UwifGMkDlXYp11pJfMsC26YhjLy-XB4OIMk2QxblR90X8muf__iEAXQCl4JTcJKZtUzDWSBq8ep9iITYJAIifu_2YEL62JH-g32il29-Nynhp-o&uniplatform=NZKPT&language=CHS
-
-福寿螺(Pomacea canaliculata)在我国及其它亚洲国家广泛分布,对入侵地造成严重的农业和生态危害,已被世界自然保护联盟列入全球100种恶性外来入侵物种。福寿螺逃离了原本的天敌,且具有生态耐性广、摄食能力强、种群增长快等优势,极易在所处生境中形成优势种群,对其他生物产生竞争,进而改变所处生境的生物多样性。因此,本研究选取华南地区常见的两种淡水螺中国圆田螺(Cipangopaludina chinesis)和梨形石田螺(Sinotaia quadrata)作为本地田螺代表,研究了不同生境胁迫下福寿螺与两种本地螺的响应差异以及福寿螺与本地田螺应对不同警戒信号的行为学差异,探究了不同胁迫(酸碱、干旱、高温、低温、天敌)下三种螺的响应特征,得出以下结论:1.福寿螺在水体pH值4.5、6.5、8.5、10.5的存活率均高于两种本地螺,较耐酸碱;只有在pH值2.5的强酸情况下,福寿螺较快死亡。同时,水体pH值的测定结果显示,在微酸微碱胁迫下,福寿螺对水体酸碱环境有一定的缓冲作用,即水体pH值向中性范围靠近。综合对三种螺肝脏与头部的电镜扫描结构比较,福寿螺在强碱胁迫下器官虽出现孔洞、裂缝...

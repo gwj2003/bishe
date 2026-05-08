@@ -1,4 +1,0 @@
-SOURCE_TITLE: 蜗牛黏液糖胺聚糖的化学结构及抗凝活性
-URL: https://kns.cnki.net/kcms2/article/abstract?v=iO0L29morZl781SSAL_-GCAYzAvoGTMbGVg2YXQpWmQcLFdYRykue_dFg4ryIgnjuZV5M6AkU_C8SR7lAbFdlWgftRhTk-vPO_Hixon_-86n75NWTDJCQyyQun9ClCD9QxMdYgm9r2WTd1kxcUSGLERYx-MWQ4oucLY_h-dDtr-qsEd8UrlR-A==&uniplatform=NZKPT&language=CHS
-
-研究了白玉蜗牛黏液中糖胺聚糖的化学结构及其对血液凝固的影响.采用酶解法提取白玉蜗牛黏液粗多糖，季铵盐沉淀法和离子交换柱层析法纯化获得多糖SMG-2.单糖组成分析以及紫外、红外、核磁共振等波谱方法对SMG-2的化学组成与结构进行分析研究，体外抗凝血实验分析SMG-2对人质控血浆凝血时间的影响.结果表明，SMG-2由L-艾杜糖醛酸和D-乙酰氨基葡萄糖组成的类肝素糖胺聚糖，因其肝素抗凝五糖序列而无显著抗凝血活性.

@@ -1,4 +1,0 @@
-SOURCE_TITLE: 贵州草海湿地牛蛙的分布现状及其生境选择特征
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qyawVmYW8_upBP9nRe1dBhRRko3j0k3iDfxvrIew1kEwGKEgiXxiQTKMixMUxbtMOd8jxpxW9sqGzMwsI7vNkGxFDb0ndAMtQXODsgfAS9j8w3Egy6B5KCrykf-GdZHlFVyO_fHDol6jJmzI9sNg80hs9H-ypzHk2vEYf4AycquA==&uniplatform=NZKPT&language=CHS
-
-生物入侵已成为全球性的生态环境问题,牛蛙(Rana catesbeiana)入侵对当地生物多样性和水生生态系统造成了严重的危害。为掌握牛蛙在贵州草海湿地的种群分布现状及其对生境的选择特征,于2018年6-8月对草海湿地牛蛙的分布、种群数量及栖息生境进行了研究,并利用生境喜好系数和主成分分析法探究其生境选择特征。结果显示,牛蛙主要分布于草海湿地上游的刘家巷及邻近区域,并向中、下游的顾家底、阳关山等区域扩散。通过分析牛蛙生境选择特征,发现牛蛙偏好选择的微生境植被类型为草地和沼泽草甸区域,水体类型为静水水塘和沟渠区域,且具有水深较浅(≤0.6 m)、草本盖度适中(31%～60%)、草本高度较高(31～100 cm)、地表温度较高(21～25℃)、地表湿度较高(41%～80%)、离干扰源距离适中(101～500 m)的特点。主成分分析表明,水体类型、植被、水域深度、温度和干扰强度是影响牛蛙生境选择的重要因素。研究表明,牛蛙在草海湿地已占据一定的生态位,并呈泛滥孳生趋势。根据牛蛙的生物学特性(食性、繁殖特性、生境选择)判断,其已形成自然种群,应进行综合治理,避免其在草海湿地进一步扩散,使其危害处...

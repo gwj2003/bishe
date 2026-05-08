@@ -1,4 +1,0 @@
-SOURCE_TITLE: 基于MaxEnt预测入侵种齐氏罗非鱼在中国的适生区
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oFLrzJ8--EjVVQ3CCdLT7qz4JT3o5ckrSQJi0CH17sfhaDOYhldqJVvg4hyg5TtCc7qSVFvB7g63Q2D9hevAPx8I08-sWP63h08zVdHhtCs1Vz5uu5BiHfODxA9lZ79KOQakPrzNVBw404vMWsi6_ViLQf76l3r0ufjrJck2IQ3w==&uniplatform=NZKPT&language=CHS
-
-齐氏罗非鱼（Coptodon zillii）原产于西非、东非、北非及中东的部分地区。基于MaxEnt模型，结合该入侵物种在中国境内分布坐标及8个环境变量，预测了当前及未来气候变化情景下其在中国的适宜栖息地变化。结果显示，模型表现出优良的预测性能（AUC=0.84,TSS=0.6），识别出4个主要变量：最冷季度平均温度（Bio11）、年降水量（Bio12）、年温差（Bio7）和海拔高度（Bio20）。齐氏罗非鱼当前和未来适生区主要集中在中国长江以南大部分省份，在3种未来气候情景（SSP1、SSP2和SSP5）模式下展现出不同的变化趋势：在SSP5-8.5情景下适生区显著扩张，在SSP2-4.5情景下适生区适度增加，而在SSP1-2.6情景下适生区明显收缩。这表明严格减排（SSP1-2.6）可有效降低该物种的栖息地适宜性。本研究强调了气候政策在管理中国淡水生态系统生物入侵问题上的重要性。

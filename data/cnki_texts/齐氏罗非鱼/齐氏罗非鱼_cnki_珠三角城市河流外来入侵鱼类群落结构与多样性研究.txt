@@ -1,4 +1,0 @@
-SOURCE_TITLE: 珠三角城市河流外来入侵鱼类群落结构与多样性研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oXqcU7EAX4lG95Eihi4uOe7uU1EAyJnzB3R7uHT5peHoqHVxs-mBVzaApg6HqPDvEDE0n0jFqXhMAxzkAwMvhh3Ubg--g8ksksw-SGiuGW0D6z9HlJLYitvWPZmGUp15ULcOI3h1F053p5XIm3EHyLpcFXSE0QkWqIBWg_1OOdCpE4JBd-2yFG&uniplatform=NZKPT&language=CHS
-
-本研究旨在探究珠三角城市河流外来入侵鱼类的群落结构与多样性,分析城市化进程中环境因子对外来鱼类群落的影响机制,为城市河流生态修复与管理提供科学依据。因此,本研究选取了珠三角地区城市化程度较高的花地河和较为自然的增江作为对比研究区域,通过实地鱼类采样、实验室分析与多种生态统计学方法相结合,系统分析了鱼类群落结构及其与环境因子的关系。 本研究于2023年7-8月(夏季)和2024年1-2月(冬季)对花地河中下游与增江中下游共计44个调查站点进行鱼类资源调查、环境因子采集,采用定置刺网与地笼结合的方式进行捕捞。运用UPGMA聚类分析、ANOSIM相似性检验、ABC曲线分析、RDA(冗余分析)、NMDS(非度量多维尺度分析)和RLQ分析以及功能多样性指数等多种生态统计学方法,从不同角度深入解析鱼类群落结构、优势种分布、环境因子对物种分布的驱动性及其主导对功能性状组合的筛选与驱动机制。 研究结果首先揭示了城市河流与自然河流鱼类群落的结构差异,城市河流鱼类群落结构高度同质化,主要以耐受性强的外来种为主导,如尼罗罗非鱼(Oreochromis niloticus)和麦瑞加拉鲮(Cirrhinus mr...

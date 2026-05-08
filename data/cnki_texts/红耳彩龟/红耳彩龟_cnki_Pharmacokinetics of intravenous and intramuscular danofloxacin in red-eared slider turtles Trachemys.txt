@@ -1,4 +1,0 @@
-SOURCE_TITLE: Pharmacokinetics of intravenous and intramuscular danofloxacin in red-eared slider turtles (Trachemys scripta elegans)
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rD9RJL8Z7wxgQ3oBJwVf2w0W8LMRQo5r7dm1FDJjvKSP6lVNv_NGgtPOT4rWrapyIjsWK3rpWgYb2KUZxjUhXe305RvZ7xUtCYP0TXvX_5AG1hNdLyJj3l3vY0TIZ2xBBPUbdtkwcG19_iFMuwmB-dLHT9qi7Tm2h8Yu5cxPuxx67pFxPXI0OM8axDMTEcpSSjG1BIW0JmbQ==&uniplatform=NZKPT&language=CHS
-
-This study aimed to investigate the pharmacokinetics of danofloxacin in red-eared slider turtle (;Trachemys scripta elegans;) following a single intravenous (IV) and intramuscular (IM) administrations of 6 mg/kg, using a two-way crossover study with 30-day washout period. Eight clinically healthy red-eared slider turtle weighing 410–600 g (mean 490 g) were used for the study. Danofloxacin concentrations were measured using the reversed-phase high-perfo...

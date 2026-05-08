@@ -1,4 +1,0 @@
-SOURCE_TITLE: 山美水库罗非鱼形态判别、DNA条形码及生理生化的分析
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rJdthFjN-LrhXfw8RATvS-Xy2DJgz2vmqcUH7YpeQ3zGsIia9qPIVfMem6hiy67j-SuHTFetFQUXGtCfMf77gTpWFsBESuF6-NuFg0D-54H6aJF4aBP9CfnVqmKLAZ76KB1vm56m8oxCxnjd6IH9BM74ssM27gU2Y78LDVkfYw5ZcL1-mz7uwB&uniplatform=NZKPT&language=CHS
-
-本文以山美水库自然繁殖的罗非鱼为研究对象,通过形态学和分子生物学方法系统地比较了山美水库三种罗非鱼不同群体间的遗传结构和遗传多样性,同时分析了消化、免疫酶活力及肌肉营养品质,讨论并揭示山美水库罗非鱼种群状况,旨在为山美水库罗非鱼资源的合理利用和科学管理提供基础资料和理论依据。研究结果如下: 1.山美水库的罗非鱼形态学 山美水库奥利亚罗非鱼、尼罗罗非鱼和齐氏罗非鱼种群在体长、体质量分布均呈现近正态分布,年龄分布为1龄和2龄为主要阶段。形态学及框型图数据分析比较,此三种罗非鱼在 TL/BL、BL/BD、BL/BW、HL/IW、BL/DL、BL/AL 之间均存在显著差异(P<0.05),而奥利亚罗非鱼和尼罗罗非鱼在H/SNL、BL/SNL、BL/IW上存在显著差异(P<0.05),库区三种罗非鱼种群之间在形态上的差异主要集中在头部、腹部和尾部。综合判别准确率为75.73%,其中,奥利亚罗非鱼种群为87.37%,尼罗罗非鱼种群为66.67%,齐氏罗非鱼种群为76.67%。通过传统形态学测定和框架法测定相结合,采用多元分析方法,比较库区三种罗非鱼的形态差异,可量性状和框架数据的聚类分析...

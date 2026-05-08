@@ -1,4 +1,0 @@
-SOURCE_TITLE: Cross-sectional assessment of Angiostrongylus cantonensis transmission risk mediated by invasive apple snails in Jiangsu province of China.
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oYc-J6FpCdPxD7W2Ezknf-v_zeyDV4UD6FibF0cT5SHFfBBZH3N6ZYxXS-J3Ujo0fErL4Qk70dcd5fIHdBEHCGBDYGDjKkzhRy-c_jQd-KtQ7X7xSksT_rIe6zXQZmYG6K4qglld06C-Pbjt-2K7ODHSsPrq15Wojs8V1AaNHpMBAzTcHwiigl0F4juoP17IcN5OC24UFKdw==&uniplatform=NZKPT&language=CHS
-
-BACKGROUND(#br) Angiostrongylus cantonensis, a zoonotic nematode responsible for eosinophilic meningitis, is acquired in China principally through ingestion of raw or under-cooked invasive apple snails-the vector implicated in almost all Chinese outbreaks to date. Despite the widespread distribution of these snails in Jiangsu Province of China, systematic assessments of infection risks and public awareness remain limited. (#br)METHODOLOGY/PRINCIPLE FIN...

@@ -1,4 +1,0 @@
-SOURCE_TITLE: Disappearing apple snails (Caenogastropoda: Ampullariidae) of Thailand: a comprehensive update of their taxonomic status and distribution
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rVhIlzHggoUqQxvkN0D2pN5avAtyiQbtxB_9VRoFLg1tRthJ7htnrh5HMAzIzIj5EY-MEKd3MEYMEHKBWThrg5sseNg1oRJoqBXHMY9UlmO-hrOq_GTfNMU3tPsFGJRZcxxss1WvZY_3c8gyHWNA7kQV4DKs6SUpG2gy0u4ENjAcZGClzLKR116ePjccQJAvHjRmd4NYYEfw==&uniplatform=NZKPT&language=CHS
-
-Ampullariidae include the largest of all freshwater snails and are of ecological, evolutionary and anthropogenic importance in Southeast Asia (SEA). Native ampullariids belonging to the genus Pila face various threats but are understudied, with their species taxonomy being confused and data on their distributions being scarce. We provide a comprehensive update on the nomenclature, status and distribution of Pila species in Thailand, based on DNA barcod...

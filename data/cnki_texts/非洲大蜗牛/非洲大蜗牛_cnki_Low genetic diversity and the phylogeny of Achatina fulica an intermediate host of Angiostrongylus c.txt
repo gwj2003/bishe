@@ -1,4 +1,0 @@
-SOURCE_TITLE: Low genetic diversity and the phylogeny of Achatina fulica, an intermediate host of Angiostrongylus cantonensis in Thailand, inferred from 16S mitochondrial sequences
-URL: https://kns.cnki.net/kcms2/article/abstract?v=iO0L29morZmPSght90jw86e5tP3gohlevdHeK5I21f6LeRyl3BzW-I3JTSnVBYXwFQEnLrqC3IfUBCOJer7TyqBmh97VtvnRilvHgN5LQdKbK-lrTsm8kQuuLHUdTGiA7hcMgr5Xta9Ah_a6GGO0gbmswksmX3aWp7ZqyOsDa6f6upfnZsubZwaOzjPZ6mIJ6eNlWjnx_xEwkrxWxdTZsw==&uniplatform=NZKPT&language=CHS
-
-巨大的非洲陆地蜗牛Achatina fulica是Achatinidae科的一只斑马鱼。该螺原产于东非,已扩散到世界不同地区的热带和亚热带地区。富丽隐睾吸虫( Achatina fulica )是一种重要的农业害虫,也是Angiostrongylus spp .的中间宿主,尤其是广州管圆线虫( Angiostrongylus cantonensis ),引起人类嗜酸性脑膜脑炎。然而,关于泰国黄花蒿种群间的遗传多样性和系统发育关系的资料有限。本研究的目的是评价泰国和世界其他地区油桐种群的遗传多样性和单倍型网络关系。我们从泰国6个地区的22个省份采集了一株富丽蚜茧蜂,根据16S rRNA序列的239个碱基对片段,分析了其系统发育树和单倍型网络。133个A . fulica 16S rRNA序列的最大似然法、邻接法和贝叶斯推理树显示,在泰国所有地区,仅有一组与A . fulica单倍型C密切相关。单倍型网络分析显示,单倍型C与F、P、E、Q、H、D相关。单倍型与泰国A . fulica分离株的遗传距离在0...

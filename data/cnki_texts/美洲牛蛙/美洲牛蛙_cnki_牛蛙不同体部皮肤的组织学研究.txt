@@ -1,4 +1,0 @@
-SOURCE_TITLE: 牛蛙不同体部皮肤的组织学研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1otSsnjnQ3Ky_m2e41foM0jDrjaJNuG_n7RoY58WKEdm1EYe2wFFqfnrD3aGgnjOnd9qMsjFGgfnpQBRZQJSEmy036LuKbeofvU30XTFIa5pXydUHLIsuMfUOMc_XLYS1Ny5uZxZXodRwJeifg3CaBsJ6l5b9Rfo_ihr-Av1PiF6Q==&uniplatform=NZKPT&language=CHS
-
-通过制作石蜡切片,并利用苏木精—伊红染色法进行染色,对牛蛙不同部位的皮肤进行组织学观察;利用图像处理软件Image J 4.21测量皮肤厚度,运用SPSS 17.0软件对不同部位的皮肤厚度进行单因素方差分析。镜下观察组织切片可见,牛蛙的皮肤分为表皮和真皮,表皮由外向内可分为3层:角质层、颗粒层和生发层,真皮由疏松层和致密层组成。疏松层主要由网状结缔组织构成,也包括一些色素、颗粒腺和黏液腺。色素主要分布于表皮下的结缔组织中,颗粒腺和黏液腺的间隙的结缔组织中也有少量色素。鼓膜皮肤厚度显著小于其他部位皮肤厚度(P<0.05),前肢、后肢、泄殖孔的皮肤厚度差异不显著(P>0.05)。不同部位皮肤分布的色素细胞、颗粒腺、黏液腺数量也不同,内侧的黏液腺多于外部,而颗粒腺在表皮分布多,在深层分布少。

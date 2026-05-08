@@ -1,5 +1,0 @@
-SOURCE_TITLE: Characterizations of Gelatin from the Skin of American Bullfrog (
-Rana catesbeiana) as Affected by Extraction Temperature
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pxpGWp5IJYYHYaQDt8WhzRrddYtHwwwMMh1rdTs7SQgv2bhEB0IE_dwH1unhbhK_HQi3EIxKHEvbr995KNjIUbsjfdJgPowCRivYejMU9mMVbdDmsw0NEXEvDKYe9V5d8phGaOJPghJL95DoN0IWKiwo2rOT9djPcxy4JARwRwJPLPn659pJK_D-eGlMdQBAoR3yLGmv4keQ==&uniplatform=NZKPT&language=CHS
-
-We investigated the effect of extraction temperature on the gel properties of gelatin from the skin of the American bullfrog (Rana catesbeiana) and the mechanisms. The textural and rheological properties of bullfrog gelatin extracted at 45 °C (G45), 55 °C (G55), and 65 °C (G65) were measured. The molecular weight distributions, microstructures, and amino acid compositions of the bullfrog gelatins were also determined. G45, G55, and G65 had gel strength...

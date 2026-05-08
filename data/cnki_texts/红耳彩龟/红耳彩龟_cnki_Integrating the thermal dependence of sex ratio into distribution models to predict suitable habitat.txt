@@ -1,4 +1,0 @@
-SOURCE_TITLE: Integrating the thermal dependence of sex ratio into distribution models to predict suitable habitats for the invasive freshwater pond slider turtle, Trachemys scripta
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oUUhAFmkG41SkUxeo5m43xYjLCdpfSZc-54Z0YWZVrQ-c2JSfb6ZbmPUCxxjZoI831_fOJ09LvYnoevkvKqWVerPZFOVUeKLsoxYx_SPAifQJ4__MQM81AeOoDBZrcFNJbuVT0kBgttoOHEJkzOAKfqnglOE0zjwhw3N-LvrCusQU3Hv-YZQUqbyDnCNAyu0BJAVmEtjNoqA==&uniplatform=NZKPT&language=CHS
-
-Biological invasions represent one of the main anthropogenic drivers of global change with a substantial impact on biodiversity. Traditional studies predict invasion risk based on the correlation between species’ distribution and environmental factors, with little attention to the potential contribution of physiological factors. In this study, we incorporated temperature-dependent sex determination (TSD) and sex-ratio data into species distribution mod...

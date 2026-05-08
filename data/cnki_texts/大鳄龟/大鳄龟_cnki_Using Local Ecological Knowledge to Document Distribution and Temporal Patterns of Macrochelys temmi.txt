@@ -1,4 +1,0 @@
-SOURCE_TITLE: Using Local Ecological Knowledge to Document Distribution and Temporal Patterns of Macrochelys temminckii in Texas
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1os1ywlisXWm9b0Wwg73P_YUd16NBC_hTU1KZR2sJ02uEWYhc5piwHUHty_aeLv4V-SNtX_z_SRmmOE8_Oi7didQ2SsPbl0B3WQGhskO0Hl5rTDGva9V7KpVRhTKpIWdb6xgpnjQU-nxase_orcRbgPJ3UB74ErMvnAXX6wOt6fBXIIPSt8Q96nqy0Ue-ac9r7B-in6m4ovmA==&uniplatform=NZKPT&language=CHS
-
-Long-term studies on long-lived species are rare, as is the case for the Alligator Snapping Turtle (Macrochelys temminckii). Here, we developed a database of historical accounts drawing spatial and temporal data from local ecological knowledge (LEK) and non-LEK sources. Across all sources, we compiled 215 spatial and 263 temporal records. To test applicability of LEK, we conducted field surveys at sites selected based on LEK accounts, non-LEK accounts,...

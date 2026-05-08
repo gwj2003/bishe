@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-读取 data/triplets/china_distribution_points.csv，使用 geopy / Nominatim
+读取 data/points/china_distribution_points.csv，使用 geopy / Nominatim
 对每条地点记录进行地理编码，输出经纬度及拆分后的行政信息。
 
 默认会进行 1 秒限速，并对同一地点做本地缓存，避免重复请求。
@@ -16,8 +16,8 @@ from geopy.exc import GeocoderServiceError, GeocoderTimedOut
 from geopy.geocoders import Nominatim
 
 
-INPUT_FILE = Path('data/triplets/china_distribution_points.csv')
-OUTPUT_FILE = Path('data/point/china_distribution_points_geocoded.csv')
+INPUT_FILE = Path('data/points/china_distribution_points.csv')
+OUTPUT_FILE = Path('data/points/china_distribution_points_geocoded.csv')
 
 
 class ChinaPointGeocoder:

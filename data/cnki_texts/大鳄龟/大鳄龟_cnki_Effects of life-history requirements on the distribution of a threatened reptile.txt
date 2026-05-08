@@ -1,4 +1,0 @@
-SOURCE_TITLE: Effects of life-history requirements on the distribution of a threatened reptile.
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qaVSPFRtxSdKj9JbvNxFC-Qj6et-pUZSJNhepRnVC7hIbk8SRHMT7eWe0yH9Puc8LyUmTmogW4aZh_L14WUcd2DfVyiFJ-J12DtVYoE16bVB_mFw_48LAi4z50oQ2FpvOy0xve1UfhUzyabagapp-SgKxRbqf-wHMhFnrLiZEELo4HKPJBwcAT6wlw8HGKYWm0mchreJZqqg==&uniplatform=NZKPT&language=CHS
-
-Survival and reproduction are the two primary life-history traits essential for species' persistence; however, the environmental conditions that support each of these traits may not be the same. Despite this, reproductive requirements are seldom considered when estimating species' potential distributions. We sought to examine potentially limiting environmental factors influencing the distribution of an oviparous reptile of conservation concern with res...

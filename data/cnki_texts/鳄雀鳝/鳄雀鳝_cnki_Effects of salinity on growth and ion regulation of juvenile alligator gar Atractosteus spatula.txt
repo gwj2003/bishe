@@ -1,4 +1,0 @@
-SOURCE_TITLE: Effects of salinity on growth and ion regulation of juvenile alligator gar Atractosteus spatula
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1q3NGq5Ixl9Os57oPgUXY39EswqqpMwihIfNc4d7MmUb6h0QMvjWpTyIlefzUu2AUuAMxRsdEemtYS5-oVSPqXlrsapt8GxLz4xgDJWFhr4ggA1W49oix11ui7mnreyL2lSGUw20HQbKn3hu0frHOaBHZg7lgu799YMJWMMh2fEEA==&uniplatform=NZKPT&language=CHS
-
-Abstract(#br)The alligator gar ( Atractosteus spatula ) is a primitive euryhaline fish, found primarily in estuaries and freshwater drainages associated with the northern Gulf of Mexico. The extent of its hypo-osmotic regulatory abilities is not well understood. In order to determine how salinity affects growth rates and ionic and osmoregulation, juvenile alligator gar (330<ce:hsp sp="0.25"/>days after hatch; 185<ce:hsp sp="0.25"/&...

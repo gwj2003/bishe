@@ -1,4 +1,0 @@
-SOURCE_TITLE: 低温对红耳龟血液指标及植物血凝素反应的影响
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oNrhNGVP1DsVT0J5t1K264rzTxtzrNgcTZJ_cweitrYrUmb06VIYkBCWehc4c5YRZeY4RMejjGfCjnyci6caAJcF8i9wrMJVa15gVhidPOADtRrEUx01Mi6ovsPre7Am38NPhsQSdwn1j6KRoZE5gQeNhEEjeI40P8IP-xsWatgQ==&uniplatform=NZKPT&language=CHS
-
-探究低温对红耳龟（Trachemys scripta elegans）免疫功能和应激反应能力的影响，揭示红耳龟适应低温环境的生理学和免疫学基础，为深入了解其入侵生物学提供基础资料。采用活体背甲下静脉窦采血技术，测定了6℃、17℃和26℃条件下处理1、5和10 d时血液中各型白细胞百分比及嗜异性粒细胞与淋巴细胞的比值（ratio of heterophils to lymphocytes,H/L），以及第10天采血后植物血凝素（phytohemagglutinin-P,PHA-P）反应的变化。结果显示：（1）随着温度下降，第1天只有嗜碱性粒细胞的百分比显著升高（P<0.05），此差异在第5天和第10天消失（P>0.05）；第5天，嗜酸性粒细胞的百分比和H/L先升后降，淋巴细胞的百分比先降后升，单核细胞的百分比下降（P<0.05）；第10天，嗜酸性粒细胞的百分比上升，淋巴细胞、嗜异性粒细胞和单核细胞的百分比，以及H/L下降（P<0.05）;(2)随着处理天数延长，除嗜碱性粒细胞的百分比无组内差异外（P>0.05），其他类型白细胞的百分比及H/L都有组内差异（P...

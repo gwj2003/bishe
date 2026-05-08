@@ -1,4 +1,0 @@
-SOURCE_TITLE: 3种植物提取物对福寿螺毒杀效果比较研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rmr3YBz-b_Nz08zKDRr6NJtLWJ7Z4GfiEL7wEVT4M2dgFstvOLskmNofARKQwhkOuksTIzzgPpecIaYGc-c5YdvhRzczE3wskpvzoO0fYeFpeRhC8F3gc1UzkLZsUsTis30bQ-IA5MLxAQRkK8iTbdfoAnLZrmhbmqmgC4O9r2Gw==&uniplatform=NZKPT&language=CHS
-
-为探究马利筋（Asclepias curassavica L.）、垂序商陆（Phytolacca acinosa R.）和水毒芹（Cicuta virosa L.）提取物对福寿螺（Pomacea canaliculata）的毒杀活性、生理损伤及环境毒性效应,通过浸杀法系统评估其在不同剂量和处理时间下的毒杀效果,并检测肝脏关键生理指标变化及水质残毒.结果表明, 3种植物提取物均呈现剂量-时间依赖性毒杀效果,其中,马利筋毒力最强（48 h亚致死浓度LC50为0.270mL/L）,是垂序商陆（0.819 mL/L）的3.03倍、水毒芹（1.071 mL/L）的3.97倍.福寿螺肝脏生理指标检测显示,马利筋和水毒芹诱导的毒性损伤最显著,总蛋白、丙二醛、过氧化氢酶等反映机体健康状态的物质含量下降,乙酰胆碱酯酶、谷胱甘肽S-转移酶、丙氨酸氨基转移酶等与肝脏的解毒功能密切相关的酶活性上升.水质残毒结果显示,马利筋对发光菌抑制率最高(LC75浓度下达到75%),垂序商陆的生态风险最低(LC75浓度下抑制率为56%).与传统化学杀螺剂相比,马利筋和垂序商陆提取...

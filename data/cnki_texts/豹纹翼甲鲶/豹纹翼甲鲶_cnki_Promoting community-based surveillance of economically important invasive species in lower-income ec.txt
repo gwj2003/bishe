@@ -1,4 +1,0 @@
-SOURCE_TITLE: Promoting community-based surveillance of economically important invasive species in lower-income economies: a case study of the suckermouth catfish (Pterygoplichthys pardalis) in Bangladesh
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rUb0qURSzAzXQqyMZrCMHWQ4BGyAN0JJIFLwMKty7mChjvyGN7p_pZDHzLEEMj3w8RqnYxutaOciPPIfh7NZ6bWcEv2qo-3azTGq3NixVGHyU92JoKBv9J8Fn2vrGZBscCc5P7YmrKoPnzhN-cTZRFkWe0cRdV4SziU15T9d2mUPmc3nHjAN8Xw4_1QIisH9RflVpsn6B9Jg==&uniplatform=NZKPT&language=CHS
-
-The distribution of invasive species in lower-income economies is relatively poorly understood, and many countries do not actively curate a list of species invasions or have programs to monitor or mitigate the effects of non-native species within their borders. Methods leveraging new technologies and expanding access to the internet may offer the opportunity to support low-cost and large-scale monitoring efforts. Here, we demonstrate how the use of onl...

@@ -1,4 +1,0 @@
-SOURCE_TITLE: 气候变化下中国罗非鱼潜在入侵区预测
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oy_J3d9_iG5rmlIZhJDxaGQuAMFCR6B1zFugiP4kQCMxHIhbPxECNQfrmZrjVCwxAVxHmSJfNFhL8iEhbAS-mxx-ZovyEexN3LQpV5Z0-JowcUMwSbEKZL0vMMP9bSUHGRZGf3-BV_uskIS4OgsKAVCfVzVE3UdnPGfBO7JSiOBA==&uniplatform=NZKPT&language=CHS
-
-罗非鱼作为中国引入的重要经济鱼类，具有较强的环境适应和资源利用能力。其入侵潜力对本土生态系统造成了严重负面影响，而未来气候变化的不确定性进一步增加了罗非鱼入侵防治工作的复杂性。选取中国华南地区广泛分布的3种罗非鱼-尼罗罗非鱼(Oreochromis niloticus)、莫桑比克罗非鱼(O. mossambicus)及齐氏罗非鱼(Coptodon zillii)，结合MaxEnt模型与CMIP6气候模型数据，对3种时间跨度(当前、2041—2060年、2081—2100年)和4种情景(SSP126、SSP245、SSP370、SSP585)下罗非鱼的潜在入侵区域进行了预测。结果表明：1)广东和广西是罗非鱼入侵治理的重点区域；2)未来罗非鱼潜在高风险入侵区面积有增加的趋势；3)罗非鱼潜在高风险入侵区有向高纬度迁移的趋势；4)冬季温度和降水的协同作用是导致罗非鱼高风险入侵区面积扩增的主要环境驱动因素。

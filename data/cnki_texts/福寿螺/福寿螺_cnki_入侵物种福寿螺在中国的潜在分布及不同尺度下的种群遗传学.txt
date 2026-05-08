@@ -1,4 +1,0 @@
-SOURCE_TITLE: 入侵物种福寿螺在中国的潜在分布及不同尺度下的种群遗传学
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1oP2n6ql_dIhNDv0npdFxHGQw3II0EpM9EYBF0ixCl8Dg6dpkLSzFPaWZD-ESGkXAr_Wn6N9TtKBu8-o6W0WJyR4yBqFOYdVIiW0OUeah__5lfxK5FLSkzZE0AIVN34XDiuwWFgjJnKu5Ms8ZcQYI-81uYRYprX3FWizokYQTz4hBjV9IR2SNvs&uniplatform=NZKPT&language=CHS
-
-福寿螺(Pomacea spp.)原产于南美洲和中美洲,其中Pomacea canaliculata被列为全球100种恶性外来入侵物种之一,广泛分布于欧洲、北美洲及亚洲等地,给入侵地区的生态系统和农业生产带来成巨大的危害。本研究收集了福寿螺分布数据和世界气候环境变量数据,应用Maxent模型预测了福寿螺在中国的潜在分布区及扩散趋势;通过野外调查,利用线粒体COI和16S rRNA分子标记分析江西省福寿螺种群的遗传多样性和遗传结构,同时利用已有的福寿螺线粒体COI序列数据,进一步分析全球尺度下不同国家福寿螺的遗传多样性水平,阐明其遗传分布格局。以期为构建福寿螺风险预警和科学防治提供基础资料。主要结果如下:1.基于6个环境变量和683条分布数据,预测了福寿螺在中国的潜在分布,结果显示,适宜福寿螺生存的潜在分布区主要位于南方大部分地区,其中浙江、福建、江西、广东、广西、海南和台湾等省为高分布区,其危害十分严重;而上海、湖北、湖南、四川、贵州、西藏、云南和重庆虽为中分布区,但也具有较高的潜在暴发风险。2.Maxent模型预测中刀切法分析显示,影响福寿螺分布的主要环境变量是年均温,贡献率为25.7...

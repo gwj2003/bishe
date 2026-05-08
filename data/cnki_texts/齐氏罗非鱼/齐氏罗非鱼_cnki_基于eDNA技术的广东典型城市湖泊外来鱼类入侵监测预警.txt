@@ -1,4 +1,0 @@
-SOURCE_TITLE: 基于eDNA技术的广东典型城市湖泊外来鱼类入侵监测预警
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1qXfrXMddhsOaHnd5rpUlWeWckzpjGHFeO6GsQOlCSILiTpaiXkefdSUgK51zIKT8fKqIN3mjuJrEOCz2Y0tjC81OZwFnFQ8zn1-3ayc4gFwL3EPOqXHbeGUfgXrWDCLHE9EIAPFmbCjjuZBTEu5S3bBMX8t65e1Av9dh9-YlBR8Q==&uniplatform=NZKPT&language=CHS
-
-为探究eDNA技术在城市湖泊外来鱼类入侵预警中的应用潜力，本研究选取了受外来鱼类影响较严重的肇庆星湖、佛山顺峰山湖区和广州东山湖珠三角地区三个典型湖泊，分别于2023年3月和2024年11月对星湖、顺峰山湖区和东山湖进行了采样，运用eDNA宏条形码技术对其外来鱼类入侵现状进行监测、预警及效果评估。结果表明：在三个湖泊中共检测到59个鱼类分类单元，其中外来鱼类13种；具体分布为星湖7种、顺峰山湖区8种、东山湖10种；外来鱼类在星湖、顺峰山湖区和东山湖的相对丰度分别为44.45%、47.19%和35.58%；齐氏罗非鱼（Coptodon zillii）、尼罗罗非鱼（Oreochromis niloticus）和豹纹翼甲鲇（Pterygoplichthys pardalis）在三个湖泊中具有较高的总相对丰度，分别为14.01%、14.05%和6.64%，并在部分采样点成为优势物种；星湖的外来鱼类相对序列丰度与传统方法获得的相对丰度和相对生物量呈显著正相关（相关系数分别为0.89和0.91，P<0.01），表明eDNA技术在定量检测外来鱼类分布方面具有较高的可靠性。本研究为城市湖泊外来鱼...

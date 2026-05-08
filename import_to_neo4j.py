@@ -10,7 +10,7 @@ NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "12345sss"  # 👈 记得确认密码
 
 # CSV 数据目录
-DATA_DIR = "data/triplets"
+DATA_DIR = "data/triplets/cleaned"
 
 # ================= 2. 核心逻辑：标签与关系映射 =================
 # 新版图谱统一使用英文标签，并区分空间层级、生态对象和防治措施。

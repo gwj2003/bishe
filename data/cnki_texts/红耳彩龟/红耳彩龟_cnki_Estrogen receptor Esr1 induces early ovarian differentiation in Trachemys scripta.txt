@@ -1,4 +1,0 @@
-SOURCE_TITLE: [Estrogen receptor Esr1 induces early ovarian differentiation in Trachemys scripta].
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r_7PQ3pB7uhxlJCmekfwZuqoC7mSEf87lkoiBdBW-XfqDOsGxpdyE4nFJhgaCD1jYrAE-oA8X2FyfSAwcDHz4fQZAMWdLkzmk8svbgfRRv4K689feeyNC1TmyIae1Osy8EPp13czorkqtHDyy9AFQCctI1zWqh2YJgOeUM8ifojQrcOdBw8-okBg7R9QXtoK_O3FQAjpwCzQ==&uniplatform=NZKPT&language=CHS
-
-This study aims to explore the roles of three estrogen receptors (Esr1, Esr2, and Gper1) in early differentiation of embryonic gonads of Trachemys scripta. The expression characteristics of the receptor genes were studied first. The Esr1, Esr2, and Gper1 agonists PPT, WAY 200070, and G-1 were respectively injected into the embryos at the male-producing temperature (MPT) before initiation of gonadal differentiation. The sex reversal of the treated embry...

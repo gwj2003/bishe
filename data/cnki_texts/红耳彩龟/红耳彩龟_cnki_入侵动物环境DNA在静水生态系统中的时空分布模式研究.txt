@@ -1,4 +1,0 @@
-SOURCE_TITLE: 入侵动物环境DNA在静水生态系统中的时空分布模式研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pn6ovdMW3o4w6dbFuPrJrBAIf82zN9994iXMYVZ1t2P6MI-ULGVVpWFNyrJusWj-wmPH_Tl9MnrQL8hit4-3sJxKF7Tb83fMQcRk-OT0kzX6NnavY2fkZGCaPOBjkLldFN73vWYjgtpt0kFJdBPPH9jx_GRJSo7jTbJJddxPv_RJSsEMJMjTAA&uniplatform=NZKPT&language=CHS
-
-外来物种入侵是导致生物多样性丧失的主要因素之一,高效的监测和管理方法是降低其危害的关键。环境DNA (environmental DNA, eDNA)作为一种新兴的监测技术手段已成功应用于外来入侵物种早期监测、防控和管理。探究eDNA的产生、扩散、沉降和降解等"生态"过程,了解环境因素对其eDNA分布和存续的影响,对制定有效的采样策略和对监测结果作出合理解释至关重要。本研究以牛蛙和红耳龟两种全球性外来入侵物种为目标生物,采用精细尺度的时空采样设计,探究牛蛙和红耳龟eDNA在静水生态系统中的时空分布模式。我们模拟自然条件下物种分布特征,在池塘一侧放置装有牛蛙的笼子,并在同侧靠近岸边3 m处的水面放置装有红耳龟的笼子,以此作为eDNA释放区,每隔7天进行精细尺度的水体和底泥采样,在28天采样结束后移除所有目标生物,并以相同方法继续进行采集两次eDNA样本。结果显示:(1)牛蛙eDNA检出率和检出浓度均显著大于红耳龟;(2) eDNA在静水中的扩散距离有限,牛蛙eDNA在9 m内具有较高检出率,红耳龟eDNA仅在3 m内有较高检出率;(3)随着生物放置时间的延长,牛蛙eDNA检出率和扩散距离逐...

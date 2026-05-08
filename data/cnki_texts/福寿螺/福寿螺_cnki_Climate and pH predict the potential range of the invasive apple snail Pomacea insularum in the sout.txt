@@ -1,4 +1,0 @@
-SOURCE_TITLE: Climate and pH predict the potential range of the invasive apple snail (Pomacea insularum) in the southeastern United States.
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1p6cr42VvrS8I2d_2EPCs7d29qksIzIJTtBrX8jpJZEe9WyG-4Pf66cZigLA8_Rv99hhXVtRDnCDMG8Hpo8oiOJE1MGoOaByTprzARHSTqhWAIDvECG7s9FXrwKID9Akmoi3qjSphlbCJQmRfCVqMXox8IWLfHKLG6B6h36QxAmm191o-rRRZ16Wp5holpJ2H6VqohLg4JK6A==&uniplatform=NZKPT&language=CHS
-
-Predicting the potential range of invasive species is essential for risk assessment, monitoring, and management, and it can also inform us about a species' overall potential invasiveness. However, modeling the distribution of invasive species that have not reached their equilibrium distribution can be problematic for many predictive approaches. We apply the modeling approach of maximum entropy (MaxEnt) that is effective with incomplete, presence-only d...

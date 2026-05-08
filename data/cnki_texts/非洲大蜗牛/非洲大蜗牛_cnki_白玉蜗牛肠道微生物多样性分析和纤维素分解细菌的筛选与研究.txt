@@ -1,4 +1,0 @@
-SOURCE_TITLE: 白玉蜗牛肠道微生物多样性分析和纤维素分解细菌的筛选与研究
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1rTA3bUPANXi_CaOHWcTtiFc15dA9b2NP-f6CNoH9bQpFxl7xT7491_9GqlEOTgpHZ5mYx8fR5PS1tDMz-lorVA9fcyRx2bj-MJdtspZPhb1N0C5PorNN2RFzivdbimRiQ_VxnRnrOngArOqsqqVX2zRw44SOp_0cmZOgXaGrrcoQi9dMS9TKR6&uniplatform=NZKPT&language=CHS
-
-中华白玉蜗牛(Achatina fulica"white")是中国培育出的可食用大蜗牛,是褐云玛瑙蜗牛白化亚种。白玉蜗牛与其近亲非洲大蜗牛都显示出高效利用纤维素的生物特性。这与其肠道中所定植的微生物有密切的联系。但是对蜗牛这类软体动物肠道微生物多样性的研究鲜有报道。因此本研究先对蜗牛的嗉囊、食道、直肠及后肠中定植的微生物进行16Sr RNA测序,了解其特征。再用含有CMC-Na的选择性培养基,筛选出纤维素分解菌,研究其产酶特性。主要研究结果如下: 1.通过对白玉蜗牛的嗉囊、食道、直肠及后肠定植微生物进行16Sr RNA测序和分析,结果表明,微生物的分布上存在着显著的空间异质性。从前向后出微生物丰度以及种群数量不断增加。在门水平上整个肠道优势菌群为:变形杆菌门、蓝藻门、拟杆菌门以及软壁菌门。每个部位上,门水平嗉囊中酸杆菌门与纤维杆菌门占比最高。食道中优势菌株为放线菌门、酸杆菌门。直肠中占比最高的是纤维杆菌门,酸杆菌门。在后肠中梭杆菌门占主导地位,其次是纤维杆菌门。显示出蜗牛肠道微生物强大的纤维素分解能力。 2.以CMC-Na作为唯一碳源的培养基从蜗牛肠道的四个部位中筛选出十株可以分解纤维素...

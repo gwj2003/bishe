@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 将以下两个文件合并为一个新文件：
-1) data/point/china_distribution_points_geocoded.csv
-2) data/point/gbif_species_merged_admin_levels.csv
+1) data/points/china_distribution_points_geocoded.csv
+2) data/points/gbif_species_merged_admin_levels.csv
 
 处理规则：
 - china 文件删除 admin_chain、geocode_query、province、city、district、street 列
@@ -20,10 +20,10 @@ from shapely.geometry import MultiPolygon, Point, Polygon
 from shapely.strtree import STRtree
 
 
-CHINA_INPUT = Path('data/point/china_distribution_points_geocoded.csv')
-GBIF_INPUT = Path('data/point/gbif_species_merged_admin_levels.csv')
+CHINA_INPUT = Path('data/points/china_distribution_points_geocoded.csv')
+GBIF_INPUT = Path('data/points/gbif_species_merged_admin_levels.csv')
 ADMIN_CSV = Path('data/admin_shapefiles/AreaCity_ok_geo/ok_geo.csv')
-OUTPUT_FILE = Path('data/point/china_gbif_merged_admin_levels.csv')
+OUTPUT_FILE = Path('data/points/china_gbif_merged_admin_levels.csv')
 
 
 def normalize_text(text) -> str:

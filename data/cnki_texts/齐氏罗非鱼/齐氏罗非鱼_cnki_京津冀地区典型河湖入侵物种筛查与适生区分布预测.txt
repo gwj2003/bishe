@@ -1,4 +1,0 @@
-SOURCE_TITLE: 京津冀地区典型河湖入侵物种筛查与适生区分布预测
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1pOHUUeIvyow5Q07OF2fUks3dFr2RJyLh8ZDvTMBZql2WALDoZEqzjbhRK7wWvU4TFJ6aHToxmTPkckMGHgYn6J2u5ffLslf5L6flBLjfuKRBJPZYLGT33e8AVZ5HD3vXK18NCXRtmi-SDHodMhKGO0aMvwqX21C8URsfy_bZ5nYqa_8TnWc7y6&uniplatform=NZKPT&language=CHS
-
-入侵物种指通过人类活动被引入到非原生地的物种,它们在新环境中缺乏自然天敌,能够迅速繁殖和扩散,对当地生态系统、经济或人类健康造成负面影响。京津冀地区是我国重要的经济发展区,前人文献报道多有入侵水生生物出现。本研究基于环境DNA技术,以京津冀地区典型河湖(永定河、北运河和白洋淀)作为研究对象,针对鱼类和大型底栖无脊椎动物群落筛查了区域入侵物种,探究了其群落分布特征,并且通过水质与高入侵风险物种相关性分析和生态位理论解析了高入侵风险物种的扩散性等。同时,对入侵物种进行了潜在适生区预测和生态位动态分析。主要研究内容及结果如下: (1)基于环境DNA技术在永定河、北运河和白洋淀区域共检测到鱼类60种,为9目21科43属;大型底栖无脊椎动物共141种,为5门9纲25目45科103属。其中高入侵风险物种6种,包括齐氏罗非鱼(Coptodon zillii)、白斑狗鱼(Esox lucius)、太湖新银鱼(Neosalanx taihuensis)、斑点叉尾鮰(Ictalurus punctatus)和西太公鱼(Hypomesus nipponensis);鱼类高入侵风险物种5种,大型底栖无脊椎动物高...

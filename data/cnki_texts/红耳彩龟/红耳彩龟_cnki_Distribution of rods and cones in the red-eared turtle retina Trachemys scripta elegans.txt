@@ -1,4 +1,0 @@
-SOURCE_TITLE: Distribution of rods and cones in the red-eared turtle retina (Trachemys scripta elegans).
-URL: https://kns.cnki.net/kcms2/article/abstract?v=tdDAU2ZCd1r2J8Kz92c7xh0DvDnkRFAxq_NzC8YkgyYyIMquJZgN5jNJFUTJr7H6IxgrGwmK5rTtYem-ZK6euen2Sm31XsuVoqQw2CpgN4f0MoR5QEQUnjo3u2frCz1AH7NHOkONL_gaxRdBdFK5LscK9dOonBPVNBWnF69hBnvjGb5pbS9T4lcFRXfL953Qdy7mOux3_tubFnYh_jhIFA==&uniplatform=NZKPT&language=CHS
-
-We have identified the photoreceptors of Trachemys scripta elegans, an intensely studied species that is a model for color vision work. To recognize and count the different photoreceptor types, we labeled them with a combination of morphological and immunohistochemistry markers. The counts for the determination of the density of each photoreceptor type were made in wholemount retinas. The percentages found for each cone type were 29, 23, 21, 12, and 6%...

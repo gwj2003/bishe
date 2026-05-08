@@ -1,4 +1,0 @@
-SOURCE_TITLE: How Will the Distributions of Native and Invasive Species Be Affected by Climate Change? Insights from Giant South American Land Snails
-URL: https://kns.cnki.net/kcms2/article/abstract?v=iO0L29morZm0Mj0FERE0sQrqyDQV-pyUYX11DtEW6-am8QL2C_1zrk3K66NnW8IKET-_mZwNyrOLMPHxQzWXTR7pF2z6JuOtfoyRsNCVWZ_R0sEHXO9n8jfytzkFdUjZqh8Scri9sH1A_52KZu7f9XvtLUoCcuB9oRmEibhnawyO8Q3kT0wpfxt6NI66uFIHVXb3Uqi_APnrRb9QAl2whA==&uniplatform=NZKPT&language=CHS
-
-Climate change and invasive species are critical factors affecting native land snail diversity. In South America, the introduced Giant African Snail (Lissachatina fulica) has spread significantly in recent decades into the habitat of the threatened native giant snails of the genus Megalobulimus. We applied species distribution modeling (SDM), using the maximum entropy method (Maxent) and environmental niche analysis, to understand the ecological relati...
