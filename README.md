@@ -137,15 +137,16 @@ python .\part3分布点数据处理\合并点位并重建行政区字段.py
 
 - `data/gbif_results/gbif_species_merged_compact.csv`
 - `data/points/gbif_species_merged_admin_levels.csv`
+
+说明：该脚本会使用本地行政边界文件 `data/admin_shapefiles/AreaCity_ok_geo/ok_geo.csv` 为 GBIF 点位打上省/市/区等行政信息，输出到 `data/points/gbif_species_merged_admin_levels.csv`。如果找不到行政边界文件，脚本会报错并提示缺失。
+
 - `data/point/china_gbif_merged_admin_levels.csv`
 
-在第 9 步和第 10 步之间可选运行：
+在第 9 步和第 10 步之间运行：
 
 ```powershell
 python .\清洗并合并triplets.py
 ```
-
-说明：该脚本会使用本地行政边界文件 `data/admin_shapefiles/AreaCity_ok_geo/ok_geo.csv` 为 GBIF 点位打上省/市/区等行政信息，输出到 `data/points/gbif_species_merged_admin_levels.csv`。如果找不到行政边界文件，脚本会报错并提示缺失。
 
 ### 10. 导入 Neo4j
 
